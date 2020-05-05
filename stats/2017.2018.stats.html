@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      var table = {
+        months   : ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'],
+        dist2017 : [  474,   452,   491,   869,   741,   808,  1240,  1164,  1069,   452,   337,   401],
+        dist2018 : [  431,   247,   265,  1060,  1005,  1272,   806,   862,   913,   811,   618,   462],
+        time2017 : [53.68, 33.17, 38.10, 50.57, 43.25, 36.27, 54.80, 76.27, 49.85, 37.43, 32.30, 49.35],
+        time2018 : [31.60, 27.25, 34.35, 60.40, 59.98, 71.17, 50.48, 49.25, 59.33, 54.75, 43.53, 44.03]
+      };
+
+      $.each(table, function(row, obj) {
+        if (row != "months") {
+          $.each(obj, function(key, val) {
+            if (key > 0) obj[key] = obj[key-1] + val;
+          });
+        }
+      });
+
+      $(function () {
+        $("#container").highcharts({
+          chart: {
+             zoomType: 'xy',
+             style: {fontFamily: 'arial, helvetica, sans-serif'}
+          },
+          title: {text: '2017 and 2018 compared'},
+          subtitle: {text: 'source: <a href="http://www.strava.com/athletes/strahm">strava.com</a>', y: 35},
+          xAxis: {
+            categories: table.months
+          },
+          yAxis: [
+            { // first yAxis (0 - distance)
+              labels: {format: '{value} km'},
+              min: 0,
+              title: {text: null}
+            }, { // second yAxis (1 - hours)
+              labels: {format: '{value} h'},
+              min: 0,
+              title: {text: null},
+              opposite: true
+            }
+          ],
+          legend: {
+            layout: 'vertical',
+            backgroundColor: '#fff',
+            align: 'left',
+            verticalAlign: 'top',
+            x: 70,
+            y: 60,
+            floating: true,
+            shadow: true
+          },
+          tooltip: {
+            formatter: function() {
+              var unit = {
+                '2017 km': ' km',
+                '2018 km': ' km',
+                '2017 time': ' hours',
+                '2018 time': ' hours'
+              }[this.series.name];
+              return this.x + ': ' + ((unit==' hours') ? this.y.toFixed(2) : this.y) + unit;
+            }
+          },
+          plotOptions: {
+            spline: {lineWidth: 2}
+          },
+          series: [
+            {
+              name: '2017 km',
+              type: 'column',
+              color: '#bbb',
+              index: 0,
+              yAxis: 0,
+              data: table.dist2017
+            }, {
+              name: '2018 km',
+              type: 'column',
+              color: '#888',
+              index: 1,
+              yAxis: 0,
+              data: table.dist2018
+            }, {
+              name: '2017 time',
+              type: 'spline',
+              color: '#bde',
+              index: 2,
+              yAxis: 1,
+              data: table.time2017
+            }, {
+              name: '2018 time',
+              type: 'spline',
+              color: '#69c',
+              index: 3,
+              yAxis: 1,
+              data: table.time2018
+            }
+          ]
+        });
+      });
+
+    </script>
+    <title>2017 and 2018 compared</title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <div id="container" style="width:840px;height:408px;"></div>
+  </body>
+</html>

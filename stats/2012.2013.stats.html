@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      var table = {
+        months   : ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'],
+        dist2012 : [  224,   264,   511,   495,  1005,   555,   365,   674,   600,   281,   208,   287],
+        dist2013 : [  160,   226,   378,   380,   760,   607,   592,   557,   344,   377,   302,   275],
+        time2012 : [15.93, 20.41, 25.46, 25.89, 54.23, 32.81, 20.96, 45.10, 29.81, 16.13,  9.98, 16.86],
+        time2013 : [26.81, 17.89, 36.50, 20.52, 35.45, 41.00, 39.50, 41.44, 23.32, 19.03, 24.91, 28.49]
+      };
+
+      $.each(table, function(row, obj) {
+        if (row != "months") {
+          $.each(obj, function(key, val) {
+            if (key > 0) obj[key] = obj[key-1] + val;
+          });
+        }
+      });
+
+      $(function () {
+        $("#container").highcharts({
+          chart: {
+             zoomType: 'xy',
+             style: {fontFamily: 'arial, helvetica, sans-serif'}
+          },
+          title: {text: '2012 and 2013 compared'},
+          subtitle: {text: 'source: <a href="http://www.strava.com/athletes/strahm">strava.com</a>', y: 35},
+          xAxis: {
+            categories: table.months
+          },
+          yAxis: [
+            { // first yAxis (0 - distance)
+              labels: {format: '{value} km'},
+              min: 0,
+              title: {text: null}
+            }, { // second yAxis (1 - hours)
+              labels: {format: '{value} h'},
+              min: 0,
+              title: {text: null},
+              opposite: true
+            }
+          ],
+          legend: {
+            layout: 'vertical',
+            backgroundColor: '#fff',
+            align: 'left',
+            verticalAlign: 'top',
+            x: 70,
+            y: 60,
+            floating: true,
+            shadow: true
+          },
+          tooltip: {
+            formatter: function() {
+              var unit = {
+                '2012 km': ' km',
+                '2013 km': ' km',
+                '2012 time': ' hours',
+                '2013 time': ' hours'
+              }[this.series.name];
+              return this.x + ': ' + ((unit==' hours') ? this.y.toFixed(2) : this.y) + unit;
+            }
+          },
+          plotOptions: {
+            spline: {lineWidth: 2}
+          },
+          series: [
+            {
+              name: '2012 km',
+              type: 'column',
+              color: '#bbb',
+              index: 0,
+              yAxis: 0,
+              data: table.dist2012
+            }, {
+              name: '2013 km',
+              type: 'column',
+              color: '#888',
+              index: 1,
+              yAxis: 0,
+              data: table.dist2013
+            }, {
+              name: '2012 time',
+              type: 'spline',
+              color: '#bde',
+              index: 2,
+              yAxis: 1,
+              data: table.time2012
+            }, {
+              name: '2013 time',
+              type: 'spline',
+              color: '#69c',
+              index: 3,
+              yAxis: 1,
+              data: table.time2013
+            }
+          ]
+        });
+      });
+
+    </script>
+    <title>2012 and 2013 compared</title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <div id="container" style="width:840px;height:408px;"></div>
+  </body>
+</html>
