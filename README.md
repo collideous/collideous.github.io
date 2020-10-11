@@ -1,2 +1,2 @@
 # OldDogGoneOffTrail
-A small TiddlyWiki blog.
+A small Publii blog.
