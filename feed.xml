@@ -3,7 +3,7 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://collideous.github.io/feed.xml" rel="self" />
     <link href="https://collideous.github.io" />
-    <updated>2020-10-11T16:33:53+02:00</updated>
+    <updated>2020-10-11T16:56:19+02:00</updated>
     <author>
         <name>Patrick Strahm</name>
     </author>
@@ -21,11 +21,11 @@
             <category term="cycling"/>
             <category term="bar charts"/>
 
-        <updated>2020-10-11T09:48:00+02:00</updated>
+        <updated>2020-10-11T16:56:19+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://collideous.github.io/media/posts/19/strava-2018.png" alt="Strava dashboard in Google&#x27;s Data Studio." />
-                    <p>For some time I've been using <a href="https://flink.run/">flink.run</a> to log my cycling activities in a Google sheet. I kept a bunch of stats in that Google document and then every so often manually updated the stats here. Nicolas Zimmer, the creator of <a href="https://flink.run/">flink.run</a>, decided with heavy heart to shut down his service. As his small side project became more popular it started to take away lots of his personal time and cost him money; hundres of dollars per month. Time being a scarce resource, he decided it was time to pull the plug.</p>
+                    <p>For some time I've been using <a href="https://flink.run/">flink.run</a> to log my cycling activities in a <a href="#non-existing-post-with-id-21">Google sheet</a>. I kept a bunch of stats in that Google document and then every so often manually updated the stats here. Nicolas Zimmer, the creator of <a href="https://flink.run/">flink.run</a>, decided with heavy heart to shut down his service. As his small side project became more popular it started to take away lots of his personal time and cost him money; hundres of dollars per month. Time being a scarce resource, he decided it was time to pull the plug.</p>
 <p>In order to continue populating my Google sheet with new activities I turned to <a href="https://zapier.com/">Zapier</a>, which can do the same thing, though it won't add any past activities, which <a href="https://flink.run/">flink.run</a> could do for you. With my stats in that Google sheet staying up to date, I dove into Google's <a href="https://datastudio.google.com/">Data Studio</a> to create a visual report of all my Strava cycling activities. After a few days playing with it, this is the current result.</p>
 
                 ]]>
@@ -33,7 +33,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://collideous.github.io/media/posts/19/strava-2018.png" alt="Strava dashboard in Google&#x27;s Data Studio." />
-                <p>For some time I've been using <a href="https://flink.run/">flink.run</a> to log my cycling activities in a Google sheet. I kept a bunch of stats in that Google document and then every so often manually updated the stats here. Nicolas Zimmer, the creator of <a href="https://flink.run/">flink.run</a>, decided with heavy heart to shut down his service. As his small side project became more popular it started to take away lots of his personal time and cost him money; hundres of dollars per month. Time being a scarce resource, he decided it was time to pull the plug.</p>
+                <p>For some time I've been using <a href="https://flink.run/">flink.run</a> to log my cycling activities in a <a href="https://collideous.github.io/flink-and-the-magic-of-google-sheets/">Google sheet</a>. I kept a bunch of stats in that Google document and then every so often manually updated the stats here. Nicolas Zimmer, the creator of <a href="https://flink.run/">flink.run</a>, decided with heavy heart to shut down his service. As his small side project became more popular it started to take away lots of his personal time and cost him money; hundres of dollars per month. Time being a scarce resource, he decided it was time to pull the plug.</p>
 <p>In order to continue populating my Google sheet with new activities I turned to <a href="https://zapier.com/">Zapier</a>, which can do the same thing, though it won't add any past activities, which <a href="https://flink.run/">flink.run</a> could do for you. With my stats in that Google sheet staying up to date, I dove into Google's <a href="https://datastudio.google.com/">Data Studio</a> to create a visual report of all my Strava cycling activities. After a few days playing with it, this is the current result.</p>
 
 <div class="post__iframe"><iframe loading="lazy" width="900" height="462" style="border: 0;" src="https://datastudio.google.com/embed/reporting/2e279b4d-f8ba-4b22-afd9-8009778c6fea/page/5qCjB" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
