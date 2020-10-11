@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Old Dog Gone Off Trail</title>
+    <link href="https://collideous.github.io/collideous.github.io/feed.xml" rel="self" />
+    <link href="https://collideous.github.io/collideous.github.io" />
+    <updated>2020-10-11T09:48:00+02:00</updated>
+    <author>
+        <name>Patrick Strahm</name>
+    </author>
+    <id>https://collideous.github.io/collideous.github.io</id>
+
+    <entry>
+        <title>Strava Dashboard in Data Studio</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/strava-dashboard-in-data-studio/"/>
+        <id>https://collideous.github.io/collideous.github.io/strava-dashboard-in-data-studio/</id>
+            <category term="statistics"/>
+            <category term="datastudio"/>
+            <category term="cycling"/>
+            <category term="bar charts"/>
+
+        <updated>2020-10-11T09:48:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/19/strava-2018.png" alt="Strava dashboard in Google&#x27;s Data Studio." />
+                    <p>For some time I've been using <a href="https://flink.run/">flink.run</a> to log my cycling activities in a Google sheet. I kept a bunch of stats in that Google document and then every so often manually updated the stats here. Nicolas Zimmer, the creator of <a href="https://flink.run/">flink.run</a>, decided with heavy heart to shut down his service. As his small side project became more popular it started to take away lots of his personal time and cost him money; hundres of dollars per month. Time being a scarce resource, he decided it was time to pull the plug.</p>
+<p>In order to continue populating my Google sheet with new activities I turned to <a href="https://zapier.com/">Zapier</a>, which can do the same thing, though it won't add any past activities, which <a href="https://flink.run/">flink.run</a> could do for you. With my stats in that Google sheet staying up to date, I dove into Google's <a href="https://datastudio.google.com/">Data Studio</a> to create a visual report of all my Strava cycling activities. After a few days playing with it, this is the current result.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/19/strava-2018.png" alt="Strava dashboard in Google&#x27;s Data Studio." />
+                <p>For some time I've been using <a href="https://flink.run/">flink.run</a> to log my cycling activities in a Google sheet. I kept a bunch of stats in that Google document and then every so often manually updated the stats here. Nicolas Zimmer, the creator of <a href="https://flink.run/">flink.run</a>, decided with heavy heart to shut down his service. As his small side project became more popular it started to take away lots of his personal time and cost him money; hundres of dollars per month. Time being a scarce resource, he decided it was time to pull the plug.</p>
+<p>In order to continue populating my Google sheet with new activities I turned to <a href="https://zapier.com/">Zapier</a>, which can do the same thing, though it won't add any past activities, which <a href="https://flink.run/">flink.run</a> could do for you. With my stats in that Google sheet staying up to date, I dove into Google's <a href="https://datastudio.google.com/">Data Studio</a> to create a visual report of all my Strava cycling activities. After a few days playing with it, this is the current result.</p>
+
+<div class="post__iframe"><iframe loading="lazy" width="900" height="462" style="border: 0;" src="https://datastudio.google.com/embed/reporting/2e279b4d-f8ba-4b22-afd9-8009778c6fea/page/5qCjB" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<p>Or load it into a separate tab with <a href="https://tinyurl.com/patrickstrahm" title="Open the above dashboard in a new tab." target="_blank" rel="noopener noreferrer">this link</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Annual Stats By Month</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/annual-stats-by-month/"/>
+        <id>https://collideous.github.io/collideous.github.io/annual-stats-by-month/</id>
+            <category term="statistics"/>
+            <category term="cycling"/>
+            <category term="bar charts"/>
+
+        <updated>2020-10-10T15:09:59+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/15/monthly-stats.jpg" alt="Crossing the Petit Chasseral on March 8, 2020." />
+                <div class="post__iframe"><iframe loading="lazy" width="900" height="500" style="width: 900px !important; height: 500px;" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/one.stats.html"></iframe></div>
+<hr>
+<div class="post__iframe"><iframe loading="lazy" width="900" height="500" style="width: 900px !important; height: 500px;" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/two.stats.html"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ride Type Pie Charts</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/ride-type-pie-charts/"/>
+        <id>https://collideous.github.io/collideous.github.io/ride-type-pie-charts/</id>
+            <category term="statistics"/>
+            <category term="pie charts"/>
+            <category term="cycling"/>
+
+        <updated>2020-09-29T12:05:23+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/14/andrew-miller-pie.jpg" alt="Pie" />
+                <div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2020.type.stats.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2019.type.stats.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2018.type.stats.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2017.type.stats.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2016.type.stats.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2015.type.stats.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2014.type.stats.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2013.type.stats.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2012.type.stats.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2011.type.stats.html"></iframe></div></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ride Type Statistics</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/ride-type-statistics/"/>
+        <id>https://collideous.github.io/collideous.github.io/ride-type-statistics/</id>
+            <category term="statistics"/>
+            <category term="cycling"/>
+            <category term="bar charts"/>
+
+        <updated>2020-09-29T12:05:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/13/ride-stats.jpg" alt="Climbing the White Wall on May 21, 2020." />
+                    Or every year in more detail.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/13/ride-stats.jpg" alt="Climbing the White Wall on May 21, 2020." />
+                <div class="post__iframe"><iframe loading="lazy" width="900" height="500" style="width: 900px !important; height: 500px;" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/typ.stats.html"></iframe></div>
+<p>Or every year in more detail.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pie Charts By Bike</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/pie-charts-by-bike/"/>
+        <id>https://collideous.github.io/collideous.github.io/pie-charts-by-bike/</id>
+            <category term="statistics"/>
+            <category term="pie charts"/>
+            <category term="cycling"/>
+
+        <updated>2020-09-29T12:05:40+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/12/pie.jpg" alt="Pie" />
+                <div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2020.bike.pie.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2019.bike.pie.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2018.bike.pie.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2017.bike.pie.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2016.bike.pie.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2015.bike.pie.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2014.bike.pie.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2013.bike.pie.html"></iframe></div></div>
+</div>
+<hr>
+<div id="pie_col">
+<div class="lt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2012.bike.pie.html"></iframe></div></div>
+<div class="rt_col"><div class="post__iframe"><iframe loading="lazy" width="420" height="510" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/2011.bike.pie.html"></iframe></div></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Annual Stats By Bike</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/annual-stats-by-bike/"/>
+        <id>https://collideous.github.io/collideous.github.io/annual-stats-by-bike/</id>
+            <category term="statistics"/>
+            <category term="cycling"/>
+            <category term="bar charts"/>
+
+        <updated>2020-09-29T12:05:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/10/bike-stats.jpg" alt="A gorgeous climb ridden on May 10, 2020." />
+                    Or every year in more detail.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/10/bike-stats.jpg" alt="A gorgeous climb ridden on May 10, 2020." />
+                <div class="post__iframe"><iframe loading="lazy" width="900" height="500" style="width: 900px !important; height: 500px;" allowtransparency="true" frameborder="0" scrolling="no" src="https://collideous.github.io/stats/one.bike.html"></iframe></div>
+<p>Or every year in <a href="https://collideous.github.io/collideous.github.io/pie-charts-by-bike/">more detail</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Another Cockpit Change</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/another-cockpit-change/"/>
+        <id>https://collideous.github.io/collideous.github.io/another-cockpit-change/</id>
+            <category term="tales of a successful experiment"/>
+            <category term="handlebars"/>
+            <category term="bike components"/>
+
+        <updated>2020-10-10T14:16:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/2/handlebar.jpg" alt="44 Marauder with Ritchey Comp Kyote bar." />
+                    <p class="dropcap">When you're the mean bastard who tortures his wrists on top of mountain bikes without suspension like I do, the least you can do, is to let your wrists hold onto the bars in the most natural way possible, so that they're not angled or twisted in any way. Alt bars with tons of sweep are the solution. I went from Answer bars with 20° sweep to Jones with 45° backsweep and my wrists have been happy ever since. Ritchey now has an alternative available with a bit less sweep. The Kyote with 27.5°. At the same time, the Kyote is considerably wider than a Jones H-Bar. 800mm versus 710mm. When I saw it on Bike24 and saw the price tag (25 EUR), I had to get one. Due to the different shape, I also needed a new stem in order to use the Kyote. I went from a 100mm long stem with the Jones H-Bar to a 40mm stem for the Ritchey Kyote.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/2/handlebar.jpg" alt="44 Marauder with Ritchey Comp Kyote bar." />
+                <p class="dropcap">When you're the mean bastard who tortures his wrists on top of mountain bikes without suspension like I do, the least you can do, is to let your wrists hold onto the bars in the most natural way possible, so that they're not angled or twisted in any way. Alt bars with tons of sweep are the solution. I went from Answer bars with 20° sweep to Jones with 45° backsweep and my wrists have been happy ever since. Ritchey now has an alternative available with a bit less sweep. The Kyote with 27.5°. At the same time, the Kyote is considerably wider than a Jones H-Bar. 800mm versus 710mm. When I saw it on Bike24 and saw the price tag (25 EUR), I had to get one. Due to the different shape, I also needed a new stem in order to use the Kyote. I went from a 100mm long stem with the Jones H-Bar to a 40mm stem for the Ritchey Kyote.</p>
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://collideous.github.io/collideous.github.io/media/posts/2/gallery/kyote-3.jpg" data-size="1024x768"><img loading="lazy" src="https://collideous.github.io/collideous.github.io/media/posts/2/gallery/kyote-3-thumbnail.jpg" alt="Ritchey Comp Kyote bar and Industry 9 A318 stem." width="720" height="540"></a>
+<figcaption>Ritchey Comp Kyote bar and Industry 9 A318 stem.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://collideous.github.io/collideous.github.io/media/posts/2/gallery/kyote-2.jpg" data-size="1024x573"><img loading="lazy" src="https://collideous.github.io/collideous.github.io/media/posts/2/gallery/kyote-2-thumbnail.jpg" alt="Ritchey Comp Kyote vs. Jones H-Bar Bend." width="720" height="403"></a>
+<figcaption>Ritchey Comp Kyote vs. Jones H-Bar Bend.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://collideous.github.io/collideous.github.io/media/posts/2/gallery/kyote-1.jpg" data-size="1024x768"><img loading="lazy" src="https://collideous.github.io/collideous.github.io/media/posts/2/gallery/kyote-1-thumbnail.jpg" alt="44 Marauder with a new cockpit." width="720" height="540"></a>
+<figcaption>44 Marauder with a new cockpit.</figcaption>
+</figure>
+</div></div>
+<p>After a couple of rides with the new handlebar setup, I have a better idea where I'll use a Ritchey Comp Kyote and where I'll mount a Jones H-Bar. The Kyote wins hands down on my 44 Marauder. There's a short, steep climb on my loop where a powerful acceleration at the bottom of the climb doesn't help to get to the top because the steep incline is full of roots. The only way to make it is to put all the power one has into the pedals and pick a good line to avoid the tallest roots. With the Jones H-Bar I never made it. I got close, but never quite made it all the way. Now, with the Ritchey Kyote I rode up the climb each time I hit it. What a difference a few centimeters in width can make.<br><br>But those extra centimeters can slow you down elsewhere. During the period when cattle is grazing on Jura pastures, fences are up everywhere and gates are closed. When you're lucky, you ride up to an above-ground cattle-guard and just ride across it. Unfortunately, most of them around here were designed with hikers in mind. With a narrow handlebar, some can be ridden, but with a handlebar as wide as the Kyote, the majority of above-ground cattle-guards are too narrow to get through. I also have a few trails where trees stand so tight, that it's almost unavoidable to hit my hands. The more I get used to the bar, the less often this should be happening, though.<br><br>The Ritchey Comp Kyote requires a much shorter stem. On my Marauder, which has a fairly conservative geometry with a traditional head tube angle and a reach designed around a set-back seat post, I went from a 100mm stem to 40mm. On a more modern bike geometry with a long reach and an already short stem, the bar would move one's hands too much forward. Here, a Jones H-Bar would be the better choice since you'll have more options to play with the length of a stem to get your hand position just right. Lastly, I would also say that one's wrists are far more relaxed with the 45° of a Jones bar. For long days in the saddle, the Jones provides more comfort and remains my top pick. So, you'll see me use both bars. Where power is needed such as a single-speed, I'll use the Ritchey bar. When I want to spare my wrists, I'll go for the Jones.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cycling Statistics</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/cycling-statistics/"/>
+        <id>https://collideous.github.io/collideous.github.io/cycling-statistics/</id>
+            <category term="statistics"/>
+            <category term="cycling"/>
+
+        <updated>2020-09-29T12:05:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/11/statistics.png" alt="Klipfolio Strava dashboard version 6 (last one)." />
+                    <p>I joined <a href="https://www.strava.com/athletes/133569">Strava</a> in August of 2011 and have been using it ever since. I don't dig into the numbers much, nor do I ride with any particular goals. Cycling is mainly a way to stay in shape, enjoy the outdoors and have fun. Strava just offers a social connection with like-minded athletes all over the world. It's a great way to stay in touch with people I've ridden and a great place to make new connections. Besides the social aspect of the site, it's also a great activity journal. Based on the data Strava collects, I've maintained the following separate cycling statistics:</p>
+<ul>
+<li><a href="https://collideous.github.io/collideous.github.io/annual-stats-by-bike/">Bike Statistics</a>: Yearly distance ridden, elevation climbed, hours ridden and number of rides grouped by bike used.</li>
+<li>Yearly Statistics: Monthly distance ridden, elevation climbed, hours ridden and number of rides since 2012.</li>
+<li>Two Year Comparison Statistics: Distance and time comparison between two years starting from 2012.</li>
+<li>Ride Type Statistics: Number of rides between 2012 and the present based on type of ride (road, cross, mountain, fat).</li>
+</ul>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/11/statistics.png" alt="Klipfolio Strava dashboard version 6 (last one)." />
+                <p>I joined <a href="https://www.strava.com/athletes/133569">Strava</a> in August of 2011 and have been using it ever since. I don't dig into the numbers much, nor do I ride with any particular goals. Cycling is mainly a way to stay in shape, enjoy the outdoors and have fun. Strava just offers a social connection with like-minded athletes all over the world. It's a great way to stay in touch with people I've ridden and a great place to make new connections. Besides the social aspect of the site, it's also a great activity journal. Based on the data Strava collects, I've maintained the following separate cycling statistics:</p>
+<ul>
+<li><a href="https://collideous.github.io/collideous.github.io/annual-stats-by-bike/">Bike Statistics</a>: Yearly distance ridden, elevation climbed, hours ridden and number of rides grouped by bike used.</li>
+<li>Yearly Statistics: Monthly distance ridden, elevation climbed, hours ridden and number of rides since 2012.</li>
+<li>Two Year Comparison Statistics: Distance and time comparison between two years starting from 2012.</li>
+<li>Ride Type Statistics: Number of rides between 2012 and the present based on type of ride (road, cross, mountain, fat).</li>
+</ul>
+
+<p>Strava gives you a bunch of data, but not everything. Personally, I like to have an idea how often I use a specific bike and how many miles I ride with it during the course of the year. Strava has that data, but unfortunately doesn't present it to you. I spent a couple of hours with <a href="https://www.klipfolio.com/">Klipfolio</a> and whipped up a dashboard for myself.</p>
+<figure class="post__image" ><img loading="lazy" src="https://live.staticflickr.com/4880/44767692020_0c288cb262_b.jpg" data-is-external-image="true"  alt="Klipfolio Strava dashboard version 6 (last one)." width="1023" height="907">
+<figcaption >Klipfolio Strava dashboard version 6 (last one).</figcaption>
+</figure>
+<p><a href="https://www.flickr.com/photos/collideous/tags/klipfolio">Screenshot</a>, since the dashboard was accessible to nobody but me. Sadly, Klipfolio sunsetted the freemium accounts at the end of April 2019 and their basic account package is $49 a month. It was a great tool to have, but their pricing is definitely geared towards business users.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Custom Carbon Front Light Mount</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/custom-carbon-front-light-mount/"/>
+        <id>https://collideous.github.io/collideous.github.io/custom-carbon-front-light-mount/</id>
+            <category term="handlebars"/>
+            <category term="diy"/>
+            <category term="cycling"/>
+            <category term="bike components"/>
+
+        <updated>2020-09-29T17:34:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/17/carbon-light-plate.jpg" alt="Carbon plate for lights and batteries." />
+                    Designed on Sunday, November 11th 2018, ordered same Sunday, payed and made the following Monday, mailed on Tuesday, arrived on Wednesday. If you ever need something done out of carbon plate, contact Rolf Meichtry at CNC-Modell.ch. He's not just quick, he does some quality work.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/17/carbon-light-plate.jpg" alt="Carbon plate for lights and batteries." />
+                <p>Designed on Sunday, November 11th 2018, ordered same Sunday, payed and made the following Monday, mailed on Tuesday, arrived on Wednesday. If you ever need something done out of carbon plate, contact Rolf Meichtry at <a href="https://www.cnc-modell.ch/">CNC-Modell.ch</a>. He's not just quick, he does some quality work. And, all that at an extremely reasonable price. Now I have a light unit that I can just pop on and off the handlebar. My design obviously only works for a <a href="https://jonesbikes.com/jones-h-bar-loop-carbon/">Jones H-Bar Loop</a> handlebar, but one could easily design a T-shaped plate to attach to a regular handlebar and stem.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Offtrail Riding</title>
+        <author>
+            <name>Patrick Strahm</name>
+        </author>
+        <link href="https://collideous.github.io/collideous.github.io/offtrail-riding/"/>
+        <id>https://collideous.github.io/collideous.github.io/offtrail-riding/</id>
+            <category term="offtrail riding"/>
+            <category term="fat biking"/>
+            <category term="cycling"/>
+
+        <updated>2020-09-27T10:42:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://collideous.github.io/collideous.github.io/media/posts/8/off-trail.jpg" alt="The ridge that no one rides." />
+                    <p class="dropcap">Sometimes a bike comes along that totally changes the way you have been going about things. I started mountain-biking in the mid 80ies and have been practicing that sport very much the same way ever since. Sure, bikes got better, gained suspension and more gears, then in my case lost both while living in California. In 2006, 26" David was kicked off the trails by 29" Goliath, but none of that dramatically changed how and where I was riding.<br><br>In 2012 I decided that I wanted a fat-bike. I had been riding my 29er <a href="https://collideous.github.io/collideous.github.io/tags/single-speeding/">single-speed</a> bikes in the winter and carried them a lot through deep snow. A fat-bike would have me carry the bike a little less, so was my thinking. Most of the time I jump into a new bike category by buying an affordable big-brand production bike first. Not this time. I had Kris Henry of 44 Bikes build me a rigid steel fat-bike. Construction started in the fall of 2012 and my first ride on my all-blue Big Boy happened at the beginning of March, 2013.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://collideous.github.io/collideous.github.io/media/posts/8/off-trail.jpg" alt="The ridge that no one rides." />
+                <p class="dropcap">Sometimes a bike comes along that totally changes the way you have been going about things. I started mountain-biking in the mid 80ies and have been practicing that sport very much the same way ever since. Sure, bikes got better, gained suspension and more gears, then in my case lost both while living in California. In 2006, 26" David was kicked off the trails by 29" Goliath, but none of that dramatically changed how and where I was riding.<br><br>In 2012 I decided that I wanted a fat-bike. I had been riding my 29er <a href="https://collideous.github.io/collideous.github.io/tags/single-speeding/">single-speed</a> bikes in the winter and carried them a lot through deep snow. A fat-bike would have me carry the bike a little less, so was my thinking. Most of the time I jump into a new bike category by buying an affordable big-brand production bike first. Not this time. I had Kris Henry of 44 Bikes build me a rigid steel fat-bike. Construction started in the fall of 2012 and my first ride on my all-blue Big Boy happened at the beginning of March, 2013.</p>
+
+<p>Big Boy was my first mountain-bike in years to have gears again and 26" wheels, too. But it was no David. Over the last five years it's been my winter snow monster which occasionally got to see dirt throughout the season. The mind-blowing grip and traction of 4+ inch tires started changing my mountain adventures. Such tires are simply underchallenged on man-made trails. Over the last two years, I challenged them and myself to tackle the wild, mountainous terrain away from trails. I call this offtrail mountain-biking and I have been doing it ever more frequently.<br><br>This is something obviously not unproblematic. In many parts of the world, mountain bikers have to fight for trail access. They would immediately be kicked out of parks if they'd ride their bikes offtrail. Here in Switzerland this type of riding wouldn't be possible in large parts of the country. I'm sort of lucky to live at the foot of a mountain range without many rules. It's a somewhat lawless region for historical reasons. The people of the Jura had always been governed by the canton of Berne and only gained independence in 1979 by forming their own canton. Still today, there are separatist movements in the communes bordering both cantons. The people of this sparsely populated region hated to be told by Berne what they could or couldn't do, so they have a far more laissez-faire approach than others today. Take snowmobiling for instance. It's prohibited for recreational purposes in the whole country, yet there's a snowmobile club in my region and my fat-bike backyard gets crisscrossed by snowmobile riders all winter long. No local police officer would ever bother to chase the offenders down. Secondly, the whole region is economically used. The woods are regularly logged with heavy machinery and the pastures are cattle land. It doesn't need to be said that one has to stay away from nature-sanctuaries. Such places are off-limits to any kind of offtrail activity. The majority of the hills though, a fantastic playground for a lonely offtrail explorer.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
