@@ -134,6 +134,23 @@
             "date_modified": "2020-10-10T14:16:11+02:00"
         },
         {
+            "id": "https://collideous.github.io/flink-and-the-magic-of-google-sheets/",
+            "url": "https://collideous.github.io/flink-and-the-magic-of-google-sheets/",
+            "title": "Flink And The Magic Of Google Sheets",
+            "summary": "<p>I've been using the <a href=\"http://flink.run/\">flink.run</a> app to add my <a href=\"https://www.strava.com/athletes/133569\">Strava</a> data to a Google sheet with a bunch of additional tables that crunch the numbers. Each time I add an activity to Strava, <a href=\"http://flink.run/\">flink.run</a> adds a new row to the data table in my Google sheet. The stats in all the other calculated tables are therefore always up to date.</p>\n<p>I sent my FortyFour Big Boy fat-bike into retirement and wanted to look up my first ride on it. On Strava there's no easy way to find the first activity with a specific gear. In my Google sheet it's a simple formula to look for the first occurrence of a specific gear within the activity table. Since I was at it, I added a first ride and last ride column to my gear table.</p>\n",
+            "content_html": "<p>I've been using the <a href=\"http://flink.run/\">flink.run</a> app to add my <a href=\"https://www.strava.com/athletes/133569\">Strava</a> data to a Google sheet with a bunch of additional tables that crunch the numbers. Each time I add an activity to Strava, <a href=\"http://flink.run/\">flink.run</a> adds a new row to the data table in my Google sheet. The stats in all the other calculated tables are therefore always up to date.</p>\n<p>I sent my FortyFour Big Boy fat-bike into retirement and wanted to look up my first ride on it. On Strava there's no easy way to find the first activity with a specific gear. In my Google sheet it's a simple formula to look for the first occurrence of a specific gear within the activity table. Since I was at it, I added a first ride and last ride column to my gear table.</p>\n\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://collideous.github.io/media/files/images/strava-bike-stats.png\" data-is-external-image=\"true\"  alt=\"Table in Google Sheets.\" width=\"900\" height=\"423\">\n<figcaption >Bike stats table in Google Sheets.</figcaption>\n</figure>\n<p>Of all the bikes I've used since joining <a href=\"https://www.strava.com/athletes/133569\">Strava</a>, I've done the most rides and spent the most hours on my good old 44 Big Boy. 258 rides and 907 hours. No other bike comes even close to that. When it comes to total distance and total elevation, it's obviously a road bike that takes the top spot. It's my red Volagi Viaje RD, which I sold last year.</p>\n<p>Having the total distance and total time for each bike, one can also calculate the average speed for each bike, which reveals some interesting results. My stainless steel Ritte road bike with a weight of about 8.4 kg is my fastest bike. It even managed to beat a much more aero carbon Neilpryde Alize, which at 6.8 kg was considerably lighter too. That's kind of nice actually since I've gotten older as well. Older dude on heavier and less aero bike has managed to keep his average speed. Nice!</p>\n<p>The same is actually the case for my 29er mountain bikes. I was faster on both my steel Kid Dangerous and Marauder than on the 2 kg lighter Niner Air 9 Carbon. I did however climb more per mile on the Niner than the Marauder for instance, which means that on average rides on that bike were steeper. On the other hand, the average ride distance on the Niner was less than on the Marauder.</p>\n<p>Lastly, looking at the Volagi Viaje SL and RD one could say that I'm about 1 km/h slower than on a road bike with skinny tires. But since I ride alone and don't have to keep up with anyone, who cares? The 27 rides on the Albarda, many of them on icy or snow covered roads, aren't yet a representative sample of rides. Average speed of that bike currently is closer to the three bikes I primarily rode on gravel; the two Focus and the Viaje CX.</p>",
+            "image": "https://collideous.github.io/media/posts/21/data-studio-bike-stats.png",
+            "author": {
+                "name": "Patrick Strahm"
+            },
+            "tags": [
+                   "statistics",
+                   "cycling"
+            ],
+            "date_published": "2020-06-12T14:26:00+02:00",
+            "date_modified": "2020-10-11T16:31:21+02:00"
+        },
+        {
             "id": "https://collideous.github.io/a-bike-jacket-for-next-winter/",
             "url": "https://collideous.github.io/a-bike-jacket-for-next-winter/",
             "title": "A Bike Jacket For Next Winter",
@@ -145,10 +162,11 @@
             },
             "tags": [
                    "fat biking",
-                   "cycling"
+                   "cycling",
+                   "bikejacket"
             ],
             "date_published": "2020-05-05T19:28:00+02:00",
-            "date_modified": "2020-10-11T11:28:50+02:00"
+            "date_modified": "2020-10-11T16:33:53+02:00"
         },
         {
             "id": "https://collideous.github.io/cycling-statistics/",
@@ -166,25 +184,6 @@
             ],
             "date_published": "2019-07-17T22:45:00+02:00",
             "date_modified": "2020-09-29T12:05:47+02:00"
-        },
-        {
-            "id": "https://collideous.github.io/custom-carbon-front-light-mount/",
-            "url": "https://collideous.github.io/custom-carbon-front-light-mount/",
-            "title": "Custom Carbon Front Light Mount",
-            "summary": "Designed on Sunday, November 11th 2018, ordered same Sunday, payed and made the following Monday, mailed on Tuesday, arrived on Wednesday. If you ever need something done out of carbon plate, contact Rolf Meichtry at CNC-Modell.ch. He's not just quick, he does some quality work.",
-            "content_html": "<p>Designed on Sunday, November 11th 2018, ordered same Sunday, payed and made the following Monday, mailed on Tuesday, arrived on Wednesday. If you ever need something done out of carbon plate, contact Rolf Meichtry at <a href=\"https://www.cnc-modell.ch/\">CNC-Modell.ch</a>. He's not just quick, he does some quality work. And, all that at an extremely reasonable price. Now I have a light unit that I can just pop on and off the handlebar. My design obviously only works for a <a href=\"https://jonesbikes.com/jones-h-bar-loop-carbon/\">Jones H-Bar Loop</a> handlebar, but one could easily design a T-shaped plate to attach to a regular handlebar and stem.</p>",
-            "image": "https://collideous.github.io/media/posts/17/carbon-light-plate.jpg",
-            "author": {
-                "name": "Patrick Strahm"
-            },
-            "tags": [
-                   "handlebars",
-                   "diy",
-                   "cycling",
-                   "bike components"
-            ],
-            "date_published": "2018-12-19T19:02:00+01:00",
-            "date_modified": "2020-09-29T17:34:42+02:00"
         }
     ]
 }

@@ -22,7 +22,7 @@
 </url>
 <url>
 <loc>https://collideous.github.io/a-bike-jacket-for-next-winter/</loc>
-<lastmod>2020-10-11T11:28:50+02:00</lastmod>
+<lastmod>2020-10-11T16:33:53+02:00</lastmod>
 <image:image>
 <image:loc>https://collideous.github.io/media\posts\20/bike-jacket-0.jpg</image:loc>
 <image:title><![CDATA[44 Snakedriver in a bike jacket.]]></image:title>
@@ -130,6 +130,18 @@
 <image:image>
 <image:loc>https://collideous.github.io/media\posts\6/fat-biking.jpg</image:loc>
 <image:title><![CDATA[Fat-biking in the Jura on March 25, 2018.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://collideous.github.io/flink-and-the-magic-of-google-sheets/</loc>
+<lastmod>2020-10-11T16:31:21+02:00</lastmod>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\21/data-studio-bike-stats.png</image:loc>
+<image:title><![CDATA[Bike statistics in a Data Studio report.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media/files/images/strava-bike-stats.png</image:loc>
+<image:title><![CDATA[Table in Google Sheets.]]></image:title>
 </image:image>
 </url>
 <url>
