@@ -145,6 +145,38 @@
 </image:image>
 </url>
 <url>
+<loc>https://collideous.github.io/fortyfour-marauder/</loc>
+<lastmod>2020-10-17T12:49:57+02:00</lastmod>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/44-marauder-feature.jpg</image:loc>
+<image:title><![CDATA[Single-speeding in Les Prés d'Orvin.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/gallery/44-marauder-thumbnail.jpg</image:loc>
+<image:title><![CDATA[FortyFour Marauder steel single-speed 29er.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/gallery/44-handlebar-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Ritchey Comp Kyote aluminum handlebar.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/gallery/44-cockpit-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Industry 9 A318 stem in a short 40mm.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/gallery/44-front-hub-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Onyx front hub.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/gallery/44-rear-hub-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Onyx rear hub.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\24/gallery/44-drivetrain-thumbnail.jpg</image:loc>
+<image:title><![CDATA[One is all you need. Seriously.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://collideous.github.io/fortyfour-snakedriver/</loc>
 <lastmod>2020-10-17T10:49:36+02:00</lastmod>
 <image:image>
@@ -182,38 +214,6 @@
 <image:image>
 <image:loc>https://collideous.github.io/media\posts\23/gallery/44-rear-brake-thumbnail.jpg</image:loc>
 <image:title><![CDATA[Formula Cura rear brake caliper.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://collideous.github.io/fortyfour-snakedriver-2/</loc>
-<lastmod>2020-10-17T10:49:44+02:00</lastmod>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/44-marauder-feature.jpg</image:loc>
-<image:title><![CDATA[Single-speeding in Les Prés d'Orvin.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/gallery/44-marauder-thumbnail.jpg</image:loc>
-<image:title><![CDATA[FortyFour Marauder steel single-speed 29er.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/gallery/44-handlebar-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Ritchey Comp Kyote aluminum handlebar.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/gallery/44-cockpit-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Industry 9 A318 stem in a short 40mm.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/gallery/44-front-hub-2-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Onyx front hub.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/gallery/44-rear-hub-2-thumbnail.jpg</image:loc>
-<image:title><![CDATA[Onyx rear hub.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\24/gallery/44-drivetrain-thumbnail.jpg</image:loc>
-<image:title><![CDATA[One is all you need. Seriously.]]></image:title>
 </image:image>
 </url>
 <url>
@@ -257,6 +257,26 @@
 </image:image>
 </url>
 <url>
+<loc>https://collideous.github.io/old-gravel-bikes/</loc>
+<lastmod>2020-10-17T12:49:36+02:00</lastmod>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\26/featured-gravel-bike.jpg</image:loc>
+<image:title><![CDATA[Gravel ride on May 22, 2016.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\26/volagi-viaje-cx.jpg</image:loc>
+<image:title><![CDATA[Volagi Viaje CX]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\26/focus-mares-cx00.jpg</image:loc>
+<image:title><![CDATA[Focus Mares CX 0.0]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://collideous.github.io/media\posts\26/focus-mares-cx20.jpg</image:loc>
+<image:title><![CDATA[Focus Mares CX 2.0]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://collideous.github.io/old-mountain-bikes/</loc>
 <lastmod>2020-10-17T10:50:31+02:00</lastmod>
 <image:image>
@@ -286,26 +306,6 @@
 <image:image>
 <image:loc>https://collideous.github.io/media\posts\25/merlin-mountain.jpg</image:loc>
 <image:title><![CDATA[Merlin Mountain]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://collideous.github.io/old-mountain-bikes-2/</loc>
-<lastmod>2020-10-17T12:48:05+02:00</lastmod>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\26/featured-gravel-bike.jpg</image:loc>
-<image:title><![CDATA[Gravel ride on May 22, 2016.]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\26/volagi-viaje-cx.jpg</image:loc>
-<image:title><![CDATA[Volagi Viaje CX]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\26/focus-mares-cx00.jpg</image:loc>
-<image:title><![CDATA[Focus Mares CX 0.0]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://collideous.github.io/media\posts\26/focus-mares-cx20.jpg</image:loc>
-<image:title><![CDATA[Focus Mares CX 2.0]]></image:title>
 </image:image>
 </url>
 <url>
