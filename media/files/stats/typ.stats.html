@@ -1,0 +1,131 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      var table = {
+        types : ['road', 'mountain', 'gravel', 'fat'],
+        y2012 : [40, 43, 38,  0],
+        y2013 : [23, 47, 14, 24],
+        y2014 : [81, 27, 13, 28],
+        y2015 : [56, 31, 20, 39],
+        y2016 : [55, 12, 49, 48],
+        y2017 : [52, 30, 28, 56],
+        y2018 : [62, 32, 14, 57],
+        y2019 : [72, 18,  0, 54]
+      };
+
+      var totals = {y2012: 0, y2013: 0, y2014: 0, y2015: 0, y2016: 0, y2017: 0, y2018: 0, y2019: 0};
+
+      $.each(table, function(name, series) {
+        if (name != "types") {
+          $.each(series, function () {
+            totals[name] += parseFloat(this) || 0;
+          });
+        }
+      });
+
+      $(function () {
+        $("#container").highcharts({
+          chart: {
+             zoomType: 'xy',
+             style: {fontFamily: 'arial, helvetica, sans-serif'}
+          },
+          title: {text: 'rides'},
+          subtitle: {text: 'types of bike rides throughout the years', y: 35},
+          xAxis: {
+            categories: table.types
+          },
+          yAxis: [
+            {
+              min: 0,
+              title: {text: null}
+            }
+          ],
+          legend: {
+            layout: 'vertical',
+            backgroundColor: '#fff',
+            align: 'right',
+            verticalAlign: 'top',
+            x: 0,
+            y: 0,
+            floating: true,
+            shadow: true
+          },
+          tooltip: {
+            formatter: function() {
+              return this.y + ' rides';
+            }
+          },
+          series: [
+            {
+              name: '2012: ' + totals.y2012 + ' rides',
+              type: 'column',
+              color: '#bdbdbd',
+              index: 1,
+              yAxis: 0,
+              data: table.y2012
+            }, {
+              name: '2013: ' + totals.y2013 + ' rides',
+              type: 'column',
+              color: '#a8a8a8',
+              index: 1,
+              yAxis: 0,
+              data: table.y2013
+            }, {
+              name: '2014: ' + totals.y2014 + ' rides',
+              type: 'column',
+              color: '#939393',
+              index: 1,
+              yAxis: 0,
+              data: table.y2014
+            }, {
+              name: '2015: ' + totals.y2015 + ' rides',
+              type: 'column',
+              color: '#7e7e7e',
+              index: 1,
+              yAxis: 0,
+              data: table.y2015
+            }, {
+              name: '2016: ' + totals.y2016 + ' rides',
+              type: 'column',
+              color: '#696969',
+              index: 1,
+              yAxis: 0,
+              data: table.y2016
+            }, {
+              name: '2017: ' + totals.y2017 + ' rides',
+              type: 'column',
+              color: '#545454',
+              index: 1,
+              yAxis: 0,
+              data: table.y2017
+            }, {
+              name: '2018: ' + totals.y2018 + ' rides',
+              type: 'column',
+              color: '#3f3f3f',
+              index: 1,
+              yAxis: 0,
+              data: table.y2018
+            }, {
+              name: '2019: ' + totals.y2019 + ' rides',
+              type: 'column',
+              color: '#2b2b2b',
+              index: 1,
+              yAxis: 0,
+              data: table.y2019
+            }
+          ]
+        });
+      });
+
+    </script>
+    <title>types of rides</title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <div id="container" style="width:900px;height:500px;"></div>
+  </body>
+</html>
