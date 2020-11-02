@@ -3,7 +3,7 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2020-11-01T11:46:05+01:00</updated>
+    <updated>2020-11-02T18:49:46+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
@@ -17,8 +17,9 @@
         <link href="https://offtrail.guru/cycling-and-my-list-of-donts/"/>
         <id>https://offtrail.guru/cycling-and-my-list-of-donts/</id>
             <category term="miscellaneous"/>
+            <category term="blog post"/>
 
-        <updated>2020-11-01T11:46:05+01:00</updated>
+        <updated>2020-11-02T18:49:10+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/35/list-of-donts-featured.jpg" alt="Chasseral crest trail on a rigid single-speed." />
@@ -67,8 +68,9 @@
         <id>https://offtrail.guru/small-steps-to-fight-climate-change/</id>
             <category term="miscellaneous"/>
             <category term="climate change"/>
+            <category term="blog post"/>
 
-        <updated>2020-10-28T18:18:38+01:00</updated>
+        <updated>2020-11-02T18:49:19+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/34/climate-change-featured-photo.jpg" alt="Some rare powder on December 9, 2017." />
@@ -104,8 +106,9 @@
         <id>https://offtrail.guru/clocks-turned-back/</id>
             <category term="winter time"/>
             <category term="time change"/>
+            <category term="blog post"/>
 
-        <updated>2020-10-26T18:09:14+01:00</updated>
+        <updated>2020-11-02T18:49:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/33/clocks-turned-back.jpg" alt="100km road bike ride on October 25, 2020." />
@@ -128,9 +131,11 @@
         </author>
         <link href="https://offtrail.guru/finally-a-new-pc-on-my-desk/"/>
         <id>https://offtrail.guru/finally-a-new-pc-on-my-desk/</id>
+            <category term="miscellaneous"/>
             <category term="computer"/>
+            <category term="blog post"/>
 
-        <updated>2020-10-24T20:47:54+02:00</updated>
+        <updated>2020-11-02T18:49:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/32/chuwi-larkbox-hand.png" alt="Chuwi Larbox." />
