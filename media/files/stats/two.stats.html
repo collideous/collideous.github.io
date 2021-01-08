@@ -13,7 +13,7 @@
         $.each(years, function(index, value) {
           if (index+1 < years.length) {
             previous = years[index+1];
-			yeartext = String(value).substr(-2)+" vs "+String(previous).substr(-2);
+			      yeartext = String(value).substr(-2)+"/"+String(previous).substr(-2);
             $("#tabs ul").append("<li><a href='#"+value+"v"+previous+"' title='comparison between "+value+" and "+previous+"'>"+yeartext+"</a></li>");
             $("#tabs").append("<iframe id='"+value+"v"+previous+"' src='"+previous+"."+value+".stats.html'/>");
           }
