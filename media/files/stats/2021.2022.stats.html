@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      var table = {
+        months   : ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'],
+        dist2021 : [  243,   231,   301,   463,   547,   345,   435,   443,   476,   475,   127,   105],
+        dist2022 : [    0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0],
+        time2021 : [24.12, 17.17, 20.10, 22.24, 26.87, 16.11, 19.89, 21.09, 22.87, 23.18,  7.63, 11.79],
+        time2022 : [    0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0]
+      };
+
+      $.each(table, function(row, obj) {
+        if (row != "months") {
+          $.each(obj, function(key, val) {
+            if (key > 0) obj[key] = obj[key-1] + val;
+          });
+        }
+      });
+
+      $(function () {
+        $("#container").highcharts({
+          chart: {
+             zoomType: 'xy',
+             style: {fontFamily: 'arial, helvetica, sans-serif'}
+          },
+          title: {text: '2021 and 2022 compared'},
+          subtitle: {text: 'source: <a href="http://www.strava.com/athletes/strahm">strava.com</a>', y: 35},
+          xAxis: {
+            categories: table.months
+          },
+          yAxis: [
+            { // first yAxis (0 - distance)
+              labels: {format: '{value} km'},
+              min: 0,
+              title: {text: null}
+            }, { // second yAxis (1 - hours)
+              labels: {format: '{value} h'},
+              min: 0,
+              title: {text: null},
+              opposite: true
+            }
+          ],
+          legend: {
+            layout: 'vertical',
+            backgroundColor: '#fff',
+            align: 'left',
+            verticalAlign: 'top',
+            x: 70,
+            y: 60,
+            floating: true,
+            shadow: true
+          },
+          tooltip: {
+            formatter: function() {
+              var unit = {
+                '2021 km': ' km',
+                '2022 km': ' km',
+                '2021 time': ' hours',
+                '2022 time': ' hours'
+              }[this.series.name];
+              return this.x + ': ' + ((unit==' hours') ? this.y.toFixed(2) : this.y) + unit;
+            }
+          },
+          plotOptions: {
+            spline: {lineWidth: 2}
+          },
+          series: [
+            {
+              name: '2021 km',
+              type: 'column',
+              color: '#bbb',
+              index: 0,
+              yAxis: 0,
+              data: table.dist2021
+            }, {
+              name: '2022 km',
+              type: 'column',
+              color: '#888',
+              index: 1,
+              yAxis: 0,
+              data: table.dist2022
+            }, {
+              name: '2021 time',
+              type: 'spline',
+              color: '#bde',
+              index: 2,
+              yAxis: 1,
+              data: table.time2021
+            }, {
+              name: '2022 time',
+              type: 'spline',
+              color: '#69c',
+              index: 3,
+              yAxis: 1,
+              data: table.time2022
+            }
+          ]
+        });
+      });
+
+    </script>
+    <title>2021 and 2022 compared</title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <div id="container" style="width:840px;height:408px;"></div>
+  </body>
+</html>
