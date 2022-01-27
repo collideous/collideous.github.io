@@ -1165,6 +1165,26 @@
 </image:image>
 </url>
 <url>
+<loc>https://offtrail.guru/some-silly-strava-stats/</loc>
+<lastmod>2022-01-27T18:21:10+01:00</lastmod>
+<image:image>
+<image:loc>https://offtrail.guru/media/posts/60/speed-scatter-charts.png</image:loc>
+<image:title><![CDATA[Scatter charts in Data Studio.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://offtrail.guru/media/posts/60/gallery/zap-home-thumbnail.png</image:loc>
+<image:title><![CDATA[The zap that does all the work.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://offtrail.guru/media/posts/60/gallery/zap-spreadsheet-rows-thumbnail.png</image:loc>
+<image:title><![CDATA[The recipe to populate a new spreadsheet row.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://offtrail.guru/media/posts/60/gallery/datastudio-datasource-thumbnail.png</image:loc>
+<image:title><![CDATA[The datasource fields in Data Studio.]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://offtrail.guru/stooge-mk5-geometry/</loc>
 <lastmod>2022-01-02T14:59:19+01:00</lastmod>
 <image:image>

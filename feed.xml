@@ -3,12 +3,69 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2022-01-23T11:44:54+01:00</updated>
+    <updated>2022-01-27T18:21:10+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
     <id>https://offtrail.guru</id>
 
+    <entry>
+        <title>Some Silly Strava Stats</title>
+        <author>
+            <name>Patrick</name>
+        </author>
+        <link href="https://offtrail.guru/some-silly-strava-stats/"/>
+        <id>https://offtrail.guru/some-silly-strava-stats/</id>
+            <category term="statistics"/>
+            <category term="datastudio"/>
+            <category term="blog post"/>
+
+        <updated>2022-01-27T18:21:10+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://offtrail.guru/media/posts/60/speed-scatter-charts.png" alt="Scatter charts in Data Studio." />
+                    <p class="dropcap">As mentioned in my <a href="https://offtrail.guru/late-afternoon-fat-biking/">previous</a> post, I recreated my <a href="https://offtrail.guru/strava-dashboard-in-data-studio/">Data Studio dashboard</a> under a new Gmail account because Google’s <a href="https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/" target="_blank" rel="noopener noreferrer">G Suite legacy free edition</a>, which became <a href="https://workspace.google.com/" target="_blank" rel="noopener noreferrer">Google Workspace</a> in 2020, will require a <a href="https://workspace.google.com/pricing.html" target="_blank" rel="noopener noreferrer">paid subscription</a> this year. Three simple things needed to be done. First, I had to copy my <a href="https://www.google.com/sheets/" target="_blank" rel="noopener noreferrer">Google sheet</a> from the old account to my new account. Then, I had to create a new <a href="https://zapier.com/" target="_blank" rel="noopener noreferrer">Zapier</a> account, and share my zap from the old account with the new account. This was straightforward. Once logged into Zapier with my new account, I had to link the zap to <a href="https://www.strava.com/athletes/133569" target="_blank" rel="noopener noreferrer">my Strava account</a> and also had to give the zap permission to modify my Google sheet. Pretty much the same procedure was necessary for the <a href="https://datastudio.google.com/" target="_blank" rel="noopener noreferrer">Data Studio</a> report. I logged into the old account and shared the report with my new account. Then, I logged into the new account and had to replace the data sources to point to the Google sheet in my new <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">Gmail</a> account. Sounds complicated but was extremely simple.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://offtrail.guru/media/posts/60/speed-scatter-charts.png" alt="Scatter charts in Data Studio." />
+                <p class="dropcap">As mentioned in my <a href="https://offtrail.guru/late-afternoon-fat-biking/">previous</a> post, I recreated my <a href="https://offtrail.guru/strava-dashboard-in-data-studio/">Data Studio dashboard</a> under a new Gmail account because Google’s <a href="https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/" target="_blank" rel="noopener noreferrer">G Suite legacy free edition</a>, which became <a href="https://workspace.google.com/" target="_blank" rel="noopener noreferrer">Google Workspace</a> in 2020, will require a <a href="https://workspace.google.com/pricing.html" target="_blank" rel="noopener noreferrer">paid subscription</a> this year. Three simple things needed to be done. First, I had to copy my <a href="https://www.google.com/sheets/" target="_blank" rel="noopener noreferrer">Google sheet</a> from the old account to my new account. Then, I had to create a new <a href="https://zapier.com/" target="_blank" rel="noopener noreferrer">Zapier</a> account, and share my zap from the old account with the new account. This was straightforward. Once logged into Zapier with my new account, I had to link the zap to <a href="https://www.strava.com/athletes/133569" target="_blank" rel="noopener noreferrer">my Strava account</a> and also had to give the zap permission to modify my Google sheet. Pretty much the same procedure was necessary for the <a href="https://datastudio.google.com/" target="_blank" rel="noopener noreferrer">Data Studio</a> report. I logged into the old account and shared the report with my new account. Then, I logged into the new account and had to replace the data sources to point to the Google sheet in my new <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">Gmail</a> account. Sounds complicated but was extremely simple.</p>
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/60/gallery/zap-home.png" data-size="773x216"><img loading="lazy" src="https://offtrail.guru/media/posts/60/gallery/zap-home-thumbnail.png" alt="The zap that does all the work." width="720" height="201"></a>
+<figcaption>The zap.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/60/gallery/zap-spreadsheet-rows.png" data-size="645x725"><img loading="lazy" src="https://offtrail.guru/media/posts/60/gallery/zap-spreadsheet-rows-thumbnail.png" alt="The recipe to populate a new spreadsheet row." width="645" height="725"></a>
+<figcaption>The zap instructions.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/60/gallery/datastudio-datasource.png" data-size="786x839"><img loading="lazy" src="https://offtrail.guru/media/posts/60/gallery/datastudio-datasource-thumbnail.png" alt="The datasource fields in Data Studio." width="720" height="769"></a>
+<figcaption>The datasource.</figcaption>
+</figure>
+</div></div>
+<p>I haven’t made any changes to my Data Studio dashboard since October of 2020. So, since I had to work with all of it, I played with the data some more, added <a href="https://support.google.com/datastudio/answer/9173401" target="_blank" rel="noopener noreferrer">chart cross-filtering</a> to various pages, and created a new page filled with <a href="https://support.google.com/datastudio/answer/7207785" target="_blank" rel="noopener noreferrer">scatter charts</a>. Strava is very fitness and competition-driven in the way it presents data. Power, speed, calories, energy, and heart rate to see how you did on a particular ride. There are <a href="https://www.strava.com/challenges" target="_blank" rel="noopener noreferrer">challenges</a> and segment <a href="https://support.strava.com/hc/en-us/articles/216919507-Segment-Leaderboard-Guidelines" target="_blank" rel="noopener noreferrer">leaderboards</a> to see how you perform against others. In the data, there’s a ton of information Strava doesn’t present to you, though. The scatter charts on my new dashboard page answer a few silly things around speed. So without further ado, here are a few things all my Strava activities say about me as it relates to speed on the bike:</p>
+<ul>
+<li>My fastest year on Strava was 2010 for overall average speed.</li>
+<li>I dive-bombed like a Stuka in 2021.</li>
+</ul>
+<ul>
+<li>I cycle fastest in July, closely followed by September and June.</li>
+<li>The power to push the pedals hard evaporates in the heat of August.</li>
+<li>I can barely overtake a snowman in January.</li>
+</ul>
+<ul>
+<li>I generally haul ass on Wednesdays.</li>
+<li>I don’t know how to use my brakes on Mondays.</li>
+<li>Fine dinners and hearty breakfasts are boat anchors on weekends.</li>
+</ul>
+<ul>
+<li>My fastest bike is my stainless steel Ritte.</li>
+<li>My slowest bike is my 44 Snakedriver fat-bike.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Late Afternoon Fat-Biking</title>
         <author>
@@ -675,72 +732,6 @@
 </figure>
 </div></div>
 <p>After <a href="https://offtrail.guru/another-cockpit-change/">swapping</a> my Jones H-Bar Loop handlebar for a wider Ritchey Comp Kyote on my 44 Marauder, it was a no-brainer that the Stooge would get a Kyote as well. It is mated to a jaw-droppingly sweet Enve aluminum stem. Lastly, a new and untested Prologo Scratch M5 saddle towers on top of the seat post. After years riding various models of Fizik Antares saddles, I switched to Prologo for my <a href="https://offtrail.guru/nordest-albarda/">Nordest Albarda</a>. The short-nosed Dimension Nack on that bike feels great. In my humble opinion, an open saddle doesn't belong on a mountain bike nor any bike ridden in the mud. Hence the decision to try out Prologo's Scratch. If the Scratch and my derrière become friends, the <a href="https://offtrail.guru/volagi-viaje-sl/">Volagi Viaje</a> and <a href="https://offtrail.guru/fortyfour-snakedriver/">44 Snakedriver</a> will get one too.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Building A Bike During The Pandemic (Part I)</title>
-        <author>
-            <name>Patrick</name>
-        </author>
-        <link href="https://offtrail.guru/building-a-bike-during-the-pandemic-part-i/"/>
-        <id>https://offtrail.guru/building-a-bike-during-the-pandemic-part-i/</id>
-            <category term="stooge mk5"/>
-            <category term="mountain bikes"/>
-            <category term="blog post"/>
-            <category term="bike components"/>
-            <category term="bike"/>
-
-        <updated>2021-12-29T16:32:56+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://offtrail.guru/media/posts/48/bike-build-pandemic-00.jpg" alt="SRAM Eagle XX1 10-50T Cassette" />
-                    <p class="dropcap">The pandemic broke supply chains, slowed production, and threw global shipping into absolute chaos. Combine that with people discovering cycling because their gyms were closed since the start of the pandemic and you have a bike market that can’t fulfill the growing demand. Much has been reported about bikes quickly selling out, component shortages, and long lead times. People can’t get the bikes they would like or build them with the components they would love. Many custom builders can currently not build complete bikes. They happily build frames but have to tell their clients that they’re on their own to build them up.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://offtrail.guru/media/posts/48/bike-build-pandemic-00.jpg" alt="SRAM Eagle XX1 10-50T Cassette" />
-                <p class="dropcap">The pandemic broke supply chains, slowed production, and threw global shipping into absolute chaos. Combine that with people discovering cycling because their gyms were closed since the start of the pandemic and you have a bike market that can’t fulfill the growing demand. Much has been reported about bikes quickly selling out, component shortages, and long lead times. People can’t get the bikes they would like or build them with the components they would love. Many custom builders can currently not build complete bikes. They happily build frames but have to tell their clients that they’re on their own to build them up.</p>
-
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-01.jpg" data-size="2897x2226"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-01-thumbnail.jpg" alt="Enve aluminum stem with titanium bolt upgrade." width="720" height="553"></a>
-<figcaption>Enve stem.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-02.jpg" data-size="3117x2203"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-02-thumbnail.jpg" alt="SRAM GX Eagle AXS derailleur with MPM Tech cage." width="720" height="509"></a>
-<figcaption>SRAM derailleur.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-03.jpg" data-size="3003x2220"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-03-thumbnail.jpg" alt="Crank Brothers Eggbeater 3 pedals." width="720" height="532"></a>
-<figcaption>Eggbeater pedals.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-04.jpg" data-size="3519x2014"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-04-thumbnail.jpg" alt="Überbike Components IS-PM adapters." width="720" height="412"></a>
-<figcaption>Brake adapters.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-05.jpg" data-size="2605x1954"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-05-thumbnail.jpg" alt="Thomson Masterpiece seatpost with titanium bolts." width="720" height="540"></a>
-<figcaption>Thomson seatpost.</figcaption>
-</figure>
-</div></div>
-<p>While online shops have a lot of stuff out of stock, it’s certainly not impossible to build a bike. One has to be patient, shop globally, and sometimes just go for available components. While I have always been using 180 mm rotors on the front of my mountain bikes and 160 mm in the back, I'm going a size larger on the <a href="#non-existing-post-with-id-46">Stooge MK5</a>. My favorite Centerlock rotor, TRP's TR-25 was easily sourced in 203 mm diameter. 180 mm though, was nowhere to be found in Europe. I had to order that size from Universal Cycles in the US. They had them at a reduced price, which made the fairly high cost of shipping easier to swallow.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-06.jpg" data-size="3948x2082"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-06-thumbnail.jpg" alt="Prologo Scratch M5 Nack saddle." width="720" height="380"></a>
-<figcaption>Prologo saddle.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-07.jpg" data-size="3898x2298"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-07-thumbnail.jpg" alt="Rotor Kapic cranks with Boost axle." width="720" height="424"></a>
-<figcaption>Rotor Kapic cranks.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-08.jpg" data-size="3608x2399"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-08-thumbnail.jpg" alt="TRP 203 and 180 mm Centerlock rotors." width="720" height="479"></a>
-<figcaption>TRP rotors.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-09.jpg" data-size="3440x2203"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-09-thumbnail.jpg" alt="Specialized Ground Control GRID 2Bliss Ready 6Fattie tires." width="720" height="461"></a>
-<figcaption>27.5x3.0 tires.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-10.jpg" data-size="3143x2288"><img loading="lazy" src="https://offtrail.guru/media/posts/48//gallery/bike-build-pandemic-10-thumbnail.jpg" alt="Rotor 30T Q-Ring." width="720" height="524"></a>
-<figcaption>Rotor chainring.</figcaption>
-</figure>
-</div></div>
-<p>The Light Bicycle AM740 rims I ordered went into production right away. The Onyx Boost hubs had a lead time of 5-6 weeks and arrived as promised. Due to the supply shortages, one would expect prices to be up or at least not to be marked down, but I was able to get two pairs of tires at heavily reduced prices. All I'm missing now is a set of disc brakes. In keeping with standardizing the components across my bikes, the MK5 has to be equipped with the same brakes as my <a href="https://offtrail.guru/fortyfour-snakedriver/">44 Snakedriver</a> - Formula Cura 4. They had been stock in most online shops up to a couple of weeks ago. I wasn't expecting that to change, but it did.</p>
-<p>The <a href="http://stoogecycles.co.uk/product/mk5-coming-soon-ish/" target="_blank" rel="noopener noreferrer">Stooge MK5 frameset</a> has an ETA of August. I don't doubt that the Asian factory will have them made by then, but I wonder if Andy Stevenson will be able to have them shipped to Europe quickly due to the massive port delays out of China.</p>
             ]]>
         </content>
     </entry>
