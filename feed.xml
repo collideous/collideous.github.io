@@ -3,12 +3,58 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2022-01-30T18:37:50+01:00</updated>
+    <updated>2022-02-03T22:39:16+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
     <id>https://offtrail.guru</id>
 
+    <entry>
+        <title>BB3106 - A New Bottom Bracket Standard</title>
+        <author>
+            <name>Patrick</name>
+        </author>
+        <link href="https://offtrail.guru/cbb30-the-presentation-of-a-custom-bottom-bracket/"/>
+        <id>https://offtrail.guru/cbb30-the-presentation-of-a-custom-bottom-bracket/</id>
+            <category term="stooge mk5"/>
+            <category term="mountain bikes"/>
+            <category term="diy"/>
+            <category term="blog post"/>
+            <category term="bike components"/>
+            <category term="bike"/>
+
+        <updated>2022-02-03T22:39:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://offtrail.guru/media/posts/53/bb3106-0.jpg" alt="BB3106 Bottom Bracket." />
+                    <p>If there's one thing I would change about the <a href="#non-existing-post-with-id-46">Stooge MK5</a>, it's the eccentric bottom bracket. With a 1x12 drivetrain, I simply don't need it. I acknowledge that there are benefits to having one. For one, the MK5 can be set up single-speed or geared. As such, it has a wider appeal, and should I ever part with it, the circle of potential buyers would be considerably larger. My experiences with the two EBB-equipped bikes I've owned, however, were more bad than good. My <a href="https://www.flickr.com/photos/collideous/albums/72157594265939262" target="_blank" rel="noopener noreferrer">Niner One9</a>, for instance, had a setscrew EBB. The setscrews quickly ate themselves into the EBB, and the BB shell ovalized over time, leaving a wide gap between the shell and the EBB. The gap filled with dirt, and the whole setup was creaking more often than not. My <a href="https://www.flickr.com/photos/collideous/albums/72157624709981871" target="_blank" rel="noopener noreferrer">Air9 Carbon</a> came with Niner's own <a href="https://www.flickr.com/photos/collideous/5007770051/" target="_blank" rel="noopener noreferrer">Bio-Centric</a> bottom bracket, a design that clamps to the outside faces of the EBB shell. In theory, this seemed great. Machine a precise cylindrical BB shell with parallel outside faces and clamp two eccentric cups against those faces. In practice, it was pretty shitty, to say the least. For one, machining tolerances were such that a Bio-Centric cup would more easily turn on one side of the shell than on the other. But much worse was that Niner designed large cutouts into the shell so that shifter cables could be routed internally. This dramatically weakened the shell to the point that the proper tightening torque of the Bio-Centric was enough to crush it. It was an extremely troublesome design that creaked a lot as well.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://offtrail.guru/media/posts/53/bb3106-0.jpg" alt="BB3106 Bottom Bracket." />
+                <p>If there's one thing I would change about the <a href="#non-existing-post-with-id-46">Stooge MK5</a>, it's the eccentric bottom bracket. With a 1x12 drivetrain, I simply don't need it. I acknowledge that there are benefits to having one. For one, the MK5 can be set up single-speed or geared. As such, it has a wider appeal, and should I ever part with it, the circle of potential buyers would be considerably larger. My experiences with the two EBB-equipped bikes I've owned, however, were more bad than good. My <a href="https://www.flickr.com/photos/collideous/albums/72157594265939262" target="_blank" rel="noopener noreferrer">Niner One9</a>, for instance, had a setscrew EBB. The setscrews quickly ate themselves into the EBB, and the BB shell ovalized over time, leaving a wide gap between the shell and the EBB. The gap filled with dirt, and the whole setup was creaking more often than not. My <a href="https://www.flickr.com/photos/collideous/albums/72157624709981871" target="_blank" rel="noopener noreferrer">Air9 Carbon</a> came with Niner's own <a href="https://www.flickr.com/photos/collideous/5007770051/" target="_blank" rel="noopener noreferrer">Bio-Centric</a> bottom bracket, a design that clamps to the outside faces of the EBB shell. In theory, this seemed great. Machine a precise cylindrical BB shell with parallel outside faces and clamp two eccentric cups against those faces. In practice, it was pretty shitty, to say the least. For one, machining tolerances were such that a Bio-Centric cup would more easily turn on one side of the shell than on the other. But much worse was that Niner designed large cutouts into the shell so that shifter cables could be routed internally. This dramatically weakened the shell to the point that the proper tightening torque of the Bio-Centric was enough to crush it. It was an extremely troublesome design that creaked a lot as well.</p>
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/53/gallery/bb3106-1.jpg" data-size="3491x1964"><img loading="lazy" src="https://offtrail.guru/media/posts/53/gallery/bb3106-1-thumbnail.jpg" alt="Machining the new bottom bracket." width="720" height="405"></a>
+<figcaption>Machining.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/53/gallery/bb3106-2.jpg" data-size="3491x2618"><img loading="lazy" src="https://offtrail.guru/media/posts/53/gallery/bb3106-2-thumbnail.jpg" alt="Made on a Mazak CNC lathe." width="720" height="540"></a>
+<figcaption>Mazak CNC lathe.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/53/gallery/bb3106-3.jpg" data-size="3491x1964"><img loading="lazy" src="https://offtrail.guru/media/posts/53/gallery/bb3106-3-thumbnail.jpg" alt="First fit test with a sample piece." width="720" height="405"></a>
+<figcaption>First fit test.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/53/gallery/bb3106-4.jpg" data-size="1536x1536"><img loading="lazy" src="https://offtrail.guru/media/posts/53/gallery/bb3106-4-thumbnail.jpg" alt="The finished BB3106 fresh out of the shop." width="720" height="720"></a>
+<figcaption>Finished BB3106.</figcaption>
+</figure>
+</div></div>
+<p>So, one could think that I wouldn't touch a bike with an eccentric BB with a ten-foot pole, but when you're looking for a rigid, non-suspension corrected bike, the options are pretty small. And, I love every other aspect of the MK5. Besides, it's steel and should therefore have a much stronger BB shell. The BB shells of the two Niners I owned were both aluminum. The ovalizing seen on the One9 should not happen to a steel shell, IMHO. Since I'm not running this bike single-speed, there's no need for an eccentric BB. So I thought, why not design my own CBB (concentric bottom bracket) and simplify this central part of the bike in the process? The standard setup requires the EBB insert, two setscrews, two external bottom bracket cups, and depending on your crankset axle, various amounts of spacers. Designing my own CBB, I can get rid of the BB cups by using a CBB insert that holds two bearings. Design it to the exact width of the Rotor Boost axle, and I can get rid of the axle spacers, too. To avoid munching up the CBB shell, I'm using two stainless flat-faced ball-ended setscrews, which press onto replaceable brass shims. Being concentric and manufactured to a tighter tolerance, I should also be able to tighten the setscrews with less torque. Riding the hell out of it will tell if the design is any good.</p>
+<p>Since the bottom bracket is a design of my own, it doesn't follow any current bike standards. If you will, it's a new standard that I developed specifically for Rotor Kapic cranks with Boost axle mounted to a <a href="http://stoogecycles.co.uk/product/mk5-18-swamp/" target="_blank" rel="noopener noreferrer">Stooge MK5</a> frame. It will not fit any other cranks. Every new standard needs a designation. CBB30 was a thought. Or referencing axle diameter and BB width, such as BB386 or BB392 do, it could be called BB3106. BB3106, that's right. Remember that you saw it here first!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fat-Biking On Little</title>
         <author>
@@ -651,58 +697,6 @@
 </div></div>
 <p>The first ride back on 700C was interesting. Everything felt sluggish about them. Out of the saddle, it felt like fighting the wheels. On rough road surfaces, the narrower tires with 0.5 bar more pressure than what I run the 650Bs, felt considerably harder. Downhills and flat stretches of road were fine. It took a few more rides to adjust to the larger wheels, and climbing no longer feels as strange. The WTB Nano tires stayed airtight. They roll surprisingly well on pavement and are an absolute blast on gravel. Now that I have them on the <a href="https://offtrail.guru/nordest-albarda/">Nordest Albarda</a>, I’ve been including more gravel into my rides. Autumn, in my opinion, is far nicer for gravel riding as gravel roads don’t have that looseness and dust that they suffer from during the summer months. The extra moisture in the air makes gravel roads much faster, and the lower temperatures probably too.</p>
 <p>A quick update on the <a href="#non-existing-post-with-id-46">Stooge MK5</a> project: While I had no difficulties finding all the components needed for the bike, Andy couldn’t get the framesets on the first boat leaving Asia. Getting goods on cargo ships these days isn’t easy and has become increasingly expensive. I work for a machine tool company that gets its machines from Japan. To ship one of our "<a href="https://english.mazak.jp/machines/integrex-i-250h-st/" target="_blank" rel="noopener noreferrer">bread and butter</a>" machines to Europe can easily cost up to 150’000.00 Euros or more. We used to pay about 30’000 Euros pre-pandemic. Whether it’s bike frames, machines, or diapers, moving goods across the globe has become extremely expensive. It may ultimately be a good thing as we have to rethink the working of our economies in the face of climate change. But in the short term, it poses all sorts of problems. But back to the MK5. The framesets arrived at <a href="http://stoogecycles.co.uk/" target="_blank" rel="noopener noreferrer">Stooge HQ</a> in the UK and should be mailed to all those who pre-ordered very soon.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>New Road Front Light</title>
-        <author>
-            <name>Patrick</name>
-        </author>
-        <link href="https://offtrail.guru/new-road-front-light/"/>
-        <id>https://offtrail.guru/new-road-front-light/</id>
-            <category term="winter time"/>
-            <category term="miscellaneous"/>
-            <category term="blog post"/>
-            <category term="bike components"/>
-
-        <updated>2021-09-13T13:32:09+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://offtrail.guru/media/posts/50/magicshine-front-light-0.jpg" alt="Magicshine MJ-906S front light." />
-                    <p>Since I don't Zwift during the dark season of the year, time had come to look for a new front light. I've been using <a href="https://magicshine.com/" target="_blank" rel="noopener noreferrer">Magicshine</a> lights since I bought a Magicshine Racer's Special from GeoManGear in 2009. I got two more MJ-808E lights in 2014 and have been using them ever since for mountain biking, road cycling, and <a href="https://offtrail.guru/custom-carbon-front-light-mount/">most often</a> for nightly fat-bike rides in the snowy Jura.</p>
-<p>The MJ-808E series of lights are not super ideal with their rubber O-ring that <a href="https://www.flickr.com/photos/collideous/15710182918/" target="_blank" rel="noopener noreferrer">wraps around</a> the handlebar, particularly on the road. Over time, the lights tend to rotate out of position and have to be re-adjusted. So, for the past few years, I've kept an eye out for new lights but never actually pulled the trigger.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://offtrail.guru/media/posts/50/magicshine-front-light-0.jpg" alt="Magicshine MJ-906S front light." />
-                <p>Since I don't Zwift during the dark season of the year, time had come to look for a new front light. I've been using <a href="https://magicshine.com/" target="_blank" rel="noopener noreferrer">Magicshine</a> lights since I bought a Magicshine Racer's Special from GeoManGear in 2009. I got two more MJ-808E lights in 2014 and have been using them ever since for mountain biking, road cycling, and <a href="https://offtrail.guru/custom-carbon-front-light-mount/">most often</a> for nightly fat-bike rides in the snowy Jura.</p>
-<p>The MJ-808E series of lights are not super ideal with their rubber O-ring that <a href="https://www.flickr.com/photos/collideous/15710182918/" target="_blank" rel="noopener noreferrer">wraps around</a> the handlebar, particularly on the road. Over time, the lights tend to rotate out of position and have to be re-adjusted. So, for the past few years, I've kept an eye out for new lights but never actually pulled the trigger.</p>
-
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-1.jpg" data-size="3571x2009"><img loading="lazy" src="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-1-thumbnail.jpg" alt="Magicshine MJ-906S front light and GoPro Hero5 Session.." width="720" height="405"></a>
-<figcaption>Front view.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-2.jpg" data-size="4032x2268"><img loading="lazy" src="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-2-thumbnail.jpg" alt="MJ-6118 battery pack hidden in a Silca Speed capsule." width="720" height="405"></a>
-<figcaption>Side view.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-3.jpg" data-size="4032x2268"><img loading="lazy" src="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-3-thumbnail.jpg" alt="Short Garmin-style MJ-6272 front mount." width="720" height="405"></a>
-<figcaption>Handlebar mount.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-4.jpg" data-size="4032x2268"><img loading="lazy" src="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-4-thumbnail.jpg" alt="That's one tidy setup." width="720" height="405"></a>
-<figcaption>Upper view.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-5.jpg" data-size="4032x2268"><img loading="lazy" src="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-5-thumbnail.jpg" alt="Time to test this setup." width="720" height="405"></a>
-<figcaption>Frontal view.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-6.jpg" data-size="4032x2268"><img loading="lazy" src="https://offtrail.guru/media/posts/50/gallery/magicshine-front-light-6-thumbnail.jpg" alt="This shouldn't be moving at all." width="720" height="405"></a>
-<figcaption>Top view.</figcaption>
-</figure>
-</div></div>
-<p>Well, I finally ordered a light that I will be using on evening road bike rides; a Magicshine <a href="https://magicshine.com/products/mj-906s" target="_blank" rel="noopener noreferrer">MJ-906S</a>. This 4500-lumen front light mounts smack in the front center of my stem, thanks to a Garmin-style <a href="https://magicshine.com/products/magicshine%C2%AE-mj-6272-out-front-bike-mount" target="_blank" rel="noopener noreferrer">MJ-6272</a> front mount. Underneath the light, there's a GoPro mount to attach any GoPro camera or another compatible device.</p>
-<p>I'm using a top-tube mounted Silca Speed Capsule to store the powerful <a href="https://www.magicshine.us/product/magicshine-mj-6118-7-2v-5-2ah-usb-battery-pack-round-plug/" target="_blank" rel="noopener noreferrer">MJ-6118</a> battery pack. It is going to shield the battery from the elements and the cold. When I returned from my last two rides, dusk started to set in while coming down the mountain. I still saw plenty but will be using the light from now on to be seen by the occasional driver that may come up the road. On my narrow roads in the woods, an un-illuminated cyclist can easily be missed after all. </p>
             ]]>
         </content>
     </entry>
