@@ -3,7 +3,7 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2022-03-17T19:41:32+01:00</updated>
+    <updated>2022-03-17T23:13:35+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="cycling"/>
             <category term="bike"/>
 
-        <updated>2022-03-17T19:41:32+01:00</updated>
+        <updated>2022-03-17T23:13:35+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/46/stooge-mk5-0.jpg" alt="Stooge MK5" />
@@ -33,7 +33,8 @@
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/46/stooge-mk5-0.jpg" alt="Stooge MK5" />
                 <p class="dropcap">I bought my first 29er in 2006 when most were still riding 26-inch wheels and stuck with that wheel size for all things mountain biking, which in my world was rigid and single-speed. After we moved into a region where most of the trails are too steep for a bike without a derailleur, I had to consider adding a geared MTB to my bike fleet. At the time, the knobby side of the fleet consisted of my 29er <a href="https://offtrail.guru/fortyfour-marauder/">44 Marauder</a>, the 26" 44 Big Boy, and the 27.5" <a href="https://offtrail.guru/fortyfour-snakedriver/">44 Snakedriver</a> fat-bikes. I did a bit of reconnaissance on the old <a href="https://offtrail.guru/old-mountain-bikes/">Big Boy</a> and quickly realized that the new trails I loved required more traction than a regular 2.2-2.4" tire can put on the ground. The Big Boy with its tractor-sized tires climbed wonderfully, but the snow-only I9 wheels were too delicate for the rocky descents, and the bike, in general, was more at home on gentler terrain.</p>
-<div class="gallery"  data-is-empty="false" data-columns="4">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/46/gallery/stooge-mk5-1.jpg" data-size="3179x1788"><img loading="lazy" src="https://offtrail.guru/media/posts/46/gallery/stooge-mk5-1-thumbnail.jpg" alt="BB3106 installed." width="720" height="405"></a>
 <figcaption>BB3106 installed.</figcaption>
 </figure>
@@ -207,7 +208,7 @@
             <category term="bike components"/>
             <category term="bike"/>
 
-        <updated>2022-03-17T18:21:22+01:00</updated>
+        <updated>2022-03-17T23:11:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/54/nuts-bolts-0.jpg" alt="The finished BB3106." />
@@ -219,7 +220,8 @@
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/54/nuts-bolts-0.jpg" alt="The finished BB3106." />
                 <p class="dropcap">In my <a href="https://offtrail.guru/the-nuts-and-bolts-of-bb3106/">previous post</a>, I introduced my BB3106 bottom bracket. The cycling world is full of different bottom bracket standards, and each time a new one is introduced, every cycling forum and every comment section of every cycling news website moans about it. So, I'm gifting the cycling world with yet another "standard." But no need to worry. Specifically designed for Rotor Kapic cranks with Boost axle mounted to a <a href="https://offtrail.guru/stooge-mk5/">Stooge MK5</a>, BB3106 isn't anything the bicycle industry is going to adopt. And should it ever become a thing, remember that you saw it here first!</p>
-<div class="gallery"  data-is-empty="false" data-columns="4">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/54/gallery/nuts-bolts-1.jpg" data-size="4032x2268"><img loading="lazy" src="https://offtrail.guru/media/posts/54/gallery/nuts-bolts-1-thumbnail.jpg" alt="Busy evening installing my custom BB." width="720" height="405"></a>
 <figcaption>BB installed.</figcaption>
 </figure>
@@ -315,7 +317,7 @@
             <category term="bike components"/>
             <category term="bike"/>
 
-        <updated>2022-03-17T18:21:29+01:00</updated>
+        <updated>2022-03-17T23:11:38+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/53/bb3106-0.jpg" alt="BB3106 Bottom Bracket." />
@@ -327,7 +329,8 @@
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/53/bb3106-0.jpg" alt="BB3106 Bottom Bracket." />
                 <p>If there's one thing I would change about the <a href="https://offtrail.guru/stooge-mk5/">Stooge MK5</a>, it's the eccentric bottom bracket. With a 1x12 drivetrain, I simply don't need it. I acknowledge that there are benefits to having one. For one, the MK5 can be set up single-speed or geared. As such, it has a wider appeal, and should I ever part with it, the circle of potential buyers would be considerably larger. My experiences with the two EBB-equipped bikes I've owned, however, were more bad than good. My <a href="https://www.flickr.com/photos/collideous/albums/72157594265939262" target="_blank" rel="noopener noreferrer">Niner One9</a>, for instance, had a setscrew EBB. The setscrews quickly ate themselves into the EBB, and the BB shell ovalized over time, leaving a wide gap between the shell and the EBB. The gap filled with dirt, and the whole setup was creaking more often than not. My <a href="https://www.flickr.com/photos/collideous/albums/72157624709981871" target="_blank" rel="noopener noreferrer">Air9 Carbon</a> came with Niner's own <a href="https://www.flickr.com/photos/collideous/5007770051/" target="_blank" rel="noopener noreferrer">Bio-Centric</a> bottom bracket, a design that clamps to the outside faces of the EBB shell. In theory, this seemed great. Machine a precise cylindrical BB shell with parallel outside faces and clamp two eccentric cups against those faces. In practice, it was pretty shitty, to say the least. For one, machining tolerances were such that a Bio-Centric cup would more easily turn on one side of the shell than on the other. But much worse was that Niner designed large cutouts into the shell so that shifter cables could be routed internally. This dramatically weakened the shell to the point that the proper tightening torque of the Bio-Centric was enough to crush it. It was an extremely troublesome design that creaked a lot as well.</p>
-<div class="gallery"  data-is-empty="false" data-columns="3">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/53/gallery/bb3106-1.jpg" data-size="3491x1964"><img loading="lazy" src="https://offtrail.guru/media/posts/53/gallery/bb3106-1-thumbnail.jpg" alt="Machining the new bottom bracket." width="720" height="405"></a>
 <figcaption>Machining.</figcaption>
 </figure>
@@ -364,7 +367,7 @@
             <category term="computer"/>
             <category term="blog post"/>
 
-        <updated>2022-03-17T18:20:29+01:00</updated>
+        <updated>2022-03-17T23:09:51+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/61/fatbiking-little-0.jpg" alt="Crossing the Bözingenberg west to east." />
@@ -376,7 +379,8 @@
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/61/fatbiking-little-0.jpg" alt="Crossing the Bözingenberg west to east." />
                 <p class="dropcap">There’s not much snow left on our Jura mountains. Despite the mild temperatures, what was left, fortunately, melted only slowly during the week. Likely thanks to the dry air. It’s the end of January, and it has never felt wintery so far. If we don’t get any winter storms in the coming weeks, like other parts of the world are experiencing right now, winter may very well be over at the end of February or even before. I’m trying to make the best out of it by riding the still snow-covered hillsides in my backyard. It means that I have to ride my studded tires on pavement and gravel for a couple of miles to and from snow-covered trails. I do this carefully. Studded fat-bike tires aren’t cheap after all. At the moment, they’re very needed since a lot of the trails have ice on them.</p>
-Yesterday, I decided to visit the Bözingenberg. The northern side of it, as well as the whole valley of Vauffelin, don’t see much sun during these months. The other weekend, when I drove to les Prés d’Orvin, for instance, it was -10ºC in Vauffelin while it was about +1ºC in Prés d’Orvin. Sure enough, I spent the whole way on snow. Crossing the Bözingenberg west to east brought ever-changing snow conditions. South-western facing slopes were often slushy. Flatter, sun-exposed patches often had no or little snow. Eastern facing slopes or wooded areas were all still covered with crunchy snow. Speaking of studs, the last mile to get home I pop onto the Grenchenberg road. Going downhill and entering Grenchen I arrive with quite some speed. Fat-bike tires with huge knobs are loud, to begin with, add metals studs, and you’re likely the loudest vehicle that comes down the hill all day. Not surprisingly, every pedestrian on the sidewalk turns around to see what’s approaching.<span class="Apple-converted-space"> </span></p>
+
+<p>Yesterday, I decided to visit the Bözingenberg. The northern side of it, as well as the whole valley of Vauffelin, don’t see much sun during these months. The other weekend, when I drove to les Prés d’Orvin, for instance, it was -10ºC in Vauffelin while it was about +1ºC in Prés d’Orvin. Sure enough, I spent the whole way on snow. Crossing the Bözingenberg west to east brought ever-changing snow conditions. South-western facing slopes were often slushy. Flatter, sun-exposed patches often had no or little snow. Eastern facing slopes or wooded areas were all still covered with crunchy snow. Speaking of studs, the last mile to get home I pop onto the Grenchenberg road. Going downhill and entering Grenchen I arrive with quite some speed. Fat-bike tires with huge knobs are loud, to begin with, add metals studs, and you’re likely the loudest vehicle that comes down the hill all day. Not surprisingly, every pedestrian on the sidewalk turns around to see what’s approaching.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="5">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/61/gallery/fatbiking-little-1.jpg" data-size="3840x2160"><img loading="lazy" src="https://offtrail.guru/media/posts/61/gallery/fatbiking-little-1-thumbnail.jpg" alt="Following the footpaths of hikers." width="720" height="405"></a>
 <figcaption>Footpaths.</figcaption>
@@ -409,7 +413,7 @@ Yesterday, I decided to visit the Bözingenberg. The northern side of it, as wel
             <category term="datastudio"/>
             <category term="blog post"/>
 
-        <updated>2022-03-17T18:20:45+01:00</updated>
+        <updated>2022-03-17T23:10:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/60/speed-scatter-charts.png" alt="Scatter charts in Data Studio." />
@@ -421,7 +425,8 @@ Yesterday, I decided to visit the Bözingenberg. The northern side of it, as wel
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/60/speed-scatter-charts.png" alt="Scatter charts in Data Studio." />
                 <p class="dropcap">As mentioned in my <a href="https://offtrail.guru/late-afternoon-fat-biking/">previous</a> post, I recreated my <a href="https://offtrail.guru/strava-dashboard-in-data-studio/">Data Studio dashboard</a> under a new Gmail account because Google’s <a href="https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/" target="_blank" rel="noopener noreferrer">G Suite legacy free edition</a>, which became <a href="https://workspace.google.com/" target="_blank" rel="noopener noreferrer">Google Workspace</a> in 2020, will require a <a href="https://workspace.google.com/pricing.html" target="_blank" rel="noopener noreferrer">paid subscription</a> this year. Three simple things needed to be done. First, I had to copy my <a href="https://www.google.com/sheets/" target="_blank" rel="noopener noreferrer">Google sheet</a> from the old account to my new account. Then, I had to create a new <a href="https://zapier.com/" target="_blank" rel="noopener noreferrer">Zapier</a> account, and share my zap from the old account with the new account. This was straightforward. Once logged into Zapier with my new account, I had to link the zap to <a href="https://www.strava.com/athletes/133569" target="_blank" rel="noopener noreferrer">my Strava account</a> and also had to give the zap permission to modify my Google sheet. Pretty much the same procedure was necessary for the <a href="https://datastudio.google.com/" target="_blank" rel="noopener noreferrer">Data Studio</a> report. I logged into the old account and shared the report with my new account. Then, I logged into the new account and had to replace the data sources to point to the Google sheet in my new <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">Gmail</a> account. Sounds complicated but was extremely simple.</p>
-<div class="gallery"  data-is-empty="false" data-columns="3">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/60/gallery/zap-home.png" data-size="773x216"><img loading="lazy" src="https://offtrail.guru/media/posts/60/gallery/zap-home-thumbnail.png" alt="The zap that does all the work." width="720" height="201"></a>
 <figcaption>The zap.</figcaption>
 </figure>
@@ -464,7 +469,7 @@ Yesterday, I decided to visit the Bözingenberg. The northern side of it, as wel
             <category term="fat biking"/>
             <category term="blog post"/>
 
-        <updated>2022-03-17T18:20:52+01:00</updated>
+        <updated>2022-03-17T23:10:20+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/59/late-afternoon-fatbike-ride-0.jpg" alt="Late afternoon at the Romontberg." />
@@ -476,7 +481,8 @@ Yesterday, I decided to visit the Bözingenberg. The northern side of it, as wel
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/59/late-afternoon-fatbike-ride-0.jpg" alt="Late afternoon at the Romontberg." />
                 <p class="dropcap">My weekend routine these days follows pretty much the same pattern every weekend. I hit the sack between 10 and 11 PM to be woken up by my wife between 3 and 4 AM. She goes to bed, and I go upstairs, clean our cats’ litter box, feed them, and get some more sleep on the couch with the alarm clock set to wake me up at regular intervals to feed our kitties. Most of the time, I get up after 8 AM to make breakfast for myself and our cats. Since my wife is getting a few hours of rest in our downstairs bedroom, I spend the morning with quiet activities. Lately, this has been setting up my MacBook. There’s not a lot of software I need; Edge to browse, Spark to read mail, Photos for my large photo library, Atom, and Publii to maintain this blog, Office 365 and OneDrive, music players such as Sonos, Spotify, and IINA to listen to music. I have to say, macOS Monterey is a wonderful OS.</p>
-<div class="gallery"  data-is-empty="false" data-columns="3">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-1.jpg" data-size="3840x2160"><img loading="lazy" src="https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-1-thumbnail.jpg" alt="What a day." width="720" height="405"></a>
 <figcaption>What a day.</figcaption>
 </figure>
@@ -512,7 +518,7 @@ Yesterday, I decided to visit the Bözingenberg. The northern side of it, as wel
             <category term="cycling"/>
             <category term="blog post"/>
 
-        <updated>2022-03-17T18:20:58+01:00</updated>
+        <updated>2022-03-17T23:10:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/58/january-this-that-0.jpg" alt="Cycling garments for 2022." />
@@ -524,7 +530,8 @@ Yesterday, I decided to visit the Bözingenberg. The northern side of it, as wel
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/58/january-this-that-0.jpg" alt="Cycling garments for 2022." />
                 <p class="dropcap">In 2021 I rode 128 times or 234 hours, totaling 4'218 kilometers and climbing 119'885 meters. I spent 87% of the rides on my <a href="https://offtrail.guru/nordest-albarda/">Nordest Albarda</a> allroad bike and did a single mountain bike all year. That's very unusual for someone who got into cycling on a mountain bike. 2020 and 2021 have been very unusual years, not just due to the continuing pandemic, but because our two old cats have chronic kidney disease. Maintaining a good quality of life for our two bugs has become the first priority. So, whenever I left for a ride, it was a 1-2 hour road bike ride, sometimes with a bit of gravel mixed in. My wife and I stayed home to take care of them at all times, and if one of us had to go out of town, the other stayed at home with them. We never left our cats alone for more than a few hours. A weekend trip or vacation? Impossible.</p>
-Up to 2019, a good cycling year was eight to eight and a half thousand kilometers on the bike. So, I'm at about half that. But what wasn't spent on the bike was spent on taking care of my bike fleet doing maintenance and upgrades. Next in line is my <a href="https://offtrail.guru/fortyfour-marauder/">44 Marauder</a>. The hubs need new bearings. Chainring, chain, and cog need to be replaced as well. Once winter is over, some work will be done to my <a href="https://offtrail.guru/fortyfour-snakedriver/">44 Snakedriver</a>. Here too, the hub bearings will be replaced, a new drivetrain will be mounted, and later in the year, I'll swap saddle and dropper.</p>
+
+<p>Up to 2019, a good cycling year was eight to eight and a half thousand kilometers on the bike. So, I'm at about half that. But what wasn't spent on the bike was spent on taking care of my bike fleet doing maintenance and upgrades. Next in line is my <a href="https://offtrail.guru/fortyfour-marauder/">44 Marauder</a>. The hubs need new bearings. Chainring, chain, and cog need to be replaced as well. Once winter is over, some work will be done to my <a href="https://offtrail.guru/fortyfour-snakedriver/">44 Snakedriver</a>. Here too, the hub bearings will be replaced, a new drivetrain will be mounted, and later in the year, I'll swap saddle and dropper.</p>
 <figure class="post__image" ><img loading="lazy" src="https://offtrail.guru/media/posts/58/january-this-that-3.jpg" sizes="100vw" srcset="https://offtrail.guru/media/posts/58/responsive/january-this-that-3-xs.jpg 300w ,https://offtrail.guru/media/posts/58/responsive/january-this-that-3-sm.jpg 480w ,https://offtrail.guru/media/posts/58/responsive/january-this-that-3-md.jpg 768w ,https://offtrail.guru/media/posts/58/responsive/january-this-that-3-lg.jpg 1024w ,https://offtrail.guru/media/posts/58/responsive/january-this-that-3-xl.jpg 1360w ,https://offtrail.guru/media/posts/58/responsive/january-this-that-3-2xl.jpg 1600w"  alt="Mac Book Pro" width="2127" height="2133">
 <figcaption >My "new" 2016 15" MacBook Pro.</figcaption>
 </figure>
@@ -553,7 +560,7 @@ Up to 2019, a good cycling year was eight to eight and a half thousand kilometer
             <category term="geometry"/>
             <category term="bike"/>
 
-        <updated>2022-03-17T18:21:04+01:00</updated>
+        <updated>2022-03-17T23:10:46+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/57/stooge-mk5-geometry.jpg" alt="Stooge MK5." />
@@ -565,7 +572,8 @@ Up to 2019, a good cycling year was eight to eight and a half thousand kilometer
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/57/stooge-mk5-geometry.jpg" alt="Stooge MK5." />
                 <p class="dropcap">The numbers below are from <a href="https://bikeinsights.com/bike-geometries/6095bd46681ed40022fc6af3-2021-stooge-cycles-mk5-base-18" target="_blank" rel="noopener noreferrer">Bike Insights</a>, from <a href="http://stoogecycles.co.uk/" target="_blank" rel="noopener noreferrer">Stooge</a> and from <a href="https://www.44bikes.com/" target="_blank" rel="noopener noreferrer">Kris</a>' drawings I imported into <a href="https://www.qcad.org/" target="_blank" rel="noopener noreferrer">QCAD</a>, an open-source 2D CAD system. While some people totally geek out about bike geometry and could hold a 2-hour monologue on head tube angles alone, I'm really not a numbers expert when it comes to cycling. Whether the topic is frame geometry or watts and whatnot, I'm not the expert to talk to despite 36 years of cycling. I don't sit on enough bikes to have an expert opinion on what a slacker head tube or longer trail do to a bike. Sure, I have an idea about it, but with the rather small number of bikes I've ridden over the years, I'm still far from having earned the degree of "armchair geometry wizard." The 36 years in the sport have given me the ability to know what works for me; no more, no less. Changes I've made over the years happened gradually. Being limited to riding only the bikes I purchased, my experience and knowledge of the sport are fairly narrow. I know nothing about suspension and bikes equipped with it. I know even less about bikes powered by motors and honestly don't care to know anything about them. When the time comes to look for a new bike, and it's not made to measure by a bike builder, I usually compare the geometry to the bikes I already own. Often, I draw the frames up in CAD and overlay them for comparison. This also helps to figure out what stem to select to achieve a similar position on a new bike.</p>
-<div class="gallery"  data-is-empty="false" data-columns="3">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/57/gallery/geometry.stooge.mk5.jpg" data-size="2560x1919"><img loading="lazy" src="https://offtrail.guru/media/posts/57/gallery/geometry.stooge.mk5-thumbnail.jpg" alt="Stooge MK5." width="720" height="540"></a>
 <figcaption>Stooge MK5.</figcaption>
 </figure>
@@ -777,7 +785,7 @@ Up to 2019, a good cycling year was eight to eight and a half thousand kilometer
             <category term="fat biking"/>
             <category term="blog post"/>
 
-        <updated>2022-03-17T18:21:11+01:00</updated>
+        <updated>2022-03-17T23:10:57+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/56/weekday-fatbike-ride-0.jpg" alt="Homebound above Prés d&#x27;Orvin." />
@@ -789,7 +797,8 @@ Up to 2019, a good cycling year was eight to eight and a half thousand kilometer
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/56/weekday-fatbike-ride-0.jpg" alt="Homebound above Prés d&#x27;Orvin." />
                 <p class="dropcap">My fat-bike season already started on <a href="https://www.flickr.com/photos/collideous/tags/28112021" target="_blank" rel="noopener noreferrer">November 28th</a> with a ride in Prés d'Orvin. When the snow reached the lowlands at the beginning of December, I was able to start my snow rides right from our doorstep for two weekends. The Montagne de Romont and Plagne were my destinations on each of those weekends. Except for Sunday, <a href="https://www.flickr.com/photos/collideous/tags/12122021" target="_blank" rel="noopener noreferrer">December 12th</a>, the weather <a href="https://www.flickr.com/photos/collideous/tags/11122021" target="_blank" rel="noopener noreferrer">wasn't the best</a>. Fog, wind, and snowfall never bother me. On the contrary, it's much more an achievement to stand under the Chasseral antenna with <a href="https://www.flickr.com/photos/collideous/31304499967/" target="_blank" rel="noopener noreferrer">100kph winds</a> and heavy snowfall than getting there on a pleasant, sunny winter day.</p>
-<div class="gallery"  data-is-empty="false" data-columns="3">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/56/gallery/weekday-fatbike-ride-1.jpg" data-size="3840x2160"><img loading="lazy" src="https://offtrail.guru/media/posts/56/gallery/weekday-fatbike-ride-1-thumbnail.jpg" alt="Climbing out of the fog." width="720" height="405"></a>
 <figcaption>Climbing.</figcaption>
 </figure>
@@ -841,7 +850,7 @@ Up to 2019, a good cycling year was eight to eight and a half thousand kilometer
             <category term="bike components"/>
             <category term="bike"/>
 
-        <updated>2022-03-17T18:21:17+01:00</updated>
+        <updated>2022-03-17T23:11:09+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/55/stooge-mk5-0.jpg" alt="Enve aluminum stem." />
@@ -853,7 +862,8 @@ Up to 2019, a good cycling year was eight to eight and a half thousand kilometer
             <![CDATA[
                     <img src="https://offtrail.guru/media/posts/55/stooge-mk5-0.jpg" alt="Enve aluminum stem." />
                 <p class="dropcap">This is a continuation of <a href="https://offtrail.guru/building-a-bike-during-the-pandemic-part-i/">Part I</a> from July 18th and <a href="https://offtrail.guru/building-a-bike-during-the-pandemic-part-ii/">Part II</a> from July 24th, in case you missed them. When Andy launched the <a href="http://stoogecycles.co.uk/product/mk5-18-swamp/" target="_blank" rel="noopener noreferrer">MK5</a> in the spring, ETA for the framesets was August. Because a certain percentage of the population has forgotten that living in a modern, democratic society doesn't just come with personal liberties but with responsibilities as well, we live in a seemingly never-ending pandemic. And as long as the Coronavirus has the upper hand, our economies will continue to stutter each time case numbers explode, supply chains will remain broken, and bike components will be in short supply.</p>
-<div class="gallery"  data-is-empty="false" data-columns="3">
+
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/55/gallery/stooge-mk5-1.jpg" data-size="3208x2906"><img loading="lazy" src="https://offtrail.guru/media/posts/55/gallery/stooge-mk5-1-thumbnail.jpg" alt="Front brake with a large 203mm rotor." width="720" height="652"></a>
 <figcaption>Front brake.</figcaption>
 </figure>
