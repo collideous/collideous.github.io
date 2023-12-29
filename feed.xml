@@ -3,12 +3,89 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2023-12-24T09:21:58+01:00</updated>
+    <updated>2023-12-29T10:36:21+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
     <id>https://offtrail.guru</id>
 
+    <entry>
+        <title>Wheel And Tire Testing</title>
+        <author>
+            <name>Patrick</name>
+        </author>
+        <link href="https://offtrail.guru/wheel-and-tire-testing/"/>
+        <id>https://offtrail.guru/wheel-and-tire-testing/</id>
+        <media:content url="https://offtrail.guru/media/posts/83/wheel-tire-testing-00.jpg" medium="image" />
+            <category term="wheels"/>
+            <category term="tires"/>
+            <category term="gravel bikes"/>
+
+        <updated>2023-12-29T10:36:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://offtrail.guru/media/posts/83/wheel-tire-testing-00.jpg" alt="Climbing the Romontberg." />
+                    In November, I got a new wheelset for my Marin Gestalt X12. Before that, it was using seven-year-old Nox Composites Citico wheels with Chris King R45D hubs. The new wheels had Hope Pro5 Centerlock hubs, Light Bicycle WG44 rims, and René Herse Antelope Hill tires.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://offtrail.guru/media/posts/83/wheel-tire-testing-00.jpg" class="type:primaryImage" alt="Climbing the Romontberg." /></p>
+                <p class="dropcap">In November, I got a new <a href="https://offtrail.guru/marin-gestalt-x12-on-new-wheels/">wheelset</a> for my <a href="https://offtrail.guru/marin-gestalt-x12/">Marin Gestalt X12</a>. Before that, it was using seven-year-old Nox Composites <a href="https://www.noxcomposites.com/citico" target="_blank" rel="noopener noreferrer">Citico</a> wheels with Chris King R45D hubs. The new wheels had Hope Pro5 Centerlock hubs, Light Bicycle <a href="https://www.lightbicycle.com/700C-gravel-bicycle-rims-40mm-wide-44mm-deep-aero-clincher.html" target="_blank" rel="noopener noreferrer">WG44</a> rims, and René Herse <a href="https://www.renehersecycles.com/shop/components/tires/700c/700cx55-antelope-hill-tc/" target="_blank" rel="noopener noreferrer">Antelope Hill</a> tires. I enjoy climbing on my bikes and also like to descend. The new wheels were great for climbing, fast on flat surfaces, and smooth on gravel. However, they were not perfect for descending. Specifically, when I exceed 50 kph with head and crosswinds on open descents that are not too steep, the steering becomes wobbly and insecure. At slower speeds or steeper descents, the instability is not present. There are two possible causes for this. Firstly, the 55mm wide Antelope Hill tires and the 40mm tall WG44 rims create a large surface area, making the front wheel more susceptible to wind gusts. Secondly, the <a href="https://bikeinsights.com/bike-geometries/636a376a032291001d24e0b4-2023-marin-bikes-gestalt-x10-base-l" target="_blank" rel="noopener noreferrer">slack geometry</a> of the Gestalt X12 could be a factor. The long front triangle and slack head tube angle move the front wheel further from the rider, changing the weight distribution and putting less weight on the front wheel. This might explain why the bike descends well on steeper roads as more of my weight shifts forward. I want a bike to feel sharp and precise, so I have some testing to do.</p>
+<h4>Test #1 - New wheels with 44mm Snoqualmie Pass tires</h4>
+<p><span style="text-decoration: underline;">Wheels</span>: Hope Pro5 Centerlock thru-axle hubs, Light Bicycle WG44 high-profile rims, René Herse 700C x 44 Snoqualmie Pass tires</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-01.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-01-thumbnail.webp" alt="The road up the Romontberg." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-02.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-02-thumbnail.webp" alt="The road up the Romontberg." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-03.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-03-thumbnail.webp" alt="The road up to Plagne." width="720" height="405"></a>
+<figcaption>Plagne.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-04.jpg" data-size="3699x2081"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-04-thumbnail.webp" alt="On the way to Selzach." width="720" height="405"></a>
+<figcaption>Selzach.</figcaption>
+</figure>
+</div></div>
+<p>This setup feels incredible. The bike is a nimble climber, an agile descender, and quick on flats, too. The smaller tires require more air pressure, about 2.8 bars (40 psi). They are still comfortable but don’t offer the smoothness of a 55mm tire. They are noticeably faster than their larger siblings on gravel. They look and feel very aerodynamic. The front wheel cuts through the air like a hand-forged Katana, and the steering is as sharp as one. I'm glad about that. At least I have not built the wrong wheelset.</p>
+<h4>Test #2 - Old wheels with 55mm Antelope Hill tires</h4>
+<p><span style="text-decoration: underline;">Wheels</span>: Chris King R45D Centerlock thru-axle hubs, Nox Composites Citico low-profile rims, René Herse 700C x 55 Antelope Hill tires</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-05.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-05-thumbnail.webp" alt="The bottom of the Romontberg climb." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-06.jpg" data-size="3421x1924"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-06-thumbnail.webp" alt="At the foot of the Romontberg." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-07.jpg" data-size="3890x2188"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-07-thumbnail.webp" alt="A third into the Romontberg." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-08.jpg" data-size="4012x2257"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-08-thumbnail.webp" alt="Halfway into the Romontberg." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+</div></div>
+<p>The Antelope Hill tire is the tire I would like to use on this bike. I would go down one size to the 700C x 48 <a href="https://www.renehersecycles.com/shop/components/tires/700c/700c-x-48-hatcher-pass-tc-tire/" target="_blank" rel="noopener noreferrer">Hatcher Pass</a>, but I wouldn't go any smaller. The 55mm tires, paired with low-profile rims, are borderline criminal. They don't hold me back while climbing and offer a crazy amount of grip on the descents. I rode this setup on the descent, where the tires on the WG44 rims felt awful. I also took this setup to the ultimate descent from my Hausberg, the Grenchenberg. This is a pothole-covered, rock-littered, and bumpy downhill. The bigger the tires, the faster this road can be ridden. Needless to say, the Antelope Hill tires are made for such terrain.</p>
+<h4>Conclusion - Large tires on high-profile rims are not for the MGX12</h4>
+<p>A new wheelset with low-profile rims is necessary. The Nox wheels would do the job, but they are seven years old and now serve as spare wheels. I often mount knobbier tires on them and use them during the winter months.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-09.jpg" data-size="3537x1990"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-09-thumbnail.webp" alt="Reaching the top of the Romontberg." width="720" height="405"></a>
+<figcaption>Romontberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-10.jpg" data-size="4032x2268"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-10-thumbnail.webp" alt="Between Plagne and the Romontberg." width="720" height="405"></a>
+<figcaption>Plagne.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-11.jpg" data-size="4032x2268"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-11-thumbnail.webp" alt="Climbing my Hausberg the Grenchenberg." width="720" height="405"></a>
+<figcaption>Hausberg.</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-12.jpg" data-size="4032x2268"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/83/gallery/wheel-tire-testing-12-thumbnail.webp" alt="At the top of the Grenchenberg." width="720" height="405"></a>
+<figcaption>Grenchenberg.</figcaption>
+</figure>
+</div></div>
+<p>There were two Light Bicycle rims I was considering: the <a href="https://www.lightbicycle.com/AR25-Disc-Carbon-Gravel-Bike-Rim-700c-24mm-Wide-25mm-Deep.html" target="_blank" rel="noopener noreferrer">AR25</a> gravel rim and the <a href="https://www.lightbicycle.com/xc930-super-light-xc-carbon-rim-270g-tubeless-ready.html" target="_blank" rel="noopener noreferrer">XC930</a> cross-country rim. The Light Bicycle AR25 rim has a depth of only 25mm and weighs 250g with an inner width of 24mm. That’s an impressive weight. The XC930 is only 22mm tall, weighs only 270g, and is as wide as the WG44, 30mm. Being an MTB rim, it is only available hookless. This makes them only suitable for high-volume and low-pressure tires, limiting their potential use. The AR25, as the lightest 700C gravel rim that Light Bicycle has developed, would be much more versatile. It has a hybrid hook bead, which allows for higher tire pressures and can be used for a wide range of tire widths (28-50). My wheels often move from one bike to another. The AR25 is the better choice for that. A pair of AR25 rims come with a weight saving of 260g against the Citico and a whopping 600g savings against the WG44.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Far East Shopping</title>
         <author>
@@ -700,44 +777,6 @@
 </figure>
 </div></div>
 <p>The <a href="https://www.marinbikes.com/bikes/2023-gestalt-x10" target="_blank" rel="noopener noreferrer">2023 Marin Gestalt X10</a> is a whole different beast. The vast majority of gravel bikes are essentially nothing more than road bikes with room for large tires. The Marin X10 and XR, on the other hand, borrow a lot from modern mountain bikes. And that's why I pulled the trigger and got one. So, what about that geometry? The most eye-popping differences are head tube angle, reach, and a dramatically elongated front-center as a combination of the two. To keep my position, I shortened the stem from 110/100 mm (Viaje/Albarda) to 44 mm. I mounted a wider handlebar to better deal with the very high trail figure and the increased wheel flop. It’s an <a href="https://eastoncycling.com/products/ec70-ax-bar" target="_blank" rel="noopener noreferrer">Easton EC70 AX</a> in 46 cm. With a 16º flare, the bar has 53 cm in the drops. Maybe also to note, based on Marin’s sizing chart, I’m smack in between an M and an L. I went with a large. The next couple of weeks will show if Marin is onto something with such an MTB-inspired, hard-charging, rough-and-rowdy gravel/adventure bike.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cycplus Cube Electric Bike Pump</title>
-        <author>
-            <name>Patrick</name>
-        </author>
-        <link href="https://offtrail.guru/cycplus-cube-electric-bike-pump/"/>
-        <id>https://offtrail.guru/cycplus-cube-electric-bike-pump/</id>
-        <media:content url="https://offtrail.guru/media/posts/74/cycplus-cube-00.jpg" medium="image" />
-            <category term="tools"/>
-            <category term="pumps"/>
-            <category term="blog post"/>
-
-        <updated>2023-05-27T11:07:49+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://offtrail.guru/media/posts/74/cycplus-cube-00.jpg" alt="The toolkit I carry on every ride." />
-                    I like shopping on Ali Express. Not so much because it’s cheap, but because I find things no one else sells. Truth be told, I ran across the Cycplus Cube on Youtube first. Cycplus introduced this electric bicycle pump on Indiegogo in February this year.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://offtrail.guru/media/posts/74/cycplus-cube-00.jpg" class="type:primaryImage" alt="The toolkit I carry on every ride." /></p>
-                <p class="dropcap">I like shopping on Ali Express. Not so much because it’s cheap, but because I find things no one else sells. Truth be told, I ran across the <a href="https://www.cycplus.com/products/tiny-pump-cube" target="_blank" rel="noopener noreferrer">Cycplus Cube</a> on Youtube first. Cycplus introduced this electric bicycle pump on <a href="https://www.indiegogo.com/projects/cycplus-cube-tiny-bike-pump#/" target="_blank" rel="noopener noreferrer">Indiegogo</a> in February this year. The project was fully funded within 12 hours. Cycplus was established in Chengdu, China, in 2014. They make other pumps and also offer various cycling computers. Like many other such companies, they didn’t go to Indiegogo for the funding but to gauge the interest for such a tiny pump. Had I not seen videos of how well this small pump inflates a bicycle tire, I wouldn’t have ordered one from the company’s <a href="https://cycplus.aliexpress.com/store/5796744" target="_blank" rel="noopener noreferrer">storefront</a> on Ali Express. But that tiny thing actually works. Like everything else I’ve purchased on Ali Express, the Cycplus Cube arrived at my doorstep in Grenchen, Switzerland in no time. A small package takes an 8'000 kilometer journey and arrives a little over a week later. What a small world! The air intake was the first thing I was confused about when I held it in my hands. The air from the pump’s nozzle must come from somewhere, and I didn’t know from where. I grabbed the small manual to find out that the USB-C charging port is also the pump’s air intake. How cool is that? I charged and then tested the pump by inflating a 29er bike tire. The pump did that in about a minute and a half. I didn’t test how many tires I could inflate on a single battery charge, but based on how quickly it was fully recharged, I think I could have easily inflated another two tires.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/74/gallery/cycplus-cube-01.jpg" data-size="3026x2161"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/74/gallery/cycplus-cube-01-thumbnail.webp" alt="My toolkit." width="720" height="514"></a>
-<figcaption>My toolkit.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/74/gallery/cycplus-cube-02.jpg" data-size="3207x1924"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/74/gallery/cycplus-cube-02-thumbnail.webp" alt="The old and the new pump." width="720" height="432"></a>
-<figcaption>Old and new.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/74/gallery/cycplus-cube-03.jpg" data-size="3319x1867"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/74/gallery/cycplus-cube-03-thumbnail.webp" alt="The old and the new pump." width="720" height="405"></a>
-<figcaption>Old and new.</figcaption>
-</figure>
-</div></div>
-<p>I know cyclists who don’t carry any tools with them. They have a cell phone and a wife at home who will drop everything to pick them up whenever their bike breaks down. My wife would be mildly annoyed if I would call her each time I needed help. I rather carry a small toolkit with me to help myself. This toolkit used to be heavier. It has gotten smaller as I reduced it to the bare minimum. The Cube has now freed one jersey pocket in which I used to carry a small dual-stage hand pump. I can bring along my <a href="https://offtrail.guru/dji-action-2/">DJI Action 2</a> camera with a small tripod in that free pocket instead.</p>
             ]]>
         </content>
     </entry>
