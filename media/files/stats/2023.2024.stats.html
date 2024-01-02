@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/highcharts.js" type="text/javascript"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js" type="text/javascript"></script>
+    <script type="text/javascript">
+
+      var table = {
+        months   : ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'],
+        dist2023 : [  123,   175,   160,    99,   367,   251,   401,   338,   466,   229,   115,   423],
+        dist2024 : [    0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0],
+        time2023 : [ 9.79,  9.40,  8.46,  5.13, 26.93, 18.70, 23.03, 16.95, 32.83, 13.64,  5.66, 22.88],
+        time2024 : [    0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0,     0]
+      };
+
+      $.each(table, function(row, obj) {
+        if (row != "months") {
+          $.each(obj, function(key, val) {
+            if (key > 0) obj[key] = obj[key-1] + val;
+          });
+        }
+      });
+
+      $(function () {
+        $("#container").highcharts({
+          chart: {
+             zoomType: 'xy',
+             style: {fontFamily: 'arial, helvetica, sans-serif'}
+          },
+          title: {text: '2023 and 2024 compared'},
+          subtitle: {text: 'source: <a href="http://www.strava.com/athletes/strahm">strava.com</a>', y: 35},
+          xAxis: {
+            categories: table.months
+          },
+          yAxis: [
+            { // first yAxis (0 - distance)
+              labels: {format: '{value} km'},
+              min: 0,
+              title: {text: null}
+            }, { // second yAxis (1 - hours)
+              labels: {format: '{value} h'},
+              min: 0,
+              title: {text: null},
+              opposite: true
+            }
+          ],
+          legend: {
+            layout: 'vertical',
+            backgroundColor: '#fff',
+            align: 'left',
+            verticalAlign: 'top',
+            x: 70,
+            y: 60,
+            floating: true,
+            shadow: true
+          },
+          tooltip: {
+            formatter: function() {
+              var unit = {
+                '2023 km': ' km',
+                '2024 km': ' km',
+                '2023 time': ' hours',
+                '2024 time': ' hours'
+              }[this.series.name];
+              return this.x + ': ' + ((unit==' hours') ? this.y.toFixed(2) : this.y) + unit;
+            }
+          },
+          plotOptions: {
+            spline: {lineWidth: 2}
+          },
+          series: [
+            {
+              name: '2023 km',
+              type: 'column',
+              color: '#bbb',
+              index: 0,
+              yAxis: 0,
+              data: table.dist2023
+            }, {
+              name: '2024 km',
+              type: 'column',
+              color: '#888',
+              index: 1,
+              yAxis: 0,
+              data: table.dist2024
+            }, {
+              name: '2023 time',
+              type: 'spline',
+              color: '#bde',
+              index: 2,
+              yAxis: 1,
+              data: table.time2023
+            }, {
+              name: '2024 time',
+              type: 'spline',
+              color: '#69c',
+              index: 3,
+              yAxis: 1,
+              data: table.time2024
+            }
+          ]
+        });
+      });
+
+    </script>
+    <title>2023 and 2024 compared</title>
+  </head>
+  <body style="margin:0;padding:0;">
+    <div id="container" style="width:840px;height:408px;"></div>
+  </body>
+</html>
