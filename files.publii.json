@@ -11590,6 +11590,51 @@
         "md5": "cb3ea6a304a40323a3edf9c9c2bc4cbb"
     },
     {
+        "path": "media/tags/16",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/16/datastudio.png",
+        "type": "file",
+        "md5": "d0524bb2471cedc6dfaf9959d5d7dfce"
+    },
+    {
+        "path": "media/tags/16/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/16/responsive/datastudio-2xl.webp",
+        "type": "file",
+        "md5": "2e8b909e7a84d2834ab344ea4c221855"
+    },
+    {
+        "path": "/media/tags/16/responsive/datastudio-lg.webp",
+        "type": "file",
+        "md5": "c73925fe5ed5de653c3f44326e9cca37"
+    },
+    {
+        "path": "/media/tags/16/responsive/datastudio-md.webp",
+        "type": "file",
+        "md5": "c9f6beab1b3d301cf62cb5234ad0143b"
+    },
+    {
+        "path": "/media/tags/16/responsive/datastudio-sm.webp",
+        "type": "file",
+        "md5": "424075e7d8e0d8582274c312690e414b"
+    },
+    {
+        "path": "/media/tags/16/responsive/datastudio-xl.webp",
+        "type": "file",
+        "md5": "609efb3f500b53de599c13ee8f7dd0cb"
+    },
+    {
+        "path": "/media/tags/16/responsive/datastudio-xs.webp",
+        "type": "file",
+        "md5": "243af8fc64f556ecffa8d1920f8fbd89"
+    },
+    {
         "path": "media/tags/17",
         "type": "directory",
         "md5": false
@@ -14097,7 +14142,7 @@
     {
         "path": "/tags/datastudio/index.html",
         "type": "file",
-        "md5": "780ce20291282e31dce0b727f747e2a2"
+        "md5": "87d5de5eb4ab557e58ce2a8393ef474a"
     },
     {
         "path": "tags/diy",
@@ -14227,7 +14272,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "97651d125aca5eb415ab7ee2a9f6f2e5"
+        "md5": "ba9e7e7ac79ba0b1341dd4fdeef32cfa"
     },
     {
         "path": "tags/miscellaneous",
