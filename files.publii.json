@@ -7,12 +7,12 @@
     {
         "path": "/40-is-the-new-28/index.html",
         "type": "file",
-        "md5": "511160b8badb461fc2667f24eb00093c"
+        "md5": "4ba1b679dea03416ba856b82e9af3468"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "20099ea6722866e5b5c300fa9c26f755"
+        "md5": "87772186e9659f31438acde1677175c6"
     },
     {
         "path": "45-is-the-new-20",
@@ -22,7 +22,7 @@
     {
         "path": "/45-is-the-new-20/index.html",
         "type": "file",
-        "md5": "b3c9c5603705bdf89dda2f373d4dee4a"
+        "md5": "96a4294408789f6c2be53792aa7160f9"
     },
     {
         "path": "CNAME",
@@ -42,7 +42,7 @@
     {
         "path": "/a-bike-jacket-for-next-winter/index.html",
         "type": "file",
-        "md5": "f52c590aeddae29de123ba03514366e5"
+        "md5": "39700aeb6048f953f264857bfcc7df89"
     },
     {
         "path": "a-history-of-saddles",
@@ -52,7 +52,7 @@
     {
         "path": "/a-history-of-saddles/index.html",
         "type": "file",
-        "md5": "8506b7d1d779bcd9a8bd1f9e86fa1eaa"
+        "md5": "58361be1e910f3364651e66ddcbbb782"
     },
     {
         "path": "a-look-back-at-some-home-brew-hubs",
@@ -62,7 +62,7 @@
     {
         "path": "/a-look-back-at-some-home-brew-hubs/index.html",
         "type": "file",
-        "md5": "bc356303db13e71e925aa94a74e87433"
+        "md5": "528fc3eebfd7532f49eeba50fefd324a"
     },
     {
         "path": "a-new-bottom-bracket-standard",
@@ -72,7 +72,7 @@
     {
         "path": "/a-new-bottom-bracket-standard/index.html",
         "type": "file",
-        "md5": "e06b8734c1228ab159f7d8724f37c440"
+        "md5": "e102664098cd1b109ffac4b7fe8a339d"
     },
     {
         "path": "a-new-mountain-bike-helmet",
@@ -82,7 +82,7 @@
     {
         "path": "/a-new-mountain-bike-helmet/index.html",
         "type": "file",
-        "md5": "78f494b7f2531d291d9b95bb29d65698"
+        "md5": "0bf29f1d99bea57ddc0a80c8767885fd"
     },
     {
         "path": "a-pair-of-tires-with-bite",
@@ -92,7 +92,7 @@
     {
         "path": "/a-pair-of-tires-with-bite/index.html",
         "type": "file",
-        "md5": "cd36cf023b0ee0eda7c3c886d8ed53bb"
+        "md5": "51e6fe2e23dd1ea1df2f6eae65358043"
     },
     {
         "path": "a-weekday-fat-bike-ride",
@@ -102,7 +102,7 @@
     {
         "path": "/a-weekday-fat-bike-ride/index.html",
         "type": "file",
-        "md5": "2b7385aeeecaae6d3eea0f86fd9f7f8f"
+        "md5": "9a86a5060a9cd1eb1a2f3f621d8cd945"
     },
     {
         "path": "all-good-things-take-time",
@@ -112,7 +112,7 @@
     {
         "path": "/all-good-things-take-time/index.html",
         "type": "file",
-        "md5": "de6f3330be067bd0d3cf0ff2c979cbd7"
+        "md5": "c0c2f2780bd40c3f462294a5daaeb426"
     },
     {
         "path": "allroad-cycling",
@@ -122,7 +122,7 @@
     {
         "path": "/allroad-cycling/index.html",
         "type": "file",
-        "md5": "a992248356ac82418fdceadadaa7d1aa"
+        "md5": "0ee7358e660e08e70f5eb4de6d416cea"
     },
     {
         "path": "an-icy-fat-bike-weekend",
@@ -132,27 +132,7 @@
     {
         "path": "/an-icy-fat-bike-weekend/index.html",
         "type": "file",
-        "md5": "d38ce76773d78b9d223519b30a564d31"
-    },
-    {
-        "path": "annual-stats-by-bike",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/annual-stats-by-bike/index.html",
-        "type": "file",
-        "md5": "1c8a1c82b378712da0bfd84122087a0e"
-    },
-    {
-        "path": "annual-stats-by-month",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/annual-stats-by-month/index.html",
-        "type": "file",
-        "md5": "df85ead7444c0d2075a935be44a02065"
+        "md5": "ef4e8a59f2d4af4eeff24c0b42f078dc"
     },
     {
         "path": "another-cockpit-change",
@@ -162,7 +142,7 @@
     {
         "path": "/another-cockpit-change/index.html",
         "type": "file",
-        "md5": "3d8d6aa741d2b2e010549353f92b31cd"
+        "md5": "037b3138edc47f190bb39b6eec905665"
     },
     {
         "path": "another-round-of-changes",
@@ -172,7 +152,7 @@
     {
         "path": "/another-round-of-changes/index.html",
         "type": "file",
-        "md5": "1a2909924e9491491d58f6582d5d0720"
+        "md5": "00710a27da7e7691613be24ad535e48c"
     },
     {
         "path": "assets",
@@ -302,7 +282,7 @@
     {
         "path": "/authors/patrick/index.html",
         "type": "file",
-        "md5": "77f022ec1c1c4e35181cca3956bd6d90"
+        "md5": "3a05367a30e78bf4fe5d748f184fdd29"
     },
     {
         "path": "authors/patrick/page",
@@ -317,7 +297,7 @@
     {
         "path": "/authors/patrick/page/10/index.html",
         "type": "file",
-        "md5": "aca941b5e8ab5d59591c45fb4a3fa899"
+        "md5": "ffa9bc96a6ecff358795a4bf37a8ae4d"
     },
     {
         "path": "authors/patrick/page/11",
@@ -327,7 +307,7 @@
     {
         "path": "/authors/patrick/page/11/index.html",
         "type": "file",
-        "md5": "06017b74717e5d4501a7dd22857c6c3f"
+        "md5": "1e2ebc4b7c99b994af12a8d9a0d10f1a"
     },
     {
         "path": "authors/patrick/page/12",
@@ -337,7 +317,7 @@
     {
         "path": "/authors/patrick/page/12/index.html",
         "type": "file",
-        "md5": "67a3a260f97880e4849e846b2172e7ec"
+        "md5": "c9bc750fef1489af54604470872bc383"
     },
     {
         "path": "authors/patrick/page/13",
@@ -347,7 +327,7 @@
     {
         "path": "/authors/patrick/page/13/index.html",
         "type": "file",
-        "md5": "db410140e8b9141e85d2c0cb2c83888d"
+        "md5": "4dc13458f7eb972a6021846f89cadbc8"
     },
     {
         "path": "authors/patrick/page/14",
@@ -357,7 +337,7 @@
     {
         "path": "/authors/patrick/page/14/index.html",
         "type": "file",
-        "md5": "f76e758d90978977041ae22a1643b1bf"
+        "md5": "56cbfbf1939c3b0c05d7d70d45c6e9c0"
     },
     {
         "path": "authors/patrick/page/15",
@@ -367,7 +347,7 @@
     {
         "path": "/authors/patrick/page/15/index.html",
         "type": "file",
-        "md5": "5bb375ee6892fc3ee66dd4f4fd2e6d44"
+        "md5": "dfccc5ff57a5675fc1a0f41e27762052"
     },
     {
         "path": "authors/patrick/page/16",
@@ -377,7 +357,7 @@
     {
         "path": "/authors/patrick/page/16/index.html",
         "type": "file",
-        "md5": "bf7656cd6c212615b61476a6f5d82b17"
+        "md5": "4da649e89d76cf13003109493e91a81a"
     },
     {
         "path": "authors/patrick/page/17",
@@ -387,27 +367,7 @@
     {
         "path": "/authors/patrick/page/17/index.html",
         "type": "file",
-        "md5": "9780e4894a862c9e574ffcdf5deecbc7"
-    },
-    {
-        "path": "authors/patrick/page/18",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/patrick/page/18/index.html",
-        "type": "file",
-        "md5": "b67df1ac5eb04f8fd76394c55ec4eb60"
-    },
-    {
-        "path": "authors/patrick/page/19",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/authors/patrick/page/19/index.html",
-        "type": "file",
-        "md5": "7efdaf73cae0a8f7cd697a0ec1bfe0fd"
+        "md5": "2701f11e791ccfb7e926b47d289d4b48"
     },
     {
         "path": "authors/patrick/page/2",
@@ -417,7 +377,7 @@
     {
         "path": "/authors/patrick/page/2/index.html",
         "type": "file",
-        "md5": "ffd2e658b5affbff9be99d306ff7bd5f"
+        "md5": "1d09fc17ede8a6293b1e43fc83f50e18"
     },
     {
         "path": "authors/patrick/page/3",
@@ -427,7 +387,7 @@
     {
         "path": "/authors/patrick/page/3/index.html",
         "type": "file",
-        "md5": "dcabfa43018ac96505e69e7350915448"
+        "md5": "b1741890981eefe5942bf8c8c5995687"
     },
     {
         "path": "authors/patrick/page/4",
@@ -437,7 +397,7 @@
     {
         "path": "/authors/patrick/page/4/index.html",
         "type": "file",
-        "md5": "7303e0c1d9b006ce5e8b5a381704bda3"
+        "md5": "a22345d43b755948fbd88ecf3ebc2176"
     },
     {
         "path": "authors/patrick/page/5",
@@ -447,7 +407,7 @@
     {
         "path": "/authors/patrick/page/5/index.html",
         "type": "file",
-        "md5": "ea00ba86fba4fb866bff29797966da17"
+        "md5": "79ecffbe45b8a2f0d16d7fbbbc41148c"
     },
     {
         "path": "authors/patrick/page/6",
@@ -457,7 +417,7 @@
     {
         "path": "/authors/patrick/page/6/index.html",
         "type": "file",
-        "md5": "802b9de0a922b0ca7625a5f8c9ef733c"
+        "md5": "8967ec84b50c482f486344e4029a5a58"
     },
     {
         "path": "authors/patrick/page/7",
@@ -467,7 +427,7 @@
     {
         "path": "/authors/patrick/page/7/index.html",
         "type": "file",
-        "md5": "8a11825714bda357c33432c461ced5ad"
+        "md5": "8e916ca04aa9d4585e9093f7965658de"
     },
     {
         "path": "authors/patrick/page/8",
@@ -477,7 +437,7 @@
     {
         "path": "/authors/patrick/page/8/index.html",
         "type": "file",
-        "md5": "f94bc3777726d8e246c1e982738245e1"
+        "md5": "ca784454f0dac003afacdb9c0bec5a84"
     },
     {
         "path": "authors/patrick/page/9",
@@ -487,7 +447,7 @@
     {
         "path": "/authors/patrick/page/9/index.html",
         "type": "file",
-        "md5": "04f178d6675103e777453d7df23c3588"
+        "md5": "5368b2cb9953310b24eaad6262e254ce"
     },
     {
         "path": "back-on-700c-wheels",
@@ -497,7 +457,7 @@
     {
         "path": "/back-on-700c-wheels/index.html",
         "type": "file",
-        "md5": "28487403dae3a42769c7af9b739967b1"
+        "md5": "33c62c9a3258193e06f4487b2164bb25"
     },
     {
         "path": "building-a-bike-during-the-pandemic-part-i",
@@ -507,7 +467,7 @@
     {
         "path": "/building-a-bike-during-the-pandemic-part-i/index.html",
         "type": "file",
-        "md5": "b62eeb22e06184c17b10f1234349c05d"
+        "md5": "fadc49350254a219b85beb20fb797e03"
     },
     {
         "path": "building-a-bike-during-the-pandemic-part-ii",
@@ -517,7 +477,7 @@
     {
         "path": "/building-a-bike-during-the-pandemic-part-ii/index.html",
         "type": "file",
-        "md5": "bb40a762864bf441dd38a110e27a93c5"
+        "md5": "f3361afa3562aaf6d32cd6047a350a61"
     },
     {
         "path": "building-a-bike-during-the-pandemic-part-iii",
@@ -527,7 +487,7 @@
     {
         "path": "/building-a-bike-during-the-pandemic-part-iii/index.html",
         "type": "file",
-        "md5": "82b45be3bd06e2cfa3bd8a00a529d046"
+        "md5": "31358c203bf7fc46d91a895341dc2261"
     },
     {
         "path": "centerlock-rotor-comparison",
@@ -537,7 +497,7 @@
     {
         "path": "/centerlock-rotor-comparison/index.html",
         "type": "file",
-        "md5": "062a54f84527737ee02435bd11286ce6"
+        "md5": "91b32ac461ae93885f66a115917b64a0"
     },
     {
         "path": "clocks-turned-back",
@@ -547,7 +507,7 @@
     {
         "path": "/clocks-turned-back/index.html",
         "type": "file",
-        "md5": "ca99c6d347e26a73fc12b5b0b2853d15"
+        "md5": "2affd3e5a37ce4151061d0f29217013b"
     },
     {
         "path": "custom-carbon-front-light-mount",
@@ -557,7 +517,7 @@
     {
         "path": "/custom-carbon-front-light-mount/index.html",
         "type": "file",
-        "md5": "c5f06623384f37870dcd9d5835688dd0"
+        "md5": "816cbbf8524fd2c27b5b3bf31746f773"
     },
     {
         "path": "cycling-and-my-list-of-donts",
@@ -567,7 +527,7 @@
     {
         "path": "/cycling-and-my-list-of-donts/index.html",
         "type": "file",
-        "md5": "3eb8801f4f60a7b563e26bb4e2555ef0"
+        "md5": "ae19b774e0460021714f966c1d9234cb"
     },
     {
         "path": "cycling-statistics",
@@ -575,9 +535,69 @@
         "md5": false
     },
     {
+        "path": "cycling-statistics/annual-stats-by-bike",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cycling-statistics/annual-stats-by-bike/index.html",
+        "type": "file",
+        "md5": "c74056f26f8336b19406243ba930d7f4"
+    },
+    {
+        "path": "cycling-statistics/annual-stats-by-month",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cycling-statistics/annual-stats-by-month/index.html",
+        "type": "file",
+        "md5": "bf1dd64db815c35e230df881128d3ed1"
+    },
+    {
         "path": "/cycling-statistics/index.html",
         "type": "file",
-        "md5": "43ac6b4a684ce5d220e3bdd19b7efdd9"
+        "md5": "5f955b4d9a8bc1ea247a9213dbdf4293"
+    },
+    {
+        "path": "cycling-statistics/pie-charts-by-bike",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cycling-statistics/pie-charts-by-bike/index.html",
+        "type": "file",
+        "md5": "188eda02bba164a591a6c45a489424ec"
+    },
+    {
+        "path": "cycling-statistics/ride-type-pie-charts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cycling-statistics/ride-type-pie-charts/index.html",
+        "type": "file",
+        "md5": "6f4dde619e9351b45c7bea3137f5af96"
+    },
+    {
+        "path": "cycling-statistics/ride-type-statistics",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cycling-statistics/ride-type-statistics/index.html",
+        "type": "file",
+        "md5": "ad361c40be6063f2e6045e17d14f86f7"
+    },
+    {
+        "path": "cycling-statistics/strava-dashboard-in-data-studio",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/cycling-statistics/strava-dashboard-in-data-studio/index.html",
+        "type": "file",
+        "md5": "3754c15d45ea28e24caee8561ff708e9"
     },
     {
         "path": "cycplus-cube-electric-bike-pump",
@@ -587,7 +607,7 @@
     {
         "path": "/cycplus-cube-electric-bike-pump/index.html",
         "type": "file",
-        "md5": "017dfbd7890c69a8614cc72bcbaee3f3"
+        "md5": "6a0499c2f34936ef7da43d9dc6287ae6"
     },
     {
         "path": "did-winter-come-back-one-last-time",
@@ -597,7 +617,7 @@
     {
         "path": "/did-winter-come-back-one-last-time/index.html",
         "type": "file",
-        "md5": "e52c3bebc18be1b4b715592bc306c9e0"
+        "md5": "835edb5d44cb11eef1ebb4dd6cb7a3e1"
     },
     {
         "path": "dji-action-2",
@@ -607,7 +627,7 @@
     {
         "path": "/dji-action-2/index.html",
         "type": "file",
-        "md5": "caf07086d96de46eb77624fb1d086bdd"
+        "md5": "9c816b1c8577e23d6e1e44bc84277ec9"
     },
     {
         "path": "dream-bike-or-one-that-does-the-job",
@@ -617,7 +637,7 @@
     {
         "path": "/dream-bike-or-one-that-does-the-job/index.html",
         "type": "file",
-        "md5": "d6db2b110e56ed44e620d37e1a3e351b"
+        "md5": "86ec910085e48ec8c477f21d33446c35"
     },
     {
         "path": "far-east-shopping",
@@ -627,7 +647,7 @@
     {
         "path": "/far-east-shopping/index.html",
         "type": "file",
-        "md5": "365603a31ac85341ab31eca93a32e878"
+        "md5": "3a6a50cf88fccd3291c012c534a0fff4"
     },
     {
         "path": "fat-biking",
@@ -637,7 +657,7 @@
     {
         "path": "/fat-biking/index.html",
         "type": "file",
-        "md5": "a992546a35d5c5a64a724c543c8ea519"
+        "md5": "3e985efba22ada2c993f63d2cc4ee60c"
     },
     {
         "path": "fat-biking-on-little",
@@ -647,7 +667,7 @@
     {
         "path": "/fat-biking-on-little/index.html",
         "type": "file",
-        "md5": "e663dc70b4707ab248946629130fbc10"
+        "md5": "7f8dc8f38004e49929e8b2abaf1ff0e2"
     },
     {
         "path": "fat-biking-to-start-2024",
@@ -657,17 +677,17 @@
     {
         "path": "/fat-biking-to-start-2024/index.html",
         "type": "file",
-        "md5": "c4d5e95e246105cf99becdb7a1c01ab1"
+        "md5": "5f655bfe45762dcdbf5e38c96a50ab76"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "55748b23dda2a717a17cd97841c8aff3"
+        "md5": "53633e3944f5282af14f49d0895d90cf"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "e97f7b66d51264ae5d752b416e31a47b"
+        "md5": "4f7444b6c686b84b13cdf48cd62d8eec"
     },
     {
         "path": "finally-a-new-pc-on-my-desk",
@@ -677,7 +697,7 @@
     {
         "path": "/finally-a-new-pc-on-my-desk/index.html",
         "type": "file",
-        "md5": "b7a08c443e3911edf42bcca20c978282"
+        "md5": "aaabccc69b3a3bd06a8d5d9c6256532e"
     },
     {
         "path": "first-160-kilometers-on-my-stooge-mk5",
@@ -687,7 +707,7 @@
     {
         "path": "/first-160-kilometers-on-my-stooge-mk5/index.html",
         "type": "file",
-        "md5": "50022aeeee5caa8120e97dfec9be0318"
+        "md5": "6853bd7bc54bea09103d8298c862466c"
     },
     {
         "path": "first-200km-on-my-gestalt-x12",
@@ -697,7 +717,7 @@
     {
         "path": "/first-200km-on-my-gestalt-x12/index.html",
         "type": "file",
-        "md5": "d836f912c13aae3825d7033dbee4a1cd"
+        "md5": "6fcdde085c5196952e5c7a9db68549c8"
     },
     {
         "path": "first-fat-bike-weekend",
@@ -707,7 +727,7 @@
     {
         "path": "/first-fat-bike-weekend/index.html",
         "type": "file",
-        "md5": "560b4af50e45f69a036b6ddd33f46c69"
+        "md5": "22d3f4c8c1797940354deef104505498"
     },
     {
         "path": "flink-and-the-magic-of-google-sheets",
@@ -717,7 +737,7 @@
     {
         "path": "/flink-and-the-magic-of-google-sheets/index.html",
         "type": "file",
-        "md5": "5482ed397b0f41eb2a285cd34df96514"
+        "md5": "664770c244d0637ba40142d38057c809"
     },
     {
         "path": "fortyfour-marauder",
@@ -727,7 +747,7 @@
     {
         "path": "/fortyfour-marauder/index.html",
         "type": "file",
-        "md5": "fefc070a1815fe6e9d01e65ffd17137e"
+        "md5": "d963c3f79be44b18c0ddeb808621869e"
     },
     {
         "path": "fortyfour-snakedriver",
@@ -737,7 +757,7 @@
     {
         "path": "/fortyfour-snakedriver/index.html",
         "type": "file",
-        "md5": "2146526028b24d3a5f40fa07787964d3"
+        "md5": "8ac1b894426935ebe327473f23065b6b"
     },
     {
         "path": "global-fat-bike-day-2020",
@@ -747,7 +767,7 @@
     {
         "path": "/global-fat-bike-day-2020/index.html",
         "type": "file",
-        "md5": "6c332a68ad8f0d663c48822711acea21"
+        "md5": "0d16ec6a506ce7f46099467f2a32ffe3"
     },
     {
         "path": "gravel-grinding",
@@ -757,7 +777,7 @@
     {
         "path": "/gravel-grinding/index.html",
         "type": "file",
-        "md5": "9fc8cd7d78ee3f95af7e6d8e2877c6b6"
+        "md5": "2c2e8b6eea44bcb0e195c7afa3a54c28"
     },
     {
         "path": "great-someone-still-riding-a-real-bike",
@@ -767,7 +787,7 @@
     {
         "path": "/great-someone-still-riding-a-real-bike/index.html",
         "type": "file",
-        "md5": "d15c33e53e1e93f37e9f4a821b170346"
+        "md5": "f2168dbbd9f804ada1d37ca8052d4676"
     },
     {
         "path": "homework-done",
@@ -777,12 +797,12 @@
     {
         "path": "/homework-done/index.html",
         "type": "file",
-        "md5": "9472e74467a0bc4dc0446c12caa8228f"
+        "md5": "0bbe37002ab44d48c27fee4822ffa1db"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "3f8db85c1c0a41fbf5df59523aaa33bf"
+        "md5": "d6bf53283d13e0d2d0063f5c388a734d"
     },
     {
         "path": "january-this-and-that",
@@ -792,7 +812,7 @@
     {
         "path": "/january-this-and-that/index.html",
         "type": "file",
-        "md5": "3daa11807728512943a74e4930feb000"
+        "md5": "e3104ac028996832fd1384faf148b059"
     },
     {
         "path": "late-afternoon-fat-biking",
@@ -802,7 +822,7 @@
     {
         "path": "/late-afternoon-fat-biking/index.html",
         "type": "file",
-        "md5": "7d31bb0ea743b5d0af36e089b9ce6c97"
+        "md5": "4b5de762edca77e6eb0392368ec9f572"
     },
     {
         "path": "making-tools-for-a-bearing-swap",
@@ -812,7 +832,7 @@
     {
         "path": "/making-tools-for-a-bearing-swap/index.html",
         "type": "file",
-        "md5": "77af6a6cd48d64e4d4ea11fd835ba270"
+        "md5": "42f673e2a71c648b9ba9c1de2c088117"
     },
     {
         "path": "marin-gestalt-x12",
@@ -822,7 +842,7 @@
     {
         "path": "/marin-gestalt-x12/index.html",
         "type": "file",
-        "md5": "b68e239468bf3c5f5cc046df0d568abe"
+        "md5": "00f4f4624455fe68736bd6d78b78c165"
     },
     {
         "path": "marin-gestalt-x12-on-new-wheels",
@@ -832,7 +852,7 @@
     {
         "path": "/marin-gestalt-x12-on-new-wheels/index.html",
         "type": "file",
-        "md5": "f58159d128f8942e4f27a282008d350a"
+        "md5": "ce97ff00fac7760a508ba8d3b5556cb4"
     },
     {
         "path": "media",
@@ -13242,7 +13262,7 @@
     {
         "path": "/my-minimalist-home-bike-workshop/index.html",
         "type": "file",
-        "md5": "d283d4724d07b9ce89339f66e1670907"
+        "md5": "7e0914de32a1da08915a3daccc7a9d68"
     },
     {
         "path": "my-road-handlebars-over-28-years",
@@ -13252,7 +13272,7 @@
     {
         "path": "/my-road-handlebars-over-28-years/index.html",
         "type": "file",
-        "md5": "b9d538c37582091ba8c6e03ec3bb6053"
+        "md5": "7356ac6589a2de99d7c2180bd04676ec"
     },
     {
         "path": "new-fat-bike-helmet",
@@ -13262,7 +13282,7 @@
     {
         "path": "/new-fat-bike-helmet/index.html",
         "type": "file",
-        "md5": "e97686c4f4bb2fd49e3185954226da20"
+        "md5": "363248af753e7c84b5da81a83a572994"
     },
     {
         "path": "new-road-front-light",
@@ -13272,7 +13292,7 @@
     {
         "path": "/new-road-front-light/index.html",
         "type": "file",
-        "md5": "fb9caacdc328777fd4aeddd706b970c7"
+        "md5": "a2f98ea585292411c5ec5ab8a867668b"
     },
     {
         "path": "new-wheels-for-my-marin-gestalt-x12",
@@ -13282,7 +13302,7 @@
     {
         "path": "/new-wheels-for-my-marin-gestalt-x12/index.html",
         "type": "file",
-        "md5": "1548deba569e9afe849b9ee87857ec53"
+        "md5": "cdea0244fb3e12c60cab2e0fc21bc2f5"
     },
     {
         "path": "nordest-albarda",
@@ -13292,7 +13312,7 @@
     {
         "path": "/nordest-albarda/index.html",
         "type": "file",
-        "md5": "79f6bde3d3a139b28132f9621d275b1f"
+        "md5": "a5ef0011954ca097c409d445c0ea1bcc"
     },
     {
         "path": "nordest-albarda-2021-update",
@@ -13302,7 +13322,7 @@
     {
         "path": "/nordest-albarda-2021-update/index.html",
         "type": "file",
-        "md5": "a87e24ceede0f29959266d76182df9b2"
+        "md5": "58766bae9dca21c6b5803bb922cde9bb"
     },
     {
         "path": "nordest-albarda-2023-update",
@@ -13312,7 +13332,7 @@
     {
         "path": "/nordest-albarda-2023-update/index.html",
         "type": "file",
-        "md5": "687370ae37b8aa42b7ed5b352ff5749e"
+        "md5": "26033b63dcb7ff674e3971fb80601cd2"
     },
     {
         "path": "nordest-albarda-on-650b",
@@ -13322,7 +13342,7 @@
     {
         "path": "/nordest-albarda-on-650b/index.html",
         "type": "file",
-        "md5": "cae8900bc3a3f53df1334b58fb2c9af1"
+        "md5": "8a5dfea760c0a5d3d3fde0158fb621f2"
     },
     {
         "path": "offtrail-riding",
@@ -13332,7 +13352,7 @@
     {
         "path": "/offtrail-riding/index.html",
         "type": "file",
-        "md5": "ebdaf095c79fb0697f19530151e23875"
+        "md5": "266bb0144b0fc67630d851bc783e514e"
     },
     {
         "path": "old-gravel-bikes",
@@ -13342,7 +13362,7 @@
     {
         "path": "/old-gravel-bikes/index.html",
         "type": "file",
-        "md5": "ef2441cb9a5687ffe48e5bfa8ded7184"
+        "md5": "708b3af23934e31ffcb147a9ff343914"
     },
     {
         "path": "old-mountain-bikes",
@@ -13352,7 +13372,7 @@
     {
         "path": "/old-mountain-bikes/index.html",
         "type": "file",
-        "md5": "6dddfea94001dfb989116afac36cb43e"
+        "md5": "5cb98b8a901cfeef19139e6566e535cf"
     },
     {
         "path": "old-road-bikes",
@@ -13362,7 +13382,7 @@
     {
         "path": "/old-road-bikes/index.html",
         "type": "file",
-        "md5": "28abb78d354b81c017a5ac5331e6861c"
+        "md5": "6c50b8a08068984220a328d83af36e48"
     },
     {
         "path": "oval-rounds-your-pedal-stroke",
@@ -13372,7 +13392,7 @@
     {
         "path": "/oval-rounds-your-pedal-stroke/index.html",
         "type": "file",
-        "md5": "7a6f0768f28cd829387ec02a0ccc435b"
+        "md5": "3fd7fecaaecbf77d0f90a6e6fc588d93"
     },
     {
         "path": "page",
@@ -13387,7 +13407,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "0db62a86771eb17fe2817dc2c345a71c"
+        "md5": "15b0b24fa30e71fbea70c6cf0cde28c1"
     },
     {
         "path": "page/11",
@@ -13397,7 +13417,7 @@
     {
         "path": "/page/11/index.html",
         "type": "file",
-        "md5": "1e352556a85b399e600387a10f911879"
+        "md5": "a3ba35dac902fd0a512cc51ed3f3e2ec"
     },
     {
         "path": "page/12",
@@ -13407,7 +13427,7 @@
     {
         "path": "/page/12/index.html",
         "type": "file",
-        "md5": "a99be9470755f3b310e0ff8dd9502e8d"
+        "md5": "5582209c5ab41aedeecc39a313215527"
     },
     {
         "path": "page/13",
@@ -13417,7 +13437,7 @@
     {
         "path": "/page/13/index.html",
         "type": "file",
-        "md5": "576a1b1edfb329bbc30bccb1890965ab"
+        "md5": "7d42f412458c5b3f0a642caa59470545"
     },
     {
         "path": "page/14",
@@ -13427,7 +13447,7 @@
     {
         "path": "/page/14/index.html",
         "type": "file",
-        "md5": "0e75195d3cb116d0b697bbac138fcd95"
+        "md5": "0b88f580ef9b1040051d53246cdbc6d6"
     },
     {
         "path": "page/15",
@@ -13437,7 +13457,7 @@
     {
         "path": "/page/15/index.html",
         "type": "file",
-        "md5": "8f70b6b0a59bd52157a0ce525b26cbeb"
+        "md5": "da0a552e370e6872ef821000c447f71f"
     },
     {
         "path": "page/16",
@@ -13447,7 +13467,7 @@
     {
         "path": "/page/16/index.html",
         "type": "file",
-        "md5": "811ab74f3bdc8680d187c41215a8d7df"
+        "md5": "84a00d4e051e1b3892388cc16de0a990"
     },
     {
         "path": "page/2",
@@ -13457,7 +13477,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "f6ac39140866882c94a3ab2f9ea1336d"
+        "md5": "8c151abee836db9162a2eea1115c5575"
     },
     {
         "path": "page/3",
@@ -13467,7 +13487,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "665fed271d84bdb572fd5fda2da61618"
+        "md5": "f3dca79bb0a5bc9fd2aa8440cc6fde80"
     },
     {
         "path": "page/4",
@@ -13477,7 +13497,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "01a26cded5e9a26c0bc29708767f660b"
+        "md5": "212ddb51071a01435094120e2da77d33"
     },
     {
         "path": "page/5",
@@ -13487,7 +13507,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "1f85a461da91afe98cfe6e9858ef4574"
+        "md5": "b0ca7b708690a8d9c0722d42395f5209"
     },
     {
         "path": "page/6",
@@ -13497,7 +13517,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "857ee2a4759d75af0a57a32c8e5acf74"
+        "md5": "84927389d308d49a5a623de154aeaede"
     },
     {
         "path": "page/7",
@@ -13507,7 +13527,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "53555312b8324deafb43fde2c2acbe12"
+        "md5": "3b83dc022e6d65a29bde8cd561c7993f"
     },
     {
         "path": "page/8",
@@ -13517,7 +13537,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "70572f70e73c0ea22699c62ceca72a5c"
+        "md5": "4bdb62da600718270c9c258f916a300e"
     },
     {
         "path": "page/9",
@@ -13527,7 +13547,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "d1e909ee47074de6f1f713ce713c9588"
+        "md5": "7441e98943fe0a6a39727068bbe69504"
     },
     {
         "path": "photo-dump-from-1994-and-1995",
@@ -13537,17 +13557,7 @@
     {
         "path": "/photo-dump-from-1994-and-1995/index.html",
         "type": "file",
-        "md5": "eb28550f573061734c71497b4fe50dbd"
-    },
-    {
-        "path": "pie-charts-by-bike",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/pie-charts-by-bike/index.html",
-        "type": "file",
-        "md5": "192288ed4982395cd0200a62851a4af4"
+        "md5": "11e131a740c438d05c4883f1405d8707"
     },
     {
         "path": "portable-camera-equipment",
@@ -13557,7 +13567,7 @@
     {
         "path": "/portable-camera-equipment/index.html",
         "type": "file",
-        "md5": "9ed228d0bf0c56b406af67ddf2eee921"
+        "md5": "26a5f053b94fe06a10bb481ef79cdc79"
     },
     {
         "path": "privacy-statement",
@@ -13567,7 +13577,7 @@
     {
         "path": "/privacy-statement/index.html",
         "type": "file",
-        "md5": "99b5be10f9cca4cbb45946b255ad9f60"
+        "md5": "97e7d066436c5542aa26dcc142742fe0"
     },
     {
         "path": "pulled-the-trigger-on-an-mk5",
@@ -13577,7 +13587,7 @@
     {
         "path": "/pulled-the-trigger-on-an-mk5/index.html",
         "type": "file",
-        "md5": "1515ed16d85aec9a57bb7114acdc8e7a"
+        "md5": "2369906a43d2e93cd632ab110063c422"
     },
     {
         "path": "raudax-cycling-clothing",
@@ -13587,27 +13597,7 @@
     {
         "path": "/raudax-cycling-clothing/index.html",
         "type": "file",
-        "md5": "a2377f1cee7e00e650fc44d95f9ac990"
-    },
-    {
-        "path": "ride-type-pie-charts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ride-type-pie-charts/index.html",
-        "type": "file",
-        "md5": "9ee55167f1debffc4c5f5dd658a890bc"
-    },
-    {
-        "path": "ride-type-statistics",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/ride-type-statistics/index.html",
-        "type": "file",
-        "md5": "4d97526612953c8df90a29d2a405569e"
+        "md5": "182fc13393a15d4f0a5c87de6c6cbe97"
     },
     {
         "path": "ritte-snob-disc",
@@ -13617,7 +13607,7 @@
     {
         "path": "/ritte-snob-disc/index.html",
         "type": "file",
-        "md5": "1f9d44de5f31ef638e13f5bc9a3f6b2d"
+        "md5": "a4e1a2ba623efe0c46190f0d137a720b"
     },
     {
         "path": "robots.txt",
@@ -13632,7 +13622,7 @@
     {
         "path": "/shopping-on-aliexpress/index.html",
         "type": "file",
-        "md5": "5320d69fdfe6ea2d198438696105968c"
+        "md5": "89fa17b3ca95d3e862ffd7f6ce0644cf"
     },
     {
         "path": "single-speeding",
@@ -13642,12 +13632,12 @@
     {
         "path": "/single-speeding/index.html",
         "type": "file",
-        "md5": "8d1b76b0c759f322f372f16cf46005bf"
+        "md5": "f17821f4bef45b25199a27b7f474da92"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e5d1e1fb58d0d750f098bc351f954fb6"
+        "md5": "642f163618627f185eeae90a22ad0a55"
     },
     {
         "path": "sitemap.xsl",
@@ -13662,7 +13652,7 @@
     {
         "path": "/small-steps-to-fight-climate-change/index.html",
         "type": "file",
-        "md5": "f8d8c76c4fcb5a8b8959379af18bef10"
+        "md5": "0de5ecdaf5e65b4fa0539fecf7cf2a6a"
     },
     {
         "path": "some-silly-strava-stats",
@@ -13672,7 +13662,7 @@
     {
         "path": "/some-silly-strava-stats/index.html",
         "type": "file",
-        "md5": "0b0c41f8631d96b0fb6e7be210ab30b8"
+        "md5": "fbdc8723e93e23bc79810380a8548eba"
     },
     {
         "path": "spexcel-cycling-apparel",
@@ -13682,7 +13672,7 @@
     {
         "path": "/spexcel-cycling-apparel/index.html",
         "type": "file",
-        "md5": "4ae9f6ad37cb890913170637dd2f06af"
+        "md5": "e2d431b1f767bf08accf01a85b80e098"
     },
     {
         "path": "stooge-mk5",
@@ -13692,7 +13682,7 @@
     {
         "path": "/stooge-mk5/index.html",
         "type": "file",
-        "md5": "33e7cb6910a79518eedf66cc70d749d2"
+        "md5": "7f2f0abe0b99e7032a2870188b0a2588"
     },
     {
         "path": "stooge-mk5-geometry",
@@ -13702,17 +13692,7 @@
     {
         "path": "/stooge-mk5-geometry/index.html",
         "type": "file",
-        "md5": "4dd90d7f69f383d0412d8483e0319051"
-    },
-    {
-        "path": "strava-dashboard-in-data-studio",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/strava-dashboard-in-data-studio/index.html",
-        "type": "file",
-        "md5": "93121952bb14ecc1d43a1d2415e52346"
+        "md5": "18b450c96168eabdb072bbc300091986"
     },
     {
         "path": "summers-are-getting-shorter",
@@ -13722,7 +13702,7 @@
     {
         "path": "/summers-are-getting-shorter/index.html",
         "type": "file",
-        "md5": "ba83cfe650008c4c551ed26e4e861b26"
+        "md5": "1614c9f8cfe1d0b33f461e148ae4ed03"
     },
     {
         "path": "tags",
@@ -13737,7 +13717,7 @@
     {
         "path": "/tags/allroad-cycling/index.html",
         "type": "file",
-        "md5": "d329d1897215fcae679fcc0b1c4a64a3"
+        "md5": "69fb23c5d845560e026582c0521104ee"
     },
     {
         "path": "tags/allroad-cycling/page",
@@ -13752,7 +13732,7 @@
     {
         "path": "/tags/allroad-cycling/page/2/index.html",
         "type": "file",
-        "md5": "7b7acd1886746267e723a9309c894dcb"
+        "md5": "99a47cf505bc252c17541967f3423cc7"
     },
     {
         "path": "tags/bar-charts",
@@ -13762,7 +13742,7 @@
     {
         "path": "/tags/bar-charts/index.html",
         "type": "file",
-        "md5": "00c7b10e5b257c5f3bb71744ca4c209c"
+        "md5": "6a5763a89736f302b897ca4ee47bf258"
     },
     {
         "path": "tags/bike",
@@ -13772,7 +13752,7 @@
     {
         "path": "/tags/bike/index.html",
         "type": "file",
-        "md5": "ae84d9e97d9b2ba3a26f1e3f035f1c5d"
+        "md5": "693e808ca8a20e5828c05f695e92e0bb"
     },
     {
         "path": "tags/bike/page",
@@ -13787,7 +13767,7 @@
     {
         "path": "/tags/bike/page/2/index.html",
         "type": "file",
-        "md5": "87e588baf548cbb987a799bb1e762ea3"
+        "md5": "5e609c27c204c57be1e90b1c3e3033e1"
     },
     {
         "path": "tags/bike/page/3",
@@ -13797,7 +13777,7 @@
     {
         "path": "/tags/bike/page/3/index.html",
         "type": "file",
-        "md5": "e97a5833149698933c0abc5836894202"
+        "md5": "b2efa1e981a787fc4d5c68e7c63f8263"
     },
     {
         "path": "tags/bike/page/4",
@@ -13807,7 +13787,7 @@
     {
         "path": "/tags/bike/page/4/index.html",
         "type": "file",
-        "md5": "c6c8527b76d6c002d41463a65d32beb0"
+        "md5": "f8e1f42c68295fb075a45a7fabb2ec1b"
     },
     {
         "path": "tags/bike/page/5",
@@ -13817,7 +13797,7 @@
     {
         "path": "/tags/bike/page/5/index.html",
         "type": "file",
-        "md5": "58a817b25593b0f10cdd8b6bf10403f7"
+        "md5": "21aa6a1ed1f4b109626e622c7e246849"
     },
     {
         "path": "tags/bike-components",
@@ -13827,7 +13807,7 @@
     {
         "path": "/tags/bike-components/index.html",
         "type": "file",
-        "md5": "f1d92f372faf7768595d995feb605bab"
+        "md5": "dba405126bec34fba6cd1b22404a087f"
     },
     {
         "path": "tags/bike-components/page",
@@ -13842,7 +13822,7 @@
     {
         "path": "/tags/bike-components/page/2/index.html",
         "type": "file",
-        "md5": "f20b390a0e72fda50f0c7765fdefbc34"
+        "md5": "d86f5752c78bd488b302c3aad946673b"
     },
     {
         "path": "tags/bike-components/page/3",
@@ -13852,7 +13832,7 @@
     {
         "path": "/tags/bike-components/page/3/index.html",
         "type": "file",
-        "md5": "765c3820344d1bdcf8e445a2793c59a5"
+        "md5": "081582fe5dedc593d3334577915c279d"
     },
     {
         "path": "tags/bike-components/page/4",
@@ -13862,7 +13842,7 @@
     {
         "path": "/tags/bike-components/page/4/index.html",
         "type": "file",
-        "md5": "f02e68c7f2c87213f0d1e1a68de28120"
+        "md5": "98722594f44137b9fe36775e3b4d835a"
     },
     {
         "path": "tags/bike-components/page/5",
@@ -13872,7 +13852,7 @@
     {
         "path": "/tags/bike-components/page/5/index.html",
         "type": "file",
-        "md5": "ff310f8125ccfc9a4738ff49dbc030a3"
+        "md5": "fae486b45b1920a47a3af6f48ba8dfd9"
     },
     {
         "path": "tags/bikejacket",
@@ -13882,7 +13862,7 @@
     {
         "path": "/tags/bikejacket/index.html",
         "type": "file",
-        "md5": "b01dbb22c49621eabecfa516b9327833"
+        "md5": "0665c3be7d0e8cbe2748c07e0dba0d5d"
     },
     {
         "path": "tags/blog-post",
@@ -13892,7 +13872,7 @@
     {
         "path": "/tags/blog-post/index.html",
         "type": "file",
-        "md5": "ca84fa80f3bb64f14b699f3ea4b9625f"
+        "md5": "c442dffffb8a36cefe2e905924b7f587"
     },
     {
         "path": "tags/blog-post/page",
@@ -13907,7 +13887,7 @@
     {
         "path": "/tags/blog-post/page/10/index.html",
         "type": "file",
-        "md5": "f0a2a6a4f0a07c35e26f43e58dce1c2e"
+        "md5": "c6af8bdd6d413131aa47c9ab894da2a4"
     },
     {
         "path": "tags/blog-post/page/2",
@@ -13917,7 +13897,7 @@
     {
         "path": "/tags/blog-post/page/2/index.html",
         "type": "file",
-        "md5": "d2d2f0436fdb90cc4092fb2ce56bfb21"
+        "md5": "67291514ddf9fd03957bec2fc3e9ac98"
     },
     {
         "path": "tags/blog-post/page/3",
@@ -13927,7 +13907,7 @@
     {
         "path": "/tags/blog-post/page/3/index.html",
         "type": "file",
-        "md5": "78f68030500bf5507b09861d6e18bab3"
+        "md5": "9aa4ebe15f7815e516e2d3a838aa1cd6"
     },
     {
         "path": "tags/blog-post/page/4",
@@ -13937,7 +13917,7 @@
     {
         "path": "/tags/blog-post/page/4/index.html",
         "type": "file",
-        "md5": "8f51bbfd31f8dce1ea1bb4cc38b9c4b0"
+        "md5": "5df05dcfecbb8c7d828c1bc1ae7bc139"
     },
     {
         "path": "tags/blog-post/page/5",
@@ -13947,7 +13927,7 @@
     {
         "path": "/tags/blog-post/page/5/index.html",
         "type": "file",
-        "md5": "e26c48672b8da63a3730efacb69796ee"
+        "md5": "eb3fe03b60520b200fc77a9af2599b6a"
     },
     {
         "path": "tags/blog-post/page/6",
@@ -13957,7 +13937,7 @@
     {
         "path": "/tags/blog-post/page/6/index.html",
         "type": "file",
-        "md5": "243b7fc727411e9d05943bf1a162fe45"
+        "md5": "b20bd3266a81fb1036e510cb800ab648"
     },
     {
         "path": "tags/blog-post/page/7",
@@ -13967,7 +13947,7 @@
     {
         "path": "/tags/blog-post/page/7/index.html",
         "type": "file",
-        "md5": "cc1fb3721ed8fbc8183b30227fc341ca"
+        "md5": "ce6dc264b317afc430d90ca25cda1572"
     },
     {
         "path": "tags/blog-post/page/8",
@@ -13977,7 +13957,7 @@
     {
         "path": "/tags/blog-post/page/8/index.html",
         "type": "file",
-        "md5": "b953c0b04d8b8365d15122954aadace7"
+        "md5": "f371aa6ca90f1ecc305ebde13e5cf92e"
     },
     {
         "path": "tags/blog-post/page/9",
@@ -13987,7 +13967,7 @@
     {
         "path": "/tags/blog-post/page/9/index.html",
         "type": "file",
-        "md5": "7c1cdd86b2a173f48ebd398a28a94715"
+        "md5": "2d1194411b8209bbe429ed20fafc3ac2"
     },
     {
         "path": "tags/brakes",
@@ -13997,7 +13977,7 @@
     {
         "path": "/tags/brakes/index.html",
         "type": "file",
-        "md5": "c2abeef6571797ade8c015f3f58377a3"
+        "md5": "793cfbde59778aebabb297c2c0eb84b2"
     },
     {
         "path": "tags/cameras",
@@ -14007,7 +13987,7 @@
     {
         "path": "/tags/cameras/index.html",
         "type": "file",
-        "md5": "40b76754c9079913aec5ac8d7bcd8a1c"
+        "md5": "37601b19a65f83a7def895077265fb3e"
     },
     {
         "path": "tags/climate-change",
@@ -14017,7 +13997,7 @@
     {
         "path": "/tags/climate-change/index.html",
         "type": "file",
-        "md5": "aee3c00b2446a535ddbd3fd34d9cae39"
+        "md5": "d09781545d73763ad5e60dae4f7b05cb"
     },
     {
         "path": "tags/clothing",
@@ -14027,7 +14007,7 @@
     {
         "path": "/tags/clothing/index.html",
         "type": "file",
-        "md5": "c4bc83abba87e9f62025d04b1f91fe51"
+        "md5": "c5db3acd97cd520513cca526d807fe7b"
     },
     {
         "path": "tags/computer",
@@ -14037,7 +14017,7 @@
     {
         "path": "/tags/computer/index.html",
         "type": "file",
-        "md5": "fb725ce04111c1003f2ae9c6d536d827"
+        "md5": "1317439fc4e277c36170ec3333f22f73"
     },
     {
         "path": "tags/cycling",
@@ -14047,7 +14027,7 @@
     {
         "path": "/tags/cycling/index.html",
         "type": "file",
-        "md5": "30748e2e9114855a34c7bc50e215824b"
+        "md5": "135d6a0fa7b1fe0d5d09fbf705e3fcd8"
     },
     {
         "path": "tags/cycling/page",
@@ -14062,7 +14042,7 @@
     {
         "path": "/tags/cycling/page/2/index.html",
         "type": "file",
-        "md5": "fd89d4330e704389df29722a2c2cfe15"
+        "md5": "c00ec86f607b5e9707a3bb95b6abc9c6"
     },
     {
         "path": "tags/cycling/page/3",
@@ -14072,7 +14052,7 @@
     {
         "path": "/tags/cycling/page/3/index.html",
         "type": "file",
-        "md5": "fd08a8d2f3db4a02a85d1b1334736e7d"
+        "md5": "2fe9a4c82f67527b5738f50ca1de0afb"
     },
     {
         "path": "tags/cycling/page/4",
@@ -14082,7 +14062,7 @@
     {
         "path": "/tags/cycling/page/4/index.html",
         "type": "file",
-        "md5": "0a2660a76b8125346eeddc782e73a255"
+        "md5": "ff6d2a66d7b989e3cdb855036b6c1ce3"
     },
     {
         "path": "tags/cycling/page/5",
@@ -14092,7 +14072,7 @@
     {
         "path": "/tags/cycling/page/5/index.html",
         "type": "file",
-        "md5": "5fa6a190e9b8b4e8f4d8df82ac992e36"
+        "md5": "f96f80eb89874988898f991ad357bf62"
     },
     {
         "path": "tags/cycling/page/6",
@@ -14102,7 +14082,7 @@
     {
         "path": "/tags/cycling/page/6/index.html",
         "type": "file",
-        "md5": "06eb3f0de7cebc098c060235890d026a"
+        "md5": "4d6ebf32e9c80068260b3b976272100b"
     },
     {
         "path": "tags/cycling/page/7",
@@ -14112,7 +14092,7 @@
     {
         "path": "/tags/cycling/page/7/index.html",
         "type": "file",
-        "md5": "f074f9e092ee64394ebf072167b1bfcd"
+        "md5": "70052ec022d9d95fe930963872e45eb2"
     },
     {
         "path": "tags/cycling/page/8",
@@ -14122,7 +14102,7 @@
     {
         "path": "/tags/cycling/page/8/index.html",
         "type": "file",
-        "md5": "a0aa2ff455fe3d981d46c04da2fea343"
+        "md5": "7be32026ad6d759cd8bef5199f54a0d9"
     },
     {
         "path": "tags/cycling/page/9",
@@ -14132,7 +14112,7 @@
     {
         "path": "/tags/cycling/page/9/index.html",
         "type": "file",
-        "md5": "77c4c8c01679d7b0c13ddb5bb562abaf"
+        "md5": "139e6349f7c2d2ab2c5a0e70f266c677"
     },
     {
         "path": "tags/datastudio",
@@ -14142,7 +14122,7 @@
     {
         "path": "/tags/datastudio/index.html",
         "type": "file",
-        "md5": "07d7a14ae870d168181882582597af8f"
+        "md5": "9bd9b9fa6b9edd10ff945acd3731535a"
     },
     {
         "path": "tags/diy",
@@ -14152,7 +14132,7 @@
     {
         "path": "/tags/diy/index.html",
         "type": "file",
-        "md5": "b6da1b86340a973d4424d969dc32831f"
+        "md5": "3e16d4f0e42f044a852273782fafd5a0"
     },
     {
         "path": "tags/diy/page",
@@ -14167,7 +14147,7 @@
     {
         "path": "/tags/diy/page/2/index.html",
         "type": "file",
-        "md5": "b7353fceccd87736ac99a15d70d54351"
+        "md5": "22770c2d333af1982119fc9d89732cc9"
     },
     {
         "path": "tags/fat-biking",
@@ -14177,7 +14157,7 @@
     {
         "path": "/tags/fat-biking/index.html",
         "type": "file",
-        "md5": "4fd671c3bde38a47640b57bfecf29444"
+        "md5": "ff772be80c2d7c22384ed71cff96b25f"
     },
     {
         "path": "tags/fat-biking/page",
@@ -14192,7 +14172,7 @@
     {
         "path": "/tags/fat-biking/page/2/index.html",
         "type": "file",
-        "md5": "d1c555dad375c744f2b6f6302c911bda"
+        "md5": "0772af3de63b7f6c2e5a96f2b0210961"
     },
     {
         "path": "tags/fat-biking/page/3",
@@ -14202,7 +14182,7 @@
     {
         "path": "/tags/fat-biking/page/3/index.html",
         "type": "file",
-        "md5": "48cfe89fd954afe3bd486b22522dcd25"
+        "md5": "378d5d0a9a11f88814448070db404808"
     },
     {
         "path": "tags/geometry",
@@ -14212,7 +14192,7 @@
     {
         "path": "/tags/geometry/index.html",
         "type": "file",
-        "md5": "286b1f7d5aa56d652c1420cf2eb1c0db"
+        "md5": "58cd07a226ffdbae15a2a9c62e015dcc"
     },
     {
         "path": "tags/gravel-bikes",
@@ -14222,7 +14202,7 @@
     {
         "path": "/tags/gravel-bikes/index.html",
         "type": "file",
-        "md5": "76b8377cee5d01c3020fcd671256956e"
+        "md5": "05c8730fe68cff36037996e43dda42fa"
     },
     {
         "path": "tags/gravel-bikes/page",
@@ -14237,7 +14217,7 @@
     {
         "path": "/tags/gravel-bikes/page/2/index.html",
         "type": "file",
-        "md5": "d0b92ef55f32377667bf821bd36ff229"
+        "md5": "bc552eb448e02519900b90e3bf49f250"
     },
     {
         "path": "tags/gravel-grinding",
@@ -14247,7 +14227,7 @@
     {
         "path": "/tags/gravel-grinding/index.html",
         "type": "file",
-        "md5": "b3b9c61979f3ad53e0f6988556422821"
+        "md5": "d03be665bc6a00092e97a221c753259d"
     },
     {
         "path": "tags/handlebars",
@@ -14257,7 +14237,7 @@
     {
         "path": "/tags/handlebars/index.html",
         "type": "file",
-        "md5": "08cde34da525c6da11c9e63f74aafe72"
+        "md5": "d08679e0939a8ba268cbf89e58fc4617"
     },
     {
         "path": "tags/helmet",
@@ -14267,12 +14247,12 @@
     {
         "path": "/tags/helmet/index.html",
         "type": "file",
-        "md5": "e8c905231d0345f974ac9ec2bcf4dcdb"
+        "md5": "9bc11955472958f5eb28c3d744bb5c64"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "e6e65cc6197c0b89fa05eb32453206e0"
+        "md5": "0411f49f4fdbd62e61121f7f13d14463"
     },
     {
         "path": "tags/miscellaneous",
@@ -14282,7 +14262,7 @@
     {
         "path": "/tags/miscellaneous/index.html",
         "type": "file",
-        "md5": "b148b3e1ace8ea00b557afd2c666341e"
+        "md5": "3b712e6927fa3c57d9dce5ec4039387f"
     },
     {
         "path": "tags/miscellaneous/page",
@@ -14297,7 +14277,7 @@
     {
         "path": "/tags/miscellaneous/page/2/index.html",
         "type": "file",
-        "md5": "485ed40a0f63f5eb10bd90e0f18812c5"
+        "md5": "e85352157e27d164068ae95b996ac861"
     },
     {
         "path": "tags/mountain-bikes",
@@ -14307,7 +14287,7 @@
     {
         "path": "/tags/mountain-bikes/index.html",
         "type": "file",
-        "md5": "7f5b4b2f1ab79afabf85cc78fe1004e0"
+        "md5": "739aa44f0724a82a08dbdd935df0df84"
     },
     {
         "path": "tags/mountain-bikes/page",
@@ -14322,7 +14302,7 @@
     {
         "path": "/tags/mountain-bikes/page/2/index.html",
         "type": "file",
-        "md5": "d5d56909aae78e773a75dc6e55eb3f6d"
+        "md5": "6dea6b1f7627dd9dd51b918e0d2b5428"
     },
     {
         "path": "tags/mountain-bikes/page/3",
@@ -14332,7 +14312,7 @@
     {
         "path": "/tags/mountain-bikes/page/3/index.html",
         "type": "file",
-        "md5": "1bf7f2696b293cd80a9995858c897a0c"
+        "md5": "bbf12d7a36728e9e53d01a1784f9d0b3"
     },
     {
         "path": "tags/offtrail-riding",
@@ -14342,7 +14322,7 @@
     {
         "path": "/tags/offtrail-riding/index.html",
         "type": "file",
-        "md5": "9bca1f66f82db0b42bc3d19477fe51df"
+        "md5": "2ead9c5336dca24d1373fe00fc685f29"
     },
     {
         "path": "tags/oval-chainrings",
@@ -14352,7 +14332,7 @@
     {
         "path": "/tags/oval-chainrings/index.html",
         "type": "file",
-        "md5": "2d3ffc39b4165f3957b662cdd1f0ab8b"
+        "md5": "3e6a1e0871e5e6e89fbcef6ac3023d1f"
     },
     {
         "path": "tags/pie-charts",
@@ -14362,7 +14342,7 @@
     {
         "path": "/tags/pie-charts/index.html",
         "type": "file",
-        "md5": "10a57b20b77de82a6406d7789bfbe247"
+        "md5": "9bb5089cbf0952e3dd565cb05b77bec7"
     },
     {
         "path": "tags/pumps",
@@ -14372,7 +14352,7 @@
     {
         "path": "/tags/pumps/index.html",
         "type": "file",
-        "md5": "ef164d626dcda7057f5fa69b223c171a"
+        "md5": "cdfa7ff9278a9cc3c1e406faf498ec07"
     },
     {
         "path": "tags/road-bikes",
@@ -14382,7 +14362,7 @@
     {
         "path": "/tags/road-bikes/index.html",
         "type": "file",
-        "md5": "6792af2959ec0e2d596bbd31d5533a69"
+        "md5": "3d7f145031234f87724dbb0ca6d49db4"
     },
     {
         "path": "tags/road-bikes/page",
@@ -14397,7 +14377,7 @@
     {
         "path": "/tags/road-bikes/page/2/index.html",
         "type": "file",
-        "md5": "0792001a7ac464a1831baef4639426d8"
+        "md5": "4b54fdd1764ec31604a3fc561cf4f692"
     },
     {
         "path": "tags/road-cycling",
@@ -14407,7 +14387,7 @@
     {
         "path": "/tags/road-cycling/index.html",
         "type": "file",
-        "md5": "41a3a8d2d46c2341dd80bb0760bb7502"
+        "md5": "40c38714aafde121dafce584f1581a8f"
     },
     {
         "path": "tags/road-tires",
@@ -14417,7 +14397,7 @@
     {
         "path": "/tags/road-tires/index.html",
         "type": "file",
-        "md5": "7f6721001525a9e8845023aacb89f596"
+        "md5": "f56a0880677e60c285d1dcdc869a5b77"
     },
     {
         "path": "tags/rotors",
@@ -14427,7 +14407,7 @@
     {
         "path": "/tags/rotors/index.html",
         "type": "file",
-        "md5": "bb2b5c1cfb6d4f3a5e59afbabcb29eb3"
+        "md5": "736170543bf8372d9c0f329556f07ebc"
     },
     {
         "path": "tags/saddles",
@@ -14437,7 +14417,7 @@
     {
         "path": "/tags/saddles/index.html",
         "type": "file",
-        "md5": "d91d1a3cca3ebd25277365e560298888"
+        "md5": "daa9959c3b12133600009f9c8fefe843"
     },
     {
         "path": "tags/single-speeding",
@@ -14447,7 +14427,7 @@
     {
         "path": "/tags/single-speeding/index.html",
         "type": "file",
-        "md5": "1c5ed855c887269958e15bd5f3c614d0"
+        "md5": "e4a710a5f14799e26030b17933372640"
     },
     {
         "path": "tags/statistics",
@@ -14457,7 +14437,7 @@
     {
         "path": "/tags/statistics/index.html",
         "type": "file",
-        "md5": "480e0835c55848e7892481390bea8bb0"
+        "md5": "37a9e16a53176bbc791ae452837ff02d"
     },
     {
         "path": "tags/statistics/page",
@@ -14472,7 +14452,7 @@
     {
         "path": "/tags/statistics/page/2/index.html",
         "type": "file",
-        "md5": "01c51711f690e57a78d20c3f07f2261b"
+        "md5": "d6f67669293c45263bdcd8746e31e40d"
     },
     {
         "path": "tags/stooge-mk5",
@@ -14482,7 +14462,7 @@
     {
         "path": "/tags/stooge-mk5/index.html",
         "type": "file",
-        "md5": "4262a3f61e4702ba72c9ac71022e7a70"
+        "md5": "87b89d0fa089952e07bbaff1de7e2193"
     },
     {
         "path": "tags/stooge-mk5/page",
@@ -14497,7 +14477,7 @@
     {
         "path": "/tags/stooge-mk5/page/2/index.html",
         "type": "file",
-        "md5": "ba39ff56d66b1e7b5f5ec6723a12723b"
+        "md5": "be56671ac4f75732e3284465c2b6df4b"
     },
     {
         "path": "tags/tales-of-a-successful-experiment",
@@ -14507,7 +14487,7 @@
     {
         "path": "/tags/tales-of-a-successful-experiment/index.html",
         "type": "file",
-        "md5": "a07a20734fecb18d2c3fb980e0bb16fb"
+        "md5": "c61bd248023c452fbb7c606b9049ba90"
     },
     {
         "path": "tags/time-change",
@@ -14517,7 +14497,7 @@
     {
         "path": "/tags/time-change/index.html",
         "type": "file",
-        "md5": "656259dd660746f627d19e620c0ba1d2"
+        "md5": "71e9bb03d004ecb9f4feb29a731c5e0a"
     },
     {
         "path": "tags/tires",
@@ -14527,7 +14507,7 @@
     {
         "path": "/tags/tires/index.html",
         "type": "file",
-        "md5": "82fa3875a4fa03c4f14eb174388bcf21"
+        "md5": "a2a7e7c59888dd29614ee663206da4c8"
     },
     {
         "path": "tags/tools",
@@ -14537,7 +14517,7 @@
     {
         "path": "/tags/tools/index.html",
         "type": "file",
-        "md5": "01224b8e1cbab8a7742d029cf2f3d355"
+        "md5": "715895bc99037663deae32de30746d67"
     },
     {
         "path": "tags/travel",
@@ -14547,7 +14527,7 @@
     {
         "path": "/tags/travel/index.html",
         "type": "file",
-        "md5": "089111a3e101b40fd5f74d0b8e61a9ca"
+        "md5": "1dfa232367e98d3ce63eec63e3ea7001"
     },
     {
         "path": "tags/wheels",
@@ -14557,7 +14537,7 @@
     {
         "path": "/tags/wheels/index.html",
         "type": "file",
-        "md5": "2d3565036cbe597193f348f3a5843647"
+        "md5": "f500a65511b5dd7632ffd7696b111e7a"
     },
     {
         "path": "tags/winter-time",
@@ -14567,7 +14547,7 @@
     {
         "path": "/tags/winter-time/index.html",
         "type": "file",
-        "md5": "386be169ddc243473f2341d9bc8fe318"
+        "md5": "b32e9eb8a8da77418de869beb5a6cf65"
     },
     {
         "path": "tags/winter-time/page",
@@ -14582,7 +14562,7 @@
     {
         "path": "/tags/winter-time/page/2/index.html",
         "type": "file",
-        "md5": "a03ebd55814d3551707fb387bcc2e93d"
+        "md5": "1240d59aa3e878502c10cbe403c68d23"
     },
     {
         "path": "territory-change",
@@ -14592,7 +14572,7 @@
     {
         "path": "/territory-change/index.html",
         "type": "file",
-        "md5": "1ea2b581b6dd5c3cc49cdb298d881302"
+        "md5": "114d3d8bd05aefb790083c264460e6c0"
     },
     {
         "path": "the-geometry-of-a-gravel-bike",
@@ -14602,7 +14582,7 @@
     {
         "path": "/the-geometry-of-a-gravel-bike/index.html",
         "type": "file",
-        "md5": "bd5cb4cfd2fcb34f0668fd9f8336da8f"
+        "md5": "2df4fd0542570e12a8bb70fa50222998"
     },
     {
         "path": "the-nuts-and-bolts-of-bb3106",
@@ -14612,7 +14592,7 @@
     {
         "path": "/the-nuts-and-bolts-of-bb3106/index.html",
         "type": "file",
-        "md5": "a6331f8f89c51c7a6a28d6667b9b227a"
+        "md5": "6e5c7d6d6eadcb4da88661f917b14e1a"
     },
     {
         "path": "time-to-retire-a-few-bike-helmets",
@@ -14622,7 +14602,7 @@
     {
         "path": "/time-to-retire-a-few-bike-helmets/index.html",
         "type": "file",
-        "md5": "421a6f8bb4e68902758bddd48cdfd1ba"
+        "md5": "1dd18b3ddd6c86c09cd12e593f5e0e36"
     },
     {
         "path": "travel-bookings-to-balconia",
@@ -14632,7 +14612,7 @@
     {
         "path": "/travel-bookings-to-balconia/index.html",
         "type": "file",
-        "md5": "77a7b7cbcbb7c8bf721daa645defa57c"
+        "md5": "3e32b74f7749bc1673e79fd829a5f551"
     },
     {
         "path": "updating-brakes-round-one",
@@ -14642,7 +14622,7 @@
     {
         "path": "/updating-brakes-round-one/index.html",
         "type": "file",
-        "md5": "f70a889136478b7246a14d6f754b3a35"
+        "md5": "cfad01f5eec2efc20ca68817bd82f835"
     },
     {
         "path": "vive-la-modularite",
@@ -14652,7 +14632,7 @@
     {
         "path": "/vive-la-modularite/index.html",
         "type": "file",
-        "md5": "bf124a3b16ac0001682440e091bd4638"
+        "md5": "09a519973fdc014477036cb01b69c687"
     },
     {
         "path": "volagi-viaje-2024-update",
@@ -14662,7 +14642,7 @@
     {
         "path": "/volagi-viaje-2024-update/index.html",
         "type": "file",
-        "md5": "bdf4c9d777a69dd73f775e7d8fbaeedb"
+        "md5": "84893187b96759c22cd8783eaf2c3755"
     },
     {
         "path": "volagi-viaje-sl",
@@ -14672,7 +14652,7 @@
     {
         "path": "/volagi-viaje-sl/index.html",
         "type": "file",
-        "md5": "0ca7424cb513799a08a9984e9fb4c586"
+        "md5": "82b13be249a58edb0dd11ece019e5c3e"
     },
     {
         "path": "wheel-and-tire-testing",
@@ -14682,7 +14662,7 @@
     {
         "path": "/wheel-and-tire-testing/index.html",
         "type": "file",
-        "md5": "0ff124d2d5e76962be3b4ff11fbdc2cb"
+        "md5": "8bb026516ed3fe8e5772c6b3bb86ea46"
     },
     {
         "path": "year-2020-in-review",
@@ -14692,6 +14672,6 @@
     {
         "path": "/year-2020-in-review/index.html",
         "type": "file",
-        "md5": "d845b3d35f298398b361036770a3f6d5"
+        "md5": "0f7740b0e33c5c673c278f9b9d17be06"
     }
 ]

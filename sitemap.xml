@@ -337,22 +337,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://offtrail.guru/annual-stats-by-bike/</loc>
-<lastmod>2022-03-17T23:22:58+01:00</lastmod>
-<image:image>
-<image:loc>https://offtrail.guru/media/posts/10/bike-stats.jpg</image:loc>
-<image:title><![CDATA[A gorgeous climb ridden on May 10, 2020.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://offtrail.guru/annual-stats-by-month/</loc>
-<lastmod>2023-10-17T13:54:57+02:00</lastmod>
-<image:image>
-<image:loc>https://offtrail.guru/media/posts/15/monthly-stats.jpg</image:loc>
-<image:title><![CDATA[Crossing the Petit Chasseral on March 8, 2020.]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://offtrail.guru/another-cockpit-change/</loc>
 <lastmod>2023-10-18T17:29:45+02:00</lastmod>
 <image:image>
@@ -642,11 +626,29 @@
 </url>
 <url>
 <loc>https://offtrail.guru/cycling-statistics/</loc>
-<lastmod>2022-03-17T23:22:49+01:00</lastmod>
+<lastmod>2024-08-26T17:56:58+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/11/statistics.png</image:loc>
 <image:title><![CDATA[Klipfolio Strava dashboard version 6 (last one).]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://offtrail.guru/cycling-statistics/annual-stats-by-bike/</loc>
+</url>
+<url>
+<loc>https://offtrail.guru/cycling-statistics/annual-stats-by-month/</loc>
+</url>
+<url>
+<loc>https://offtrail.guru/cycling-statistics/pie-charts-by-bike/</loc>
+</url>
+<url>
+<loc>https://offtrail.guru/cycling-statistics/ride-type-pie-charts/</loc>
+</url>
+<url>
+<loc>https://offtrail.guru/cycling-statistics/ride-type-statistics/</loc>
+</url>
+<url>
+<loc>https://offtrail.guru/cycling-statistics/strava-dashboard-in-data-studio/</loc>
 </url>
 <url>
 <loc>https://offtrail.guru/cycplus-cube-electric-bike-pump/</loc>
@@ -1330,7 +1332,7 @@
 </url>
 <url>
 <loc>https://offtrail.guru/marin-gestalt-x12/</loc>
-<lastmod>2024-08-25T11:31:44+02:00</lastmod>
+<lastmod>2024-08-25T12:25:49+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/67/marin-gestalt-x12-00.jpg</image:loc>
 <image:title><![CDATA[Marin Gestalt X12]]></image:title>
@@ -1910,14 +1912,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://offtrail.guru/pie-charts-by-bike/</loc>
-<lastmod>2023-01-08T09:29:43+01:00</lastmod>
-<image:image>
-<image:loc>https://offtrail.guru/media/posts/12/pie.jpg</image:loc>
-<image:title><![CDATA[Pie]]></image:title>
-</image:image>
-</url>
-<url>
 <loc>https://offtrail.guru/portable-camera-equipment/</loc>
 <lastmod>2023-10-18T17:56:01+02:00</lastmod>
 <image:image>
@@ -1999,22 +1993,6 @@
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/71/gallery/raudax-clothing-4-thumbnail.webp</image:loc>
 <image:title><![CDATA[Camo vest over winter jacket.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://offtrail.guru/ride-type-pie-charts/</loc>
-<lastmod>2023-01-08T09:28:34+01:00</lastmod>
-<image:image>
-<image:loc>https://offtrail.guru/media/posts/14/andrew-miller-pie.jpg</image:loc>
-<image:title><![CDATA[Pie]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://offtrail.guru/ride-type-statistics/</loc>
-<lastmod>2022-03-17T23:22:17+01:00</lastmod>
-<image:image>
-<image:loc>https://offtrail.guru/media/posts/13/ride-stats.jpg</image:loc>
-<image:title><![CDATA[Climbing the White Wall on May 21, 2020.]]></image:title>
 </image:image>
 </url>
 <url>
@@ -2239,14 +2217,6 @@
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/57/gallery/geometry.44.snakedriver-thumbnail.png</image:loc>
 <image:title><![CDATA[Fortyfour Snakedriver.]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://offtrail.guru/strava-dashboard-in-data-studio/</loc>
-<lastmod>2023-10-18T17:50:21+02:00</lastmod>
-<image:image>
-<image:loc>https://offtrail.guru/media/posts/19/strava-2018.png</image:loc>
-<image:title><![CDATA[Strava dashboard in Google's Data Studio.]]></image:title>
 </image:image>
 </url>
 <url>
