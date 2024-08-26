@@ -13742,7 +13742,7 @@
     {
         "path": "/tags/bar-charts/index.html",
         "type": "file",
-        "md5": "6a5763a89736f302b897ca4ee47bf258"
+        "md5": "3a50dfd040b019f7d70657bd3b4274e5"
     },
     {
         "path": "tags/bike",
@@ -14027,7 +14027,7 @@
     {
         "path": "/tags/cycling/index.html",
         "type": "file",
-        "md5": "135d6a0fa7b1fe0d5d09fbf705e3fcd8"
+        "md5": "d2706096eaecd4d3ab06b333a21cd596"
     },
     {
         "path": "tags/cycling/page",
@@ -14042,7 +14042,7 @@
     {
         "path": "/tags/cycling/page/2/index.html",
         "type": "file",
-        "md5": "c00ec86f607b5e9707a3bb95b6abc9c6"
+        "md5": "1b05d3d084c22117495fb8591cd7c3e4"
     },
     {
         "path": "tags/cycling/page/3",
@@ -14052,7 +14052,7 @@
     {
         "path": "/tags/cycling/page/3/index.html",
         "type": "file",
-        "md5": "2fe9a4c82f67527b5738f50ca1de0afb"
+        "md5": "f1715012746f6473330ddaa437a9ac70"
     },
     {
         "path": "tags/cycling/page/4",
@@ -14062,7 +14062,7 @@
     {
         "path": "/tags/cycling/page/4/index.html",
         "type": "file",
-        "md5": "ff6d2a66d7b989e3cdb855036b6c1ce3"
+        "md5": "c1387df9be6dfa98fb64abbf8b766494"
     },
     {
         "path": "tags/cycling/page/5",
@@ -14072,7 +14072,7 @@
     {
         "path": "/tags/cycling/page/5/index.html",
         "type": "file",
-        "md5": "f96f80eb89874988898f991ad357bf62"
+        "md5": "f76f0ed126f09e026f6cee5f20f23798"
     },
     {
         "path": "tags/cycling/page/6",
@@ -14082,7 +14082,7 @@
     {
         "path": "/tags/cycling/page/6/index.html",
         "type": "file",
-        "md5": "4d6ebf32e9c80068260b3b976272100b"
+        "md5": "6099cf28eb87a6131817a729df2b194c"
     },
     {
         "path": "tags/cycling/page/7",
@@ -14092,7 +14092,7 @@
     {
         "path": "/tags/cycling/page/7/index.html",
         "type": "file",
-        "md5": "70052ec022d9d95fe930963872e45eb2"
+        "md5": "41e98c6621d68b6085ed95d496a337d6"
     },
     {
         "path": "tags/cycling/page/8",
@@ -14102,17 +14102,7 @@
     {
         "path": "/tags/cycling/page/8/index.html",
         "type": "file",
-        "md5": "7be32026ad6d759cd8bef5199f54a0d9"
-    },
-    {
-        "path": "tags/cycling/page/9",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/cycling/page/9/index.html",
-        "type": "file",
-        "md5": "139e6349f7c2d2ab2c5a0e70f266c677"
+        "md5": "30841c946a5667a538cd059c277def9a"
     },
     {
         "path": "tags/datastudio",
@@ -14122,7 +14112,7 @@
     {
         "path": "/tags/datastudio/index.html",
         "type": "file",
-        "md5": "9bd9b9fa6b9edd10ff945acd3731535a"
+        "md5": "2182e927b52ca79717fc749a9fd97264"
     },
     {
         "path": "tags/diy",
@@ -14252,7 +14242,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "0411f49f4fdbd62e61121f7f13d14463"
+        "md5": "45c72142dc7282e5b9bc42c5c5364a41"
     },
     {
         "path": "tags/miscellaneous",
@@ -14333,16 +14323,6 @@
         "path": "/tags/oval-chainrings/index.html",
         "type": "file",
         "md5": "3e6a1e0871e5e6e89fbcef6ac3023d1f"
-    },
-    {
-        "path": "tags/pie-charts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/pie-charts/index.html",
-        "type": "file",
-        "md5": "9bb5089cbf0952e3dd565cb05b77bec7"
     },
     {
         "path": "tags/pumps",
@@ -14437,22 +14417,7 @@
     {
         "path": "/tags/statistics/index.html",
         "type": "file",
-        "md5": "37a9e16a53176bbc791ae452837ff02d"
-    },
-    {
-        "path": "tags/statistics/page",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "tags/statistics/page/2",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/statistics/page/2/index.html",
-        "type": "file",
-        "md5": "d6f67669293c45263bdcd8746e31e40d"
+        "md5": "1a3251c3b3adc544c2a816ad946387b8"
     },
     {
         "path": "tags/stooge-mk5",
