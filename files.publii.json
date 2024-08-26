@@ -13735,16 +13735,6 @@
         "md5": "99a47cf505bc252c17541967f3423cc7"
     },
     {
-        "path": "tags/bar-charts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/bar-charts/index.html",
-        "type": "file",
-        "md5": "3a50dfd040b019f7d70657bd3b4274e5"
-    },
-    {
         "path": "tags/bike",
         "type": "directory",
         "md5": false
@@ -14027,7 +14017,7 @@
     {
         "path": "/tags/cycling/index.html",
         "type": "file",
-        "md5": "d2706096eaecd4d3ab06b333a21cd596"
+        "md5": "6c97f3e7b4836c29c5ab61f7f86efdca"
     },
     {
         "path": "tags/cycling/page",
@@ -14042,7 +14032,7 @@
     {
         "path": "/tags/cycling/page/2/index.html",
         "type": "file",
-        "md5": "1b05d3d084c22117495fb8591cd7c3e4"
+        "md5": "0cafce34c6c7851f532bf048886b9ccb"
     },
     {
         "path": "tags/cycling/page/3",
@@ -14052,7 +14042,7 @@
     {
         "path": "/tags/cycling/page/3/index.html",
         "type": "file",
-        "md5": "f1715012746f6473330ddaa437a9ac70"
+        "md5": "dc4bbe22bd66c2e0f99393cad330f867"
     },
     {
         "path": "tags/cycling/page/4",
@@ -14062,7 +14052,7 @@
     {
         "path": "/tags/cycling/page/4/index.html",
         "type": "file",
-        "md5": "c1387df9be6dfa98fb64abbf8b766494"
+        "md5": "3050070ad1890c327c068287007eaff0"
     },
     {
         "path": "tags/cycling/page/5",
@@ -14072,7 +14062,7 @@
     {
         "path": "/tags/cycling/page/5/index.html",
         "type": "file",
-        "md5": "f76f0ed126f09e026f6cee5f20f23798"
+        "md5": "a3f7248b5d04a7dafa1ce354d3e7b376"
     },
     {
         "path": "tags/cycling/page/6",
@@ -14082,7 +14072,7 @@
     {
         "path": "/tags/cycling/page/6/index.html",
         "type": "file",
-        "md5": "6099cf28eb87a6131817a729df2b194c"
+        "md5": "2b3ae32e8041762c2627db554695c265"
     },
     {
         "path": "tags/cycling/page/7",
@@ -14092,17 +14082,7 @@
     {
         "path": "/tags/cycling/page/7/index.html",
         "type": "file",
-        "md5": "41e98c6621d68b6085ed95d496a337d6"
-    },
-    {
-        "path": "tags/cycling/page/8",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/tags/cycling/page/8/index.html",
-        "type": "file",
-        "md5": "30841c946a5667a538cd059c277def9a"
+        "md5": "85c5105eac06757f018358964f3c2f28"
     },
     {
         "path": "tags/datastudio",
@@ -14242,7 +14222,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "45c72142dc7282e5b9bc42c5c5364a41"
+        "md5": "06273d364cf7d1fd2017d325d4e056a8"
     },
     {
         "path": "tags/miscellaneous",
@@ -14417,7 +14397,7 @@
     {
         "path": "/tags/statistics/index.html",
         "type": "file",
-        "md5": "1a3251c3b3adc544c2a816ad946387b8"
+        "md5": "988211acde37d378895f22f5e44e25ed"
     },
     {
         "path": "tags/stooge-mk5",
