@@ -542,7 +542,7 @@
     {
         "path": "/cycling-statistics/annual-stats-by-bike/index.html",
         "type": "file",
-        "md5": "c74056f26f8336b19406243ba930d7f4"
+        "md5": "55a5cb90555b5debf8b254593ea0c40f"
     },
     {
         "path": "cycling-statistics/annual-stats-by-month",
@@ -587,7 +587,7 @@
     {
         "path": "/cycling-statistics/ride-type-statistics/index.html",
         "type": "file",
-        "md5": "ad361c40be6063f2e6045e17d14f86f7"
+        "md5": "c4a7e3a79ba9029a76803fc71446f976"
     },
     {
         "path": "cycling-statistics/strava-dashboard-in-data-studio",
