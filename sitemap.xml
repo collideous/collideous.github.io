@@ -626,7 +626,7 @@
 </url>
 <url>
 <loc>https://offtrail.guru/cycling-statistics/</loc>
-<lastmod>2024-08-26T17:56:58+02:00</lastmod>
+<lastmod>2024-08-27T20:36:22+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/11/statistics.png</image:loc>
 <image:title><![CDATA[Klipfolio Strava dashboard version 6 (last one).]]></image:title>
@@ -848,7 +848,7 @@
 </url>
 <url>
 <loc>https://offtrail.guru/fat-biking-to-start-2024/</loc>
-<lastmod>2024-01-23T18:26:13+01:00</lastmod>
+<lastmod>2024-08-27T20:27:51+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/87/fat-biking-2024-00.jpg</image:loc>
 <image:title><![CDATA[The Chasseral antenna on January 21, 2024.]]></image:title>
@@ -1276,33 +1276,33 @@
 </url>
 <url>
 <loc>https://offtrail.guru/late-afternoon-fat-biking/</loc>
-<lastmod>2022-03-17T23:10:20+01:00</lastmod>
+<lastmod>2024-08-27T20:28:27+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/59/late-afternoon-fatbike-ride-0.jpg</image:loc>
 <image:title><![CDATA[Late afternoon at the Romontberg.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-1-thumbnail.jpg</image:loc>
+<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-1-thumbnail.webp</image:loc>
 <image:title><![CDATA[What a day.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-2-thumbnail.jpg</image:loc>
+<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-2-thumbnail.webp</image:loc>
 <image:title><![CDATA[Following snowmobile tracks.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-3-thumbnail.jpg</image:loc>
+<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-3-thumbnail.webp</image:loc>
 <image:title><![CDATA[Climbing a white gravel road.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-4-thumbnail.jpg</image:loc>
+<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-4-thumbnail.webp</image:loc>
 <image:title><![CDATA[Now those are some wrinkles.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-5-thumbnail.jpg</image:loc>
+<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-5-thumbnail.webp</image:loc>
 <image:title><![CDATA[It's getting late.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-6-thumbnail.jpg</image:loc>
+<image:loc>https://offtrail.guru/media/posts/59/gallery/late-afternoon-fatbike-ride-6-thumbnail.webp</image:loc>
 <image:title><![CDATA[Some sweet fat-biking trail.]]></image:title>
 </image:image>
 </url>
@@ -2085,21 +2085,21 @@
 </url>
 <url>
 <loc>https://offtrail.guru/some-silly-strava-stats/</loc>
-<lastmod>2022-03-17T23:10:06+01:00</lastmod>
+<lastmod>2024-08-27T20:29:48+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/60/speed-scatter-charts.png</image:loc>
 <image:title><![CDATA[Scatter charts in Data Studio.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/60/gallery/zap-home-thumbnail.png</image:loc>
+<image:loc>https://offtrail.guru/media/posts/60/gallery/zap-home-thumbnail.webp</image:loc>
 <image:title><![CDATA[The zap that does all the work.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/60/gallery/zap-spreadsheet-rows-thumbnail.png</image:loc>
+<image:loc>https://offtrail.guru/media/posts/60/gallery/zap-spreadsheet-rows-thumbnail.webp</image:loc>
 <image:title><![CDATA[The recipe to populate a new spreadsheet row.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://offtrail.guru/media/posts/60/gallery/datastudio-datasource-thumbnail.png</image:loc>
+<image:loc>https://offtrail.guru/media/posts/60/gallery/datastudio-datasource-thumbnail.webp</image:loc>
 <image:title><![CDATA[The datasource fields in Data Studio.]]></image:title>
 </image:image>
 </url>
@@ -2301,7 +2301,7 @@
 </url>
 <url>
 <loc>https://offtrail.guru/the-nuts-and-bolts-of-bb3106/</loc>
-<lastmod>2023-10-15T10:23:32+02:00</lastmod>
+<lastmod>2024-08-27T20:40:58+02:00</lastmod>
 <image:image>
 <image:loc>https://offtrail.guru/media/posts/54/nuts-bolts-0.jpg</image:loc>
 <image:title><![CDATA[The finished BB3106.]]></image:title>
