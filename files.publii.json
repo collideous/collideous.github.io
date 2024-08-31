@@ -542,7 +542,7 @@
     {
         "path": "/cycling-statistics/annual-stats-by-bike/index.html",
         "type": "file",
-        "md5": "55a5cb90555b5debf8b254593ea0c40f"
+        "md5": "174c45afb22e07be1b8c6ae4574876f6"
     },
     {
         "path": "cycling-statistics/annual-stats-by-month",
@@ -552,12 +552,12 @@
     {
         "path": "/cycling-statistics/annual-stats-by-month/index.html",
         "type": "file",
-        "md5": "bf1dd64db815c35e230df881128d3ed1"
+        "md5": "8764fad6c69c690847ba869326f734d8"
     },
     {
         "path": "/cycling-statistics/index.html",
         "type": "file",
-        "md5": "d2f5593eedd67baa0939664ad0ddb679"
+        "md5": "93c36f692e1be10e45c7429c059f1dad"
     },
     {
         "path": "cycling-statistics/pie-charts-by-bike",
@@ -567,7 +567,7 @@
     {
         "path": "/cycling-statistics/pie-charts-by-bike/index.html",
         "type": "file",
-        "md5": "188eda02bba164a591a6c45a489424ec"
+        "md5": "1071492f29ae6bc8fe05de403bae0f04"
     },
     {
         "path": "cycling-statistics/ride-type-pie-charts",
@@ -577,7 +577,7 @@
     {
         "path": "/cycling-statistics/ride-type-pie-charts/index.html",
         "type": "file",
-        "md5": "6f4dde619e9351b45c7bea3137f5af96"
+        "md5": "48a22fe8c9f90dcc4a70017917bb0eb3"
     },
     {
         "path": "cycling-statistics/ride-type-statistics",
@@ -587,7 +587,7 @@
     {
         "path": "/cycling-statistics/ride-type-statistics/index.html",
         "type": "file",
-        "md5": "c4a7e3a79ba9029a76803fc71446f976"
+        "md5": "e748051bab7100874174a401b5eb9a51"
     },
     {
         "path": "cycling-statistics/strava-dashboard-in-data-studio",
@@ -597,7 +597,7 @@
     {
         "path": "/cycling-statistics/strava-dashboard-in-data-studio/index.html",
         "type": "file",
-        "md5": "3754c15d45ea28e24caee8561ff708e9"
+        "md5": "1987342e13bbe3e1ed606bfac5d9b75a"
     },
     {
         "path": "cycplus-cube-electric-bike-pump",
@@ -13577,7 +13577,7 @@
     {
         "path": "/privacy-statement/index.html",
         "type": "file",
-        "md5": "97e7d066436c5542aa26dcc142742fe0"
+        "md5": "5483979eb5b25e3a801c46db22cd6082"
     },
     {
         "path": "pulled-the-trigger-on-an-mk5",
