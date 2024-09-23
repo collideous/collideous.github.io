@@ -282,7 +282,7 @@
     {
         "path": "/authors/patrick/index.html",
         "type": "file",
-        "md5": "3a05367a30e78bf4fe5d748f184fdd29"
+        "md5": "fb95e5732f0ef49e7d2d9c48bab03fcf"
     },
     {
         "path": "authors/patrick/page",
@@ -297,7 +297,7 @@
     {
         "path": "/authors/patrick/page/10/index.html",
         "type": "file",
-        "md5": "ffa9bc96a6ecff358795a4bf37a8ae4d"
+        "md5": "aec34bb0c8bb9b51507ac5f918ace263"
     },
     {
         "path": "authors/patrick/page/11",
@@ -307,7 +307,7 @@
     {
         "path": "/authors/patrick/page/11/index.html",
         "type": "file",
-        "md5": "1e2ebc4b7c99b994af12a8d9a0d10f1a"
+        "md5": "17a5b591894b9a08787fa77251cf873e"
     },
     {
         "path": "authors/patrick/page/12",
@@ -317,7 +317,7 @@
     {
         "path": "/authors/patrick/page/12/index.html",
         "type": "file",
-        "md5": "c9bc750fef1489af54604470872bc383"
+        "md5": "556a4eef3e38c1694e38df891d36a39f"
     },
     {
         "path": "authors/patrick/page/13",
@@ -327,7 +327,7 @@
     {
         "path": "/authors/patrick/page/13/index.html",
         "type": "file",
-        "md5": "4dc13458f7eb972a6021846f89cadbc8"
+        "md5": "b285645b0654d546564efd6dbf1cbefa"
     },
     {
         "path": "authors/patrick/page/14",
@@ -337,7 +337,7 @@
     {
         "path": "/authors/patrick/page/14/index.html",
         "type": "file",
-        "md5": "56cbfbf1939c3b0c05d7d70d45c6e9c0"
+        "md5": "fb517ff028a72081b692c3956e03a639"
     },
     {
         "path": "authors/patrick/page/15",
@@ -347,7 +347,7 @@
     {
         "path": "/authors/patrick/page/15/index.html",
         "type": "file",
-        "md5": "dfccc5ff57a5675fc1a0f41e27762052"
+        "md5": "cc84b6aff0c30922ef681c467f121ede"
     },
     {
         "path": "authors/patrick/page/16",
@@ -357,7 +357,7 @@
     {
         "path": "/authors/patrick/page/16/index.html",
         "type": "file",
-        "md5": "4da649e89d76cf13003109493e91a81a"
+        "md5": "4ecf3ce69fb815e898d9b4ce77219db3"
     },
     {
         "path": "authors/patrick/page/17",
@@ -367,7 +367,7 @@
     {
         "path": "/authors/patrick/page/17/index.html",
         "type": "file",
-        "md5": "2701f11e791ccfb7e926b47d289d4b48"
+        "md5": "c2a953e3e0d92866f2704b0bd5d91b4c"
     },
     {
         "path": "authors/patrick/page/2",
@@ -377,7 +377,7 @@
     {
         "path": "/authors/patrick/page/2/index.html",
         "type": "file",
-        "md5": "1d09fc17ede8a6293b1e43fc83f50e18"
+        "md5": "8c26614603f543e922d87ee648c7cd0b"
     },
     {
         "path": "authors/patrick/page/3",
@@ -387,7 +387,7 @@
     {
         "path": "/authors/patrick/page/3/index.html",
         "type": "file",
-        "md5": "b1741890981eefe5942bf8c8c5995687"
+        "md5": "b02e438eb15fd483ccd56ffa68dd91b8"
     },
     {
         "path": "authors/patrick/page/4",
@@ -397,7 +397,7 @@
     {
         "path": "/authors/patrick/page/4/index.html",
         "type": "file",
-        "md5": "a22345d43b755948fbd88ecf3ebc2176"
+        "md5": "2521ea0958bf9ca3df7274f36b681a84"
     },
     {
         "path": "authors/patrick/page/5",
@@ -407,7 +407,7 @@
     {
         "path": "/authors/patrick/page/5/index.html",
         "type": "file",
-        "md5": "79ecffbe45b8a2f0d16d7fbbbc41148c"
+        "md5": "f0d5031cb6425966d4806038e559eb03"
     },
     {
         "path": "authors/patrick/page/6",
@@ -417,7 +417,7 @@
     {
         "path": "/authors/patrick/page/6/index.html",
         "type": "file",
-        "md5": "8967ec84b50c482f486344e4029a5a58"
+        "md5": "6130d8b99edeea84fc157dc62f40c869"
     },
     {
         "path": "authors/patrick/page/7",
@@ -427,7 +427,7 @@
     {
         "path": "/authors/patrick/page/7/index.html",
         "type": "file",
-        "md5": "1ef717a77712c1f907182b32c09f8a0c"
+        "md5": "70f1d62841a0783eecd4d2861ce9d08c"
     },
     {
         "path": "authors/patrick/page/8",
@@ -437,7 +437,7 @@
     {
         "path": "/authors/patrick/page/8/index.html",
         "type": "file",
-        "md5": "ca784454f0dac003afacdb9c0bec5a84"
+        "md5": "b7f326ecb88db5af75a3e646ac2cb0a6"
     },
     {
         "path": "authors/patrick/page/9",
@@ -447,7 +447,7 @@
     {
         "path": "/authors/patrick/page/9/index.html",
         "type": "file",
-        "md5": "5368b2cb9953310b24eaad6262e254ce"
+        "md5": "570c1fd1c26b0808b6cd5617559e9a46"
     },
     {
         "path": "back-on-700c-wheels",
@@ -682,12 +682,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "363bfef6590368e35be39302a7371cdb"
+        "md5": "3770019540b273860385331bbf512777"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6fb9e46473671aa66a80db3075df117e"
+        "md5": "2d9d3c22a00b6fbb2b13f8d148067825"
     },
     {
         "path": "finally-a-new-pc-on-my-desk",
@@ -802,7 +802,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d6bf53283d13e0d2d0063f5c388a734d"
+        "md5": "38a6b9dff1820f456436294ca3e11fdd"
     },
     {
         "path": "january-this-and-that",
@@ -822,7 +822,7 @@
     {
         "path": "/late-afternoon-fat-biking/index.html",
         "type": "file",
-        "md5": "5f727f58eaf3cb571440d56c4d09842f"
+        "md5": "c87838e15fdbbe57c887be354a14c4d3"
     },
     {
         "path": "making-tools-for-a-bearing-swap",
@@ -11290,6 +11290,146 @@
         "md5": "17d200953987f867071c116e9d194404"
     },
     {
+        "path": "media/posts/95",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/95/dji-neo-00.jpg",
+        "type": "file",
+        "md5": "d97ee8baea46fe05c70c4f11ddc239f6"
+    },
+    {
+        "path": "media/posts/95/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-01-thumbnail.webp",
+        "type": "file",
+        "md5": "a857469d9902ddb5a6a0e426ce2a41c0"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-01.jpg",
+        "type": "file",
+        "md5": "cb020a3c690847e4922c219cfbf9e914"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-02-thumbnail.webp",
+        "type": "file",
+        "md5": "fb89d4dfd2b3074a74021bf14e618bd7"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-02.jpg",
+        "type": "file",
+        "md5": "a4ccd857088517d4a2bab738dab3c9ae"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-03-thumbnail.webp",
+        "type": "file",
+        "md5": "f097b2f2926b5c3289da5da8aba5dea9"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-03.jpg",
+        "type": "file",
+        "md5": "7cc3ab4cc06050a2189da81fc959054f"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-04-thumbnail.webp",
+        "type": "file",
+        "md5": "93991e2c3a06ef642c277792215f40e6"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-04.jpg",
+        "type": "file",
+        "md5": "9d386792610b97795420e6c5f677115d"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-05-thumbnail.webp",
+        "type": "file",
+        "md5": "0536c4f92275afa831f658acee98b711"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-05.jpg",
+        "type": "file",
+        "md5": "6eca8062fcc606e2b6db00630e755522"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-06-thumbnail.webp",
+        "type": "file",
+        "md5": "d0020b6585f714f8cd5de43ec9461dcf"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-06.jpg",
+        "type": "file",
+        "md5": "112e7d7d78429d82980113a2d0e9722a"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-07-thumbnail.webp",
+        "type": "file",
+        "md5": "24f7b82b634794f940ecf7c9617584cc"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-07.jpg",
+        "type": "file",
+        "md5": "1896d2b8a4da5b5e7d292a7bc9760908"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-08-thumbnail.webp",
+        "type": "file",
+        "md5": "2b78da3e0088710f44737207a2f4cc3f"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-08.jpg",
+        "type": "file",
+        "md5": "ca7206f1c769925ec2aea296faa53577"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-09-thumbnail.webp",
+        "type": "file",
+        "md5": "6c13264fde2f6dd73692a50cbcdfa001"
+    },
+    {
+        "path": "/media/posts/95/gallery/dji-neo-09.jpg",
+        "type": "file",
+        "md5": "d39f86e846af77facc7f4f01614441b8"
+    },
+    {
+        "path": "media/posts/95/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/95/responsive/dji-neo-00-2xl.webp",
+        "type": "file",
+        "md5": "7b710e2f10470743420c1aa92e32eff5"
+    },
+    {
+        "path": "/media/posts/95/responsive/dji-neo-00-lg.webp",
+        "type": "file",
+        "md5": "73e30dc903ead89ab0457292a542bdfe"
+    },
+    {
+        "path": "/media/posts/95/responsive/dji-neo-00-md.webp",
+        "type": "file",
+        "md5": "963775f8147af371c6227a890d66afbb"
+    },
+    {
+        "path": "/media/posts/95/responsive/dji-neo-00-sm.webp",
+        "type": "file",
+        "md5": "e9fb5490728351f94d44fa3d5845daca"
+    },
+    {
+        "path": "/media/posts/95/responsive/dji-neo-00-xl.webp",
+        "type": "file",
+        "md5": "8bc406d218fd6584748f1674f78cf5c7"
+    },
+    {
+        "path": "/media/posts/95/responsive/dji-neo-00-xs.webp",
+        "type": "file",
+        "md5": "97cdfff8fc736a69914764e8d50ec3b6"
+    },
+    {
         "path": "media/tags",
         "type": "directory",
         "md5": false
@@ -12915,6 +13055,51 @@
         "md5": "6c2e9970cb87fa37fd2d9feb84dc8e69"
     },
     {
+        "path": "media/tags/42",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/42/drone.jpg",
+        "type": "file",
+        "md5": "e1c08c5ba46f4c7f113b9ba6aedb2b93"
+    },
+    {
+        "path": "media/tags/42/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/42/responsive/drone-2xl.webp",
+        "type": "file",
+        "md5": "ed23f41d62e68848b2df8c88e1c8b34e"
+    },
+    {
+        "path": "/media/tags/42/responsive/drone-lg.webp",
+        "type": "file",
+        "md5": "20ce3c88898f8008cb5cbccff39c8fef"
+    },
+    {
+        "path": "/media/tags/42/responsive/drone-md.webp",
+        "type": "file",
+        "md5": "d2175d8c959e677d55f0e11eeff487b5"
+    },
+    {
+        "path": "/media/tags/42/responsive/drone-sm.webp",
+        "type": "file",
+        "md5": "0682a6e8ffcda6369504e87581cf4e49"
+    },
+    {
+        "path": "/media/tags/42/responsive/drone-xl.webp",
+        "type": "file",
+        "md5": "232c47779da7e98e850e4074a89362e1"
+    },
+    {
+        "path": "/media/tags/42/responsive/drone-xs.webp",
+        "type": "file",
+        "md5": "15addcad1ef569f22b93709272b78317"
+    },
+    {
         "path": "media/tags/5",
         "type": "directory",
         "md5": false
@@ -13255,6 +13440,16 @@
         "md5": "a6fbab04e7b10c2a540a793e3d2ef6a8"
     },
     {
+        "path": "my-latest-gadget-the-dji-neo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/my-latest-gadget-the-dji-neo/index.html",
+        "type": "file",
+        "md5": "a97c95a901de783cb5f9e5606b969e36"
+    },
+    {
         "path": "my-minimalist-home-bike-workshop",
         "type": "directory",
         "md5": false
@@ -13407,7 +13602,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "15b0b24fa30e71fbea70c6cf0cde28c1"
+        "md5": "f5f850cf32dc5fd51f994b10ffd0271f"
     },
     {
         "path": "page/11",
@@ -13417,7 +13612,7 @@
     {
         "path": "/page/11/index.html",
         "type": "file",
-        "md5": "a3ba35dac902fd0a512cc51ed3f3e2ec"
+        "md5": "8f9101780012b41eb28fa095207c4388"
     },
     {
         "path": "page/12",
@@ -13427,7 +13622,7 @@
     {
         "path": "/page/12/index.html",
         "type": "file",
-        "md5": "5582209c5ab41aedeecc39a313215527"
+        "md5": "97577bcd90f10ddcc450453ee1b9099b"
     },
     {
         "path": "page/13",
@@ -13437,7 +13632,7 @@
     {
         "path": "/page/13/index.html",
         "type": "file",
-        "md5": "7d42f412458c5b3f0a642caa59470545"
+        "md5": "f9c3c96cf582e6b06e042365a9a6d013"
     },
     {
         "path": "page/14",
@@ -13447,7 +13642,7 @@
     {
         "path": "/page/14/index.html",
         "type": "file",
-        "md5": "0b88f580ef9b1040051d53246cdbc6d6"
+        "md5": "b298b926c897351b7e6944517d4b68c2"
     },
     {
         "path": "page/15",
@@ -13457,7 +13652,7 @@
     {
         "path": "/page/15/index.html",
         "type": "file",
-        "md5": "da0a552e370e6872ef821000c447f71f"
+        "md5": "d2e1753418846a15226900661b8db781"
     },
     {
         "path": "page/16",
@@ -13467,7 +13662,7 @@
     {
         "path": "/page/16/index.html",
         "type": "file",
-        "md5": "84a00d4e051e1b3892388cc16de0a990"
+        "md5": "54217f4b40bfb916b6210dbfbb6dff53"
     },
     {
         "path": "page/2",
@@ -13477,7 +13672,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "8c151abee836db9162a2eea1115c5575"
+        "md5": "056358794be974b0a0159c037e2d8798"
     },
     {
         "path": "page/3",
@@ -13487,7 +13682,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "f3dca79bb0a5bc9fd2aa8440cc6fde80"
+        "md5": "f6011cdba938a5e2d763c2273f067286"
     },
     {
         "path": "page/4",
@@ -13497,7 +13692,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "212ddb51071a01435094120e2da77d33"
+        "md5": "bb00adcbd50572cfa1a184ac8f7afad4"
     },
     {
         "path": "page/5",
@@ -13507,7 +13702,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "b0ca7b708690a8d9c0722d42395f5209"
+        "md5": "4513df919c64ef81a207f0dc93390bcf"
     },
     {
         "path": "page/6",
@@ -13517,7 +13712,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "84927389d308d49a5a623de154aeaede"
+        "md5": "d0ad0b5990d218a73943478e997ad4d6"
     },
     {
         "path": "page/7",
@@ -13527,7 +13722,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "d9d5c1ca18d4e14b687dddd88dd9143c"
+        "md5": "a0f0df7adeccf46a41c632057383e848"
     },
     {
         "path": "page/8",
@@ -13537,7 +13732,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "4bdb62da600718270c9c258f916a300e"
+        "md5": "1c169a0a16e949d3608b5ae903f03450"
     },
     {
         "path": "page/9",
@@ -13547,7 +13742,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "7441e98943fe0a6a39727068bbe69504"
+        "md5": "1e2a95ad5e5228cb8c2c34516171591a"
     },
     {
         "path": "photo-dump-from-1994-and-1995",
@@ -13637,7 +13832,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "25150f703333251ea348e926379049da"
+        "md5": "0969ecbbbd6933ed728e61721d9cc7d0"
     },
     {
         "path": "sitemap.xsl",
@@ -13672,7 +13867,7 @@
     {
         "path": "/spexcel-cycling-apparel/index.html",
         "type": "file",
-        "md5": "e2d431b1f767bf08accf01a85b80e098"
+        "md5": "01c77dfe30ebedbcc3e361c24f24809d"
     },
     {
         "path": "stooge-mk5",
@@ -13977,7 +14172,7 @@
     {
         "path": "/tags/cameras/index.html",
         "type": "file",
-        "md5": "37601b19a65f83a7def895077265fb3e"
+        "md5": "a55ca6a1d1041a2daab91a6f27d91e69"
     },
     {
         "path": "tags/climate-change",
@@ -14120,6 +14315,16 @@
         "md5": "22770c2d333af1982119fc9d89732cc9"
     },
     {
+        "path": "tags/drone",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/drone/index.html",
+        "type": "file",
+        "md5": "55939f77c6fab4306b4e9287821c496c"
+    },
+    {
         "path": "tags/fat-biking",
         "type": "directory",
         "md5": false
@@ -14222,7 +14427,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "06273d364cf7d1fd2017d325d4e056a8"
+        "md5": "5fcf2d41ada6beaf0881a18432e3d365"
     },
     {
         "path": "tags/miscellaneous",
