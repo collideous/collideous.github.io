@@ -682,12 +682,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3770019540b273860385331bbf512777"
+        "md5": "fd7e26e66879601f4bd527dca080df6c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2d9d3c22a00b6fbb2b13f8d148067825"
+        "md5": "ba344ece554704faae744d7afa866f66"
     },
     {
         "path": "finally-a-new-pc-on-my-desk",
@@ -842,7 +842,7 @@
     {
         "path": "/marin-gestalt-x12/index.html",
         "type": "file",
-        "md5": "00f4f4624455fe68736bd6d78b78c165"
+        "md5": "c902b808d5f850a19a63c73b72a0799a"
     },
     {
         "path": "marin-gestalt-x12-on-new-wheels",
@@ -13447,7 +13447,7 @@
     {
         "path": "/my-latest-gadget-the-dji-neo/index.html",
         "type": "file",
-        "md5": "a97c95a901de783cb5f9e5606b969e36"
+        "md5": "536be810febdffc5a897e2c048a5b1d6"
     },
     {
         "path": "my-minimalist-home-bike-workshop",
@@ -13832,7 +13832,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0969ecbbbd6933ed728e61721d9cc7d0"
+        "md5": "f9109861f5c774346860c9c9dc1e9f7b"
     },
     {
         "path": "sitemap.xsl",
@@ -13877,7 +13877,7 @@
     {
         "path": "/stooge-mk5/index.html",
         "type": "file",
-        "md5": "7f2f0abe0b99e7032a2870188b0a2588"
+        "md5": "88097b1320c4a8f1a81124d1f7088d7e"
     },
     {
         "path": "stooge-mk5-geometry",
