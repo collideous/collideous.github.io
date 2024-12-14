@@ -3,12 +3,67 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2024-11-16T19:22:20+01:00</updated>
+    <updated>2024-12-14T14:59:49+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
     <id>https://offtrail.guru</id>
 
+    <entry>
+        <title>The P-Brakes That Came Years Before V-Brakes</title>
+        <author>
+            <name>Patrick</name>
+        </author>
+        <link href="https://offtrail.guru/the-p-brakes-that-came-years-before-v-brakes/"/>
+        <id>https://offtrail.guru/the-p-brakes-that-came-years-before-v-brakes/</id>
+        <media:content url="https://offtrail.guru/media/posts/98/p-brakes-00.jpg" medium="image" />
+            <category term="diy"/>
+            <category term="brakes"/>
+            <category term="bike components"/>
+
+        <updated>2024-12-14T10:33:12+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://offtrail.guru/media/posts/98/p-brakes-00.jpg" alt="Mountain biking in California in 1994." />
+                    <p>The first bike components I designed and manufactured were a set of linear-pull cantilever MTB brakes. I designed them in the last year of my apprenticeship and CNC-machined them during summer break in my first year of college. The apprentice department where I did my apprenticeship let me use their machines. I made four tensioner nuts, washers, spring covers, brass sleeves, and steel bushings on a conventional <a href="https://www.google.com/search?q=schaublin+102+tabletop&amp;udm=2" target="_blank" rel="noopener noreferrer">Schäublin 102</a> tabletop lathe. The lever arms and a fixture to make them were machined on a CNC vertical mill - a <a href="https://www.google.com/search?q=mikron+wf31c&amp;udm=2" target="_blank" rel="noopener noreferrer">Mikron WF31C</a> with a Heidenhain TNC155 control. I worked on those and the larger <a href="https://www.google.com/search?q=mikron+wf51c&amp;udm=2" target="_blank" rel="noopener noreferrer">WF51C</a> during my apprenticeship. I loved working on those and was good at programming them.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://offtrail.guru/media/posts/98/p-brakes-00.jpg" class="type:primaryImage" alt="Mountain biking in California in 1994." /></p>
+                <p>The first bike components I designed and manufactured were a set of linear-pull cantilever MTB brakes. I designed them in the last year of my apprenticeship and CNC-machined them during summer break in my first year of college. The apprentice department where I did my apprenticeship let me use their machines. I made four tensioner nuts, washers, spring covers, brass sleeves, and steel bushings on a conventional <a href="https://www.google.com/search?q=schaublin+102+tabletop&amp;udm=2" target="_blank" rel="noopener noreferrer">Schäublin 102</a> tabletop lathe. The lever arms and a fixture to make them were machined on a CNC vertical mill - a <a href="https://www.google.com/search?q=mikron+wf31c&amp;udm=2" target="_blank" rel="noopener noreferrer">Mikron WF31C</a> with a Heidenhain TNC155 control. I worked on those and the larger <a href="https://www.google.com/search?q=mikron+wf51c&amp;udm=2" target="_blank" rel="noopener noreferrer">WF51C</a> during my apprenticeship. I loved working on those and was good at programming them.</p>
+
+<p><strong>Mechanical Explanation of the P-Brakes</strong></p>
+<p>The internal tension spring design was similar to Dia Compe's <a href="https://bikerecyclery.com/nos-dia-compe-986-cantilever-brake-silver-single/" target="_blank" rel="noopener noreferrer">986 cantilever brakes</a>. Each arm had an adjustable internal tension spring. One end of the spring fit into a hole in the arm, the other end into an aluminum hex nut used to adjust the spring tension. An aluminum sleeve covered the spring assembly, leaving just the hex bottom visible. A brass sleeve was pressed into the brake arm and the spring cover. 180º opposite from the hole for the spring was a second through-hole. It housed a spring dowel pin that held everything together. This 3-piece assembly revolved around a steel bushing. This bushing had a second function. When tightening the M6 button head mounting bolt, the steel bushing clamped the hex nut to maintain the spring tension. I made a large aluminum washer placed in front of the arm. This was purely aesthetic.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/98/gallery/p-brakes-01.jpg" data-size="2366x1330"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/98/gallery/p-brakes-01-thumbnail.webp" alt="DIY linear-pull cantilever brakes." width="720" height="405"></a>
+<figcaption>P-Brakes</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/98/gallery/p-brakes-02.jpg" data-size="2366x1330"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/98/gallery/p-brakes-02-thumbnail.webp" alt="DIY linear-pull cantilever brakes." width="720" height="405"></a>
+<figcaption>P-Brakes</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/98/gallery/p-brakes-03.jpg" data-size="2366x1330"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/98/gallery/p-brakes-03-thumbnail.webp" alt="DIY linear-pull cantilever brakes." width="720" height="405"></a>
+<figcaption>P-Brakes</figcaption>
+</figure>
+</div></div>
+<p>The pad-holding assembly came from <a href="https://bikerecyclery.com/nos-shimano-xt-br-m732-cantilever-brakeset-silver-wide-profile/" target="_blank" rel="noopener noreferrer">Shimano cantilever brakes</a> from that time. It wasn't the easiest to adjust. It was an assembly that was readily available and easy to incorporate. It included an eyebolt-type pad holder, a wedge-shaped washer, and behind the arm, a convex and concave washer, a thin washer, and a steel hex nut. The wedge-shaped washer was used to set the pad "toe-in.”</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/98/gallery/p-brakes-10.jpg" data-size="2376x2376"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/98/gallery/p-brakes-10-thumbnail.webp" alt="The components making up my P-Brakes." width="720" height="720"></a>
+<figcaption>P-Brakes</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/98/gallery/p-brakes-11.jpg" data-size="3572x2009"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/98/gallery/p-brakes-11-thumbnail.webp" alt="The components making up my P-Brakes." width="720" height="405"></a>
+<figcaption>P-Brakes</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/98/gallery/p-brakes-12.jpg" data-size="3147x2248"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/98/gallery/p-brakes-12-thumbnail.webp" alt="The components making up my P-Brakes." width="720" height="514"></a>
+<figcaption>P-Brakes</figcaption>
+</figure>
+</div></div>
+<p>V-Brakes by Shimano or Avid had a cable bridge at the top of the right arm that held the noodle and a left arm with a cable clamp. The arms of my P-Brakes were identical. The cable bridge and macaroni-sized cable guide I designed was a welded unit. You had to bend the tip of a brake cable to push it through the macaroni. Since no cable clamp was incorporated into any arm, I used an adjustable cable barrel clamp. This design allowed me to place the macaroni on either side, which gave me more freedom in routing my brake cables. A Teflon liner inside the macaroni reduced friction.</p>
+<p>I made a <a href="https://offtrail.guru/a-look-back-at-some-home-brew-hubs/">set of hubs</a> later on. As a cyclist with an engineering background, ideas for bike components have popped up over the years. But early into my career, I moved away from manufacturing. Making stuff isn’t impossible without personal connections to people in manufacturing or being in a company with manufacturing capabilities. A machine shop will make anything you want if you hand them a big pile of cash. But, whenever I asked myself if it was worth spending a small fortune to bring a silly idea to life or build a bike with components already on the market, I chose the latter. My disposable income has always allowed me to own very nice bikes, but made-to-my-spec parts were out of reach.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Mavic Cycling Shoes</title>
         <author>
@@ -821,70 +876,6 @@ Mobile App Control</a> is the better choice for more control and peace of mind w
 </figure>
 </div></div>
 <p>Although it may not be the conventional choice for a road bike, my Marin Gestalt X12 is the best one I have built. If I could have any bike, it would be a titanium replica of it. It would not offer any performance improvement compared to the aluminum version. It would only cost a lot more and be cool. And sometimes, it's all right to slaughter one's piggy bank to realize cool things. These past couple of years, I have found a new challenge, though. It is to build awesome bikes on a reasonable budget. It is easy to put together a jaw-droppingly cool bike on a large budget. It takes more time to plan, search, and compare to do the same on a limited budget. With the cost of living on the rise and my retirement approaching, I will likely opt for bikes that simply do the job. Dream bikes will be the things to drool over on Instagram.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fat-Biking To Start 2024</title>
-        <author>
-            <name>Patrick</name>
-        </author>
-        <link href="https://offtrail.guru/fat-biking-to-start-2024/"/>
-        <id>https://offtrail.guru/fat-biking-to-start-2024/</id>
-        <media:content url="https://offtrail.guru/media/posts/87/fat-biking-2024-00.jpg" medium="image" />
-            <category term="offtrail riding"/>
-            <category term="fat biking"/>
-            <category term="cycling"/>
-
-        <updated>2024-01-23T18:05:04+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://offtrail.guru/media/posts/87/fat-biking-2024-00.jpg" alt="The Chasseral antenna on January 21, 2024." />
-                    <p class="dropcap">On the weekend of January 13th and 14th, snow covered the trails almost to my house. I did a <a href="https://www.strava.com/activities/10548483878" target="_blank" rel="noopener noreferrer">3-hour ride</a> across the Bözingenberg on Saturday, the 13th, and a <a href="https://www.strava.com/activities/10556521608" target="_blank" rel="noopener noreferrer">4-hour loop</a> across Plagne and the Stierenberg on Sunday, the 14th. Warm weather and rain during the week pushed the snowline up several hundred meters. Luckily, the mercury dropped below zero on Friday and remained there for the weekend.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://offtrail.guru/media/posts/87/fat-biking-2024-00.jpg" class="type:primaryImage" alt="The Chasseral antenna on January 21, 2024." /></p>
-                <p class="dropcap">On the weekend of January 13th and 14th, snow covered the trails almost to my house. I did a <a href="https://www.strava.com/activities/10548483878" target="_blank" rel="noopener noreferrer">3-hour ride</a> across the Bözingenberg on Saturday, the 13th, and a <a href="https://www.strava.com/activities/10556521608" target="_blank" rel="noopener noreferrer">4-hour loop</a> across Plagne and the Stierenberg on Sunday, the 14th. Warm weather and rain during the week pushed the snowline up several hundred meters. Luckily, the mercury dropped below zero on Friday and remained there for the weekend.</p>
-
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-01.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-01-thumbnail.webp" alt="I love icy patches." width="720" height="405"></a>
-<figcaption>Icy patches.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-02.jpg" data-size="3983x2240"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-02-thumbnail.webp" alt="Love the sun so low." width="720" height="405"></a>
-<figcaption>Low sun.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-03.jpg" data-size="3932x2211"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-03-thumbnail.webp" alt="Chasseral here I come." width="720" height="405"></a>
-<figcaption>On the way.</figcaption>
-</figure>
-</div></div>
-<p>On the 20th, I had to catsit all day and worked on my <a href="https://offtrail.guru/nordest-albarda/">Nordest Albarda</a>. The bike received the <a href="https://offtrail.guru/marin-gestalt-x12-on-new-wheels/">new 700C wheels</a> and seatpost from my Marin. I also exchanged the Zipp Service Course SL stem. An older gloss-black one made room for a new one in matte-black. I also installed new rotors - the <a href="https://bucklos.co/" target="_blank" rel="noopener noreferrer">Bucklos</a> Centerlock rotors I mentioned in my <a href="https://offtrail.guru/centerlock-rotor-comparison/">previous post</a>. I am stoked about the result. The bike went through several <a href="https://offtrail.guru/nordest-albarda-2021-update/">iterations</a> since 2019, and this is the best one yet. On Sunday, I had to do something about my cabin fever. I drove to Prés d’Orvin before sunrise to fat-bike the snow-covered mountains. It was an <a href="https://www.strava.com/activities/10600090821" target="_blank" rel="noopener noreferrer">epic morning</a>. I did not see another human being for several hours. I had that icy winter wonderland all to myself. A bluish sky to the north and a cloudy one to the south created some unreal colors.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-04.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-04-thumbnail.webp" alt="Windy and icy as heck." width="720" height="405"></a>
-<figcaption>Wind and ice.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-05.jpg" data-size="4096x1917"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-05-thumbnail.webp" alt="Love that sun." width="720" height="337"></a>
-<figcaption>That sun.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-06.jpg" data-size="4004x2251"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-06-thumbnail.webp" alt="I'm almost there." width="720" height="405"></a>
-<figcaption>Almost there.</figcaption>
-</figure>
-</div></div>
-<p>Utilizing my expertise in reading snow, intimate knowledge of the terrain, and keen awareness of how the wind shapes, moves, and hardens the large snow surfaces to the north of the peak, I navigated my way to the Chasseral. This is the ultimate essence of fat-biking for me. It is not sufficient to just be a skilled mountain biker who studies GPS tracks, elevation profiles, and maps to fully enjoy fat-biking in a country that has never fully embraced the sport. Understanding how the winter alters the local environment is crucial. This element of the sport is something you don’t need on the road, on gravel, or dirt. However, it is a huge part of what makes fat-biking so addictive.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-07.jpg" data-size="3945x2218"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-07-thumbnail.webp" alt="That's why I fat-bike." width="720" height="405"></a>
-<figcaption>Fat-biking.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-08.jpg" data-size="4096x2304"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-08-thumbnail.webp" alt="The Crest Trail is best ridden in the winter." width="720" height="405"></a>
-<figcaption>Crest Trail.</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-09.jpg" data-size="3726x2096"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/87/gallery/fat-biking-2024-09-thumbnail.webp" alt="Just me and the Chasseral antenna." width="720" height="405"></a>
-<figcaption>Antenna.</figcaption>
-</figure>
-</div></div>
-<p>I have stopped doing <a href="https://offtrail.guru/year-2020-in-review/">end-of-year</a> reviews. There just aren’t any epic adventures to look back to since I cannot venture beyond my local area to explore new trails or roads. While I used to go on 56-57 fat-bike rides <a href="https://offtrail.guru/cycling-statistics/ride-type-statistics/">annually</a> from 2017 to 2019, I have only done three snow rides in 2023. The difference? I used to be able to load my <a href="https://offtrail.guru/tags/fat-biking/">fat bike</a> into the car and drive 10-30 minutes to trailheads at higher elevations. In terms of the total number of rides I took in 2023, I only managed 100, which is a far cry from my peak between <a href="https://offtrail.guru/cycling-statistics/annual-stats-by-month/">2016 and 2018</a>, when I averaged 165 rides per year. Out of those 100 rides, 72 were on pavement, sometimes with a bit of gravel mixed in. My annual ride distance and time have reached an all-time low, with only 3,147 kilometers and 193 hours, compared to my peak in 2018 when I rode 8,752 kilometers and spent a staggering 586 hours in the saddle. My goal for the years ahead is to gradually get back to that level, maybe as early as 2026.</p>
             ]]>
         </content>
     </entry>
