@@ -8,7 +8,6 @@
 
       var table = {
         types : ['road', 'mountain', 'gravel', 'fat'],
-        y2013 : [ 23, 47, 14, 24],
         y2014 : [ 81, 27, 13, 28],
         y2015 : [ 56, 31, 20, 39],
         y2016 : [ 55, 12, 49, 48],
@@ -18,10 +17,11 @@
         y2020 : [ 96, 11,  0, 28],
         y2021 : [111,  1,  0, 16],
         y2022 : [ 65, 31,  0,  8],
-        y2023 : [ 33, 25, 39,  3]
+        y2023 : [ 33, 25, 39,  3],
+        y2024 : [ 88,  6,  0, 13]
       };
 
-      var totals = {y2013: 0, y2014: 0, y2015: 0, y2016: 0, y2017: 0, y2018: 0, y2019: 0, y2020: 0, y2021: 0, y2022: 0, y2023: 0};
+      var totals = {y2014: 0, y2015: 0, y2016: 0, y2017: 0, y2018: 0, y2019: 0, y2020: 0, y2021: 0, y2022: 0, y2023: 0, y2024: 0};
 
       $.each(table, function(name, series) {
         if (name != "types") {
@@ -65,82 +65,82 @@
           },
           series: [
             {
-              name: '2013: ' + totals.y2013 + ' rides',
-              type: 'column',
-              color: '#000000',
-              index: 1,
-              yAxis: 0,
-              data: table.y2013
-            }, {
               name: '2014: ' + totals.y2014 + ' rides',
               type: 'column',
-              color: '#141414',
+              color: '#000000',
               index: 1,
               yAxis: 0,
               data: table.y2014
             }, {
               name: '2015: ' + totals.y2015 + ' rides',
               type: 'column',
-              color: '#292929',
+              color: '#141414',
               index: 1,
               yAxis: 0,
               data: table.y2015
             }, {
               name: '2016: ' + totals.y2016 + ' rides',
               type: 'column',
-              color: '#3d3d3d',
+              color: '#292929',
               index: 1,
               yAxis: 0,
               data: table.y2016
             }, {
               name: '2017: ' + totals.y2017 + ' rides',
               type: 'column',
-              color: '#525252',
+              color: '#3d3d3d',
               index: 1,
               yAxis: 0,
               data: table.y2017
             }, {
               name: '2018: ' + totals.y2018 + ' rides',
               type: 'column',
-              color: '#666666',
+              color: '#525252',
               index: 1,
               yAxis: 0,
               data: table.y2018
             }, {
               name: '2019: ' + totals.y2019 + ' rides',
               type: 'column',
-              color: '#7a7a7a',
+              color: '#666666',
               index: 1,
               yAxis: 0,
               data: table.y2019
             }, {
               name: '2020: ' + totals.y2020 + ' rides',
               type: 'column',
-              color: '#8f8f8f',
+              color: '#7a7a7a',
               index: 1,
               yAxis: 0,
               data: table.y2020
             }, {
               name: '2021: ' + totals.y2021 + ' rides',
               type: 'column',
-              color: '#a3a3a3',
+              color: '#8f8f8f',
               index: 1,
               yAxis: 0,
               data: table.y2021
             }, {
               name: '2022: ' + totals.y2022 + ' rides',
               type: 'column',
-              color: '#b3b3b3',
+              color: '#a3a3a3',
               index: 1,
               yAxis: 0,
               data: table.y2022
             }, {
               name: '2023: ' + totals.y2023 + ' rides',
               type: 'column',
-              color: '#c7c7c7',
+              color: '#b3b3b3',
               index: 1,
               yAxis: 0,
               data: table.y2023
+            }, {
+              name: '2024: ' + totals.y2024 + ' rides',
+              type: 'column',
+              color: '#c7c7c7',
+              index: 1,
+              yAxis: 0,
+              data: table.y2024
             }
           ]
         });

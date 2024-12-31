@@ -562,7 +562,7 @@
     {
         "path": "/cycling-statistics/pie-charts-by-bike/index.html",
         "type": "file",
-        "md5": "df7ff7e63147247f0c324bd0f3746c13"
+        "md5": "7bd7f384ca893a1444bf99967911b065"
     },
     {
         "path": "cycling-statistics/ride-type-pie-charts",
@@ -572,7 +572,7 @@
     {
         "path": "/cycling-statistics/ride-type-pie-charts/index.html",
         "type": "file",
-        "md5": "dd0872959bc28663d343544f790c1697"
+        "md5": "72c1a00ae2534742f05cbd410fb75e41"
     },
     {
         "path": "cycling-statistics/ride-type-statistics",
@@ -1322,7 +1322,7 @@
     {
         "path": "/media/files/stats/2023.2024.stats.html",
         "type": "file",
-        "md5": "82b1779cec02a2975b5cce40dbcd42b9"
+        "md5": "df3b2862c1732f2f256fb9d10fa983a3"
     },
     {
         "path": "/media/files/stats/2023.bike.pie.html",
@@ -1347,22 +1347,22 @@
     {
         "path": "/media/files/stats/2024.bike.pie.html",
         "type": "file",
-        "md5": "60e7895dcbc5cd9bad9141a817c1dac2"
+        "md5": "321b53f51dd4787cefec02e119504e64"
     },
     {
         "path": "/media/files/stats/2024.bike.stats.html",
         "type": "file",
-        "md5": "1db9231ab84751f921d1d9859cb12b98"
+        "md5": "c55a01a996981002666291088dd2a915"
     },
     {
         "path": "/media/files/stats/2024.ride.stats.html",
         "type": "file",
-        "md5": "b00e04c94abab76fa198dea9bad7740b"
+        "md5": "35b175216c5101482ac49d9a22a61555"
     },
     {
         "path": "/media/files/stats/2024.type.stats.html",
         "type": "file",
-        "md5": "d602d05678e1b10f90f11147655e6271"
+        "md5": "3400d9858ba118f1fb0a912e47e4fca0"
     },
     {
         "path": "/media/files/stats/index.html",
@@ -1372,22 +1372,22 @@
     {
         "path": "/media/files/stats/one.bike.html",
         "type": "file",
-        "md5": "283004f8146619293b7fcf2bb8304480"
+        "md5": "a9f657149a21292d9b5e47825d268ca8"
     },
     {
         "path": "/media/files/stats/one.stats.html",
         "type": "file",
-        "md5": "13ac44ffec73efd5736ee5dbcc2de4a4"
+        "md5": "f76d7b3701c806971f345506ef4865c2"
     },
     {
         "path": "/media/files/stats/two.stats.html",
         "type": "file",
-        "md5": "e712a99170950d51175b343ec24ca443"
+        "md5": "55464b0a6113d7bc720ef6777d3eb9ab"
     },
     {
         "path": "/media/files/stats/typ.stats.html",
         "type": "file",
-        "md5": "3a0af9e66741304e9b82a0a19738bf59"
+        "md5": "90a9b291ee7b59da9f87fdeae863828d"
     },
     {
         "path": "media/plugins",
