@@ -102,7 +102,7 @@
     {
         "path": "/a-pair-of-tires-with-bite/index.html",
         "type": "file",
-        "md5": "8cc0d105e77a1a001f23eb09443f2f30"
+        "md5": "830436948adb6f4296b667522e647c1b"
     },
     {
         "path": "a-weekday-fat-bike-ride",
@@ -267,7 +267,7 @@
     {
         "path": "/authors/patrick/index.html",
         "type": "file",
-        "md5": "71d009ec7c022ada51789ca06081dd14"
+        "md5": "3c00e21fc6d13dcdd01f99eed4f6369e"
     },
     {
         "path": "authors/patrick/page",
@@ -282,7 +282,7 @@
     {
         "path": "/authors/patrick/page/10/index.html",
         "type": "file",
-        "md5": "f731b7ea7ee3ecf944c2cfe5b6cf66b0"
+        "md5": "932968ed6c264a594d77df28c7634b12"
     },
     {
         "path": "authors/patrick/page/11",
@@ -292,7 +292,7 @@
     {
         "path": "/authors/patrick/page/11/index.html",
         "type": "file",
-        "md5": "77bf54801d1e34c319148442ab77374d"
+        "md5": "94706ec13cfc5d5797025a9748bf46ce"
     },
     {
         "path": "authors/patrick/page/12",
@@ -302,7 +302,7 @@
     {
         "path": "/authors/patrick/page/12/index.html",
         "type": "file",
-        "md5": "2415ea8be057d7c3bf655395d8a10371"
+        "md5": "bdaa4a3be5e02731af519000ca76161b"
     },
     {
         "path": "authors/patrick/page/13",
@@ -312,7 +312,7 @@
     {
         "path": "/authors/patrick/page/13/index.html",
         "type": "file",
-        "md5": "16efcf820c76e02bd4273a49d8b6908a"
+        "md5": "b54674f0c23a7cdd723595cd87bac8bd"
     },
     {
         "path": "authors/patrick/page/14",
@@ -322,7 +322,7 @@
     {
         "path": "/authors/patrick/page/14/index.html",
         "type": "file",
-        "md5": "79c75526f29241f65d684746014cf0de"
+        "md5": "576975e31d180159ff62c879006d681e"
     },
     {
         "path": "authors/patrick/page/15",
@@ -332,7 +332,7 @@
     {
         "path": "/authors/patrick/page/15/index.html",
         "type": "file",
-        "md5": "a687b010a30218b74d9bfd30102ee7b2"
+        "md5": "d295a269bd82d3cb67ccb9a3614758dd"
     },
     {
         "path": "authors/patrick/page/16",
@@ -342,7 +342,7 @@
     {
         "path": "/authors/patrick/page/16/index.html",
         "type": "file",
-        "md5": "6fea209a3d98e7cdc311000fecad6e9b"
+        "md5": "f3985925b60c5af0f4a344bc342273af"
     },
     {
         "path": "authors/patrick/page/17",
@@ -352,7 +352,7 @@
     {
         "path": "/authors/patrick/page/17/index.html",
         "type": "file",
-        "md5": "8ad29afb11ee53966e8606f727bb6122"
+        "md5": "499cfc3236233113b8e4162fdc3f774c"
     },
     {
         "path": "authors/patrick/page/18",
@@ -362,7 +362,7 @@
     {
         "path": "/authors/patrick/page/18/index.html",
         "type": "file",
-        "md5": "bd85783ac1568562f913132fa006535f"
+        "md5": "3c325cae762cff61a58dcf9fc634bc83"
     },
     {
         "path": "authors/patrick/page/19",
@@ -372,7 +372,7 @@
     {
         "path": "/authors/patrick/page/19/index.html",
         "type": "file",
-        "md5": "5ffb35af3e73cd13e0b7d8869b97e5e5"
+        "md5": "ae79f2e3cbf0de267e3d9a3e7232f600"
     },
     {
         "path": "authors/patrick/page/2",
@@ -382,7 +382,17 @@
     {
         "path": "/authors/patrick/page/2/index.html",
         "type": "file",
-        "md5": "e5362eed1f5c9a0311ccb30e0b0b4db9"
+        "md5": "a28a0a12b09e4a66e5a9270bc4f3b32b"
+    },
+    {
+        "path": "authors/patrick/page/20",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/patrick/page/20/index.html",
+        "type": "file",
+        "md5": "fa1f8594dc4a0648bfd7be72b2538c20"
     },
     {
         "path": "authors/patrick/page/3",
@@ -392,7 +402,7 @@
     {
         "path": "/authors/patrick/page/3/index.html",
         "type": "file",
-        "md5": "631203a388fde2e342838879d65946ac"
+        "md5": "754c3b6bc004e1a87d91976a042ebd51"
     },
     {
         "path": "authors/patrick/page/4",
@@ -402,7 +412,7 @@
     {
         "path": "/authors/patrick/page/4/index.html",
         "type": "file",
-        "md5": "875303448dfeef949f0462a481a4069d"
+        "md5": "2d3e28500a1bcb118d7f3cd03f9df44d"
     },
     {
         "path": "authors/patrick/page/5",
@@ -412,7 +422,7 @@
     {
         "path": "/authors/patrick/page/5/index.html",
         "type": "file",
-        "md5": "b4aa8d17ecb1db35de4faaa95e5604c3"
+        "md5": "4275816e45e5d6ca9c0459758a71c503"
     },
     {
         "path": "authors/patrick/page/6",
@@ -422,7 +432,7 @@
     {
         "path": "/authors/patrick/page/6/index.html",
         "type": "file",
-        "md5": "0c5e48f09c4acc8cdabdb666d01a060c"
+        "md5": "ea44f74a46d7ccd67b37d46bf94d1809"
     },
     {
         "path": "authors/patrick/page/7",
@@ -432,7 +442,7 @@
     {
         "path": "/authors/patrick/page/7/index.html",
         "type": "file",
-        "md5": "acc39a0242890920bd2e955473a7df89"
+        "md5": "a311c5f08238262d74d8586414515207"
     },
     {
         "path": "authors/patrick/page/8",
@@ -442,7 +452,7 @@
     {
         "path": "/authors/patrick/page/8/index.html",
         "type": "file",
-        "md5": "42ce79a1f57079142fcf8dd39c896c7a"
+        "md5": "1ce13423fcb44cd4a02bb284fded60f3"
     },
     {
         "path": "authors/patrick/page/9",
@@ -452,7 +462,7 @@
     {
         "path": "/authors/patrick/page/9/index.html",
         "type": "file",
-        "md5": "900550f47310be0d6bfa65c9a4b19e01"
+        "md5": "19a2b1580f4ac58b628053b3f8b91908"
     },
     {
         "path": "back-on-700c-wheels",
@@ -697,12 +707,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "3fad62ffa35fe801da2c8556409a0da4"
+        "md5": "32a1f05396bef67ae747df1e9badba57"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "9bffb125ef171ec23e20398adfbc7f8c"
+        "md5": "15cd6220e6542d4ae95881fcc023caae"
     },
     {
         "path": "finally-a-new-pc-on-my-desk",
@@ -817,7 +827,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d5448d8c7e36a624794000f36825fe24"
+        "md5": "ef6bfe668065b52d5091eacdcff71564"
     },
     {
         "path": "january-this-and-that",
@@ -2438,6 +2448,51 @@
         "path": "/media/posts/104/volagi-viaje-2025-00.jpg",
         "type": "file",
         "md5": "3a310f321cc1391866a6e9ea4bb81268"
+    },
+    {
+        "path": "media/posts/105",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/105/dji-neo-scenery.jpg",
+        "type": "file",
+        "md5": "e1e0cd4e4033fef20d83aea093dc03a0"
+    },
+    {
+        "path": "media/posts/105/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/105/responsive/dji-neo-scenery-2xl.webp",
+        "type": "file",
+        "md5": "2730fd56d3a012b634032a9217dd9efc"
+    },
+    {
+        "path": "/media/posts/105/responsive/dji-neo-scenery-lg.webp",
+        "type": "file",
+        "md5": "47be34b00fd3a5da03654099ce1dde99"
+    },
+    {
+        "path": "/media/posts/105/responsive/dji-neo-scenery-md.webp",
+        "type": "file",
+        "md5": "015b137657419721edbf192a78e6ddb6"
+    },
+    {
+        "path": "/media/posts/105/responsive/dji-neo-scenery-sm.webp",
+        "type": "file",
+        "md5": "bb91ad8e3652c98f5c1b3b8ffba1a728"
+    },
+    {
+        "path": "/media/posts/105/responsive/dji-neo-scenery-xl.webp",
+        "type": "file",
+        "md5": "6b9b52c9ee72ee559cce6581251af9b8"
+    },
+    {
+        "path": "/media/posts/105/responsive/dji-neo-scenery-xs.webp",
+        "type": "file",
+        "md5": "218b14286930bcd36f237d861a325815"
     },
     {
         "path": "media/posts/11",
@@ -15110,6 +15165,51 @@
         "md5": "60fa7f8ec74471514fbe73ed0221719f"
     },
     {
+        "path": "media/tags/46",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/tags/46/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/tags/46/responsive/videos-2xl.webp",
+        "type": "file",
+        "md5": "39827e0d23d4fee064af388e1538f893"
+    },
+    {
+        "path": "/media/tags/46/responsive/videos-lg.webp",
+        "type": "file",
+        "md5": "80e238dc900af3bf5b6fe50ee846fbc0"
+    },
+    {
+        "path": "/media/tags/46/responsive/videos-md.webp",
+        "type": "file",
+        "md5": "a1e53ccd872325eeb115a0fbafc922a4"
+    },
+    {
+        "path": "/media/tags/46/responsive/videos-sm.webp",
+        "type": "file",
+        "md5": "b9e8a2a539d0c84fcc8fea137a76e2ed"
+    },
+    {
+        "path": "/media/tags/46/responsive/videos-xl.webp",
+        "type": "file",
+        "md5": "e3dad3d2e94bfe21cd70906defdc7f21"
+    },
+    {
+        "path": "/media/tags/46/responsive/videos-xs.webp",
+        "type": "file",
+        "md5": "b9c9fc6112807c74711bfdebb3a8c601"
+    },
+    {
+        "path": "/media/tags/46/videos.jpg",
+        "type": "file",
+        "md5": "0d4db35626da0003751a9aabaf272ac0"
+    },
+    {
         "path": "media/tags/5",
         "type": "directory",
         "md5": false
@@ -15612,7 +15712,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "48eb9c8fbbe4b49b42b27e2e717ecaa6"
+        "md5": "31a9bd43bb1378a1bc7770adf31c07d0"
     },
     {
         "path": "page/11",
@@ -15622,7 +15722,7 @@
     {
         "path": "/page/11/index.html",
         "type": "file",
-        "md5": "e4e5869044c84d7677d7de565c5843e3"
+        "md5": "394a5a562e78cacd7ffee0fc3476f771"
     },
     {
         "path": "page/12",
@@ -15632,7 +15732,7 @@
     {
         "path": "/page/12/index.html",
         "type": "file",
-        "md5": "7b89e7dbf1a129cb0b3d9f683f7134ba"
+        "md5": "5880dd2c404d935ca463b78ab3528182"
     },
     {
         "path": "page/13",
@@ -15642,7 +15742,7 @@
     {
         "path": "/page/13/index.html",
         "type": "file",
-        "md5": "509ac75cb83183dfbdd66625614b35d0"
+        "md5": "a4505f134d513d43e97ff2b54991d30d"
     },
     {
         "path": "page/14",
@@ -15652,7 +15752,7 @@
     {
         "path": "/page/14/index.html",
         "type": "file",
-        "md5": "c077e12505039b0cdf1197a0ae1fb287"
+        "md5": "c91c674d978eee7bc56ccbffc9cebefc"
     },
     {
         "path": "page/15",
@@ -15662,7 +15762,7 @@
     {
         "path": "/page/15/index.html",
         "type": "file",
-        "md5": "5b94f6b57211955b291420b9e3fc817a"
+        "md5": "3f0c826ab87dad18c5c1d75cb40f2a6e"
     },
     {
         "path": "page/16",
@@ -15672,7 +15772,7 @@
     {
         "path": "/page/16/index.html",
         "type": "file",
-        "md5": "8a159eba2653ff9f5bb48027e1d81d3a"
+        "md5": "fa6a2e34f416533b39895e650e0e855e"
     },
     {
         "path": "page/17",
@@ -15682,7 +15782,7 @@
     {
         "path": "/page/17/index.html",
         "type": "file",
-        "md5": "da8e6de57d830470966f425d12e4ae51"
+        "md5": "088767fe01b3648606ba0f9cf21959d7"
     },
     {
         "path": "page/18",
@@ -15692,7 +15792,7 @@
     {
         "path": "/page/18/index.html",
         "type": "file",
-        "md5": "9c8adfb16f0e63a47bd003109a292bb9"
+        "md5": "8728d478cf458f6f4467e1e612f0787e"
     },
     {
         "path": "page/2",
@@ -15702,7 +15802,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "d1a65cc1b33bea03a4d6e6bdde404c04"
+        "md5": "0b6a0da58214731c9bdcad2ce7738caa"
     },
     {
         "path": "page/3",
@@ -15712,7 +15812,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "9799fee0f763d1897a51010fd6b3e489"
+        "md5": "4b5765d603dc7337edc156d58de99d50"
     },
     {
         "path": "page/4",
@@ -15722,7 +15822,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "9cd1053649ecdc343b315cec629b410a"
+        "md5": "280dbad1507d6d0e3a608854de4f02d1"
     },
     {
         "path": "page/5",
@@ -15732,7 +15832,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "6fd55b4daab06338fdeb39d75ebe3279"
+        "md5": "c878eae8ce1d6892f5312ed6e4f1dce2"
     },
     {
         "path": "page/6",
@@ -15742,7 +15842,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "fb0ca242342ce2bed9b99f07e658dff3"
+        "md5": "46b31e0dff48d7843b0d59009cebd009"
     },
     {
         "path": "page/7",
@@ -15752,7 +15852,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "e0cd596bd01c3016b6a93ae98c0d0ace"
+        "md5": "98bf9707dcab693c3d7e598ae4cd2b6d"
     },
     {
         "path": "page/8",
@@ -15762,7 +15862,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "42e0cb0f24c8e061da2c058e53e94b38"
+        "md5": "39a1fba5cf74952f696c94cd5f08a414"
     },
     {
         "path": "page/9",
@@ -15772,7 +15872,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "bca8854cce228518f9338507a858b40b"
+        "md5": "2453aae42e82141a3648e46d6b75c317"
     },
     {
         "path": "photo-dump-from-1994-and-1995",
@@ -15862,7 +15962,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e57ce70ca69bb9e4ce2e649270097739"
+        "md5": "d31bb83c446ae096b82b120401f1eaaa"
     },
     {
         "path": "sitemap.xsl",
@@ -16217,7 +16317,22 @@
     {
         "path": "/tags/cameras/index.html",
         "type": "file",
-        "md5": "1d667e8b5f511558a98c0f8a36c5f274"
+        "md5": "e1601ef263e80459864815ff83a64b9f"
+    },
+    {
+        "path": "tags/cameras/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/cameras/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/cameras/page/2/index.html",
+        "type": "file",
+        "md5": "d1d60fa4eadaaf2fc43bbdf7aede7f2f"
     },
     {
         "path": "tags/cassettes",
@@ -16267,7 +16382,7 @@
     {
         "path": "/tags/cycling/index.html",
         "type": "file",
-        "md5": "4fd0d001758ebc70fdaf9851040c2f4e"
+        "md5": "cff153181a49b09f821a6cd7bfc0faed"
     },
     {
         "path": "tags/cycling/page",
@@ -16282,7 +16397,7 @@
     {
         "path": "/tags/cycling/page/2/index.html",
         "type": "file",
-        "md5": "7f64ea1cc2e5a6e6ccd6b553cc7b8767"
+        "md5": "6f3d9751ce132d967a7a4472be5c05c5"
     },
     {
         "path": "tags/cycling/page/3",
@@ -16292,7 +16407,7 @@
     {
         "path": "/tags/cycling/page/3/index.html",
         "type": "file",
-        "md5": "f8b98980cf6c5539153dbcffe67369d3"
+        "md5": "3d9fa762c15da8577f17c0bf47cb6527"
     },
     {
         "path": "tags/cycling/page/4",
@@ -16302,7 +16417,7 @@
     {
         "path": "/tags/cycling/page/4/index.html",
         "type": "file",
-        "md5": "bde75aa3bb30f84d6c4c1a628c1f3d0c"
+        "md5": "1bd4a6e56587c4d990d7d6e2172ddde6"
     },
     {
         "path": "tags/cycling/page/5",
@@ -16312,7 +16427,7 @@
     {
         "path": "/tags/cycling/page/5/index.html",
         "type": "file",
-        "md5": "b116e22511e72d7197f78fb93085eb40"
+        "md5": "424429043059139e41e76025cca14e81"
     },
     {
         "path": "tags/cycling/page/6",
@@ -16322,7 +16437,7 @@
     {
         "path": "/tags/cycling/page/6/index.html",
         "type": "file",
-        "md5": "afe0c6a145a350a172d136dc15f2f013"
+        "md5": "0a38f2251315054abf27f5a33d81f38e"
     },
     {
         "path": "tags/cycling/page/7",
@@ -16332,7 +16447,7 @@
     {
         "path": "/tags/cycling/page/7/index.html",
         "type": "file",
-        "md5": "fa42b598bf7e09b0ead8cf0e101b9da0"
+        "md5": "9075773cfbe73e11d876f40cd1b5e2f4"
     },
     {
         "path": "tags/cycling/page/8",
@@ -16342,7 +16457,7 @@
     {
         "path": "/tags/cycling/page/8/index.html",
         "type": "file",
-        "md5": "afbf48029499e147b2ccf7ebe862cfc9"
+        "md5": "0590a062d8321a35c2e43581ccfdcb8b"
     },
     {
         "path": "tags/datastudio",
@@ -16397,7 +16512,22 @@
     {
         "path": "/tags/drone/index.html",
         "type": "file",
-        "md5": "8ad3adf52fa659f036f3e0749e131943"
+        "md5": "5218b38f824c3a69255b75cc283f2241"
+    },
+    {
+        "path": "tags/drone/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/drone/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/drone/page/2/index.html",
+        "type": "file",
+        "md5": "912a4ec3fd89a8bb272fd37f901e9c01"
     },
     {
         "path": "tags/fat-biking",
@@ -16512,7 +16642,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b68cedc8df62aafc2df5568667c7c49d"
+        "md5": "4de345202a8fa383d8e5bad9ad21a751"
     },
     {
         "path": "tags/miscellaneous",
@@ -16800,6 +16930,16 @@
         "md5": "aeb5c8361542cb99259be0854e16acfc"
     },
     {
+        "path": "tags/videos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/videos/index.html",
+        "type": "file",
+        "md5": "8647a32e1e09dd6c85d0fd1f5111dd12"
+    },
+    {
         "path": "tags/wheels",
         "type": "directory",
         "md5": false
@@ -16892,7 +17032,7 @@
     {
         "path": "/three-months-of-riding-with-the-dji-neo/index.html",
         "type": "file",
-        "md5": "b2cb87abb8b98e5f4ed21e41589aef0f"
+        "md5": "12ff42e855debc5f601302cc1f509276"
     },
     {
         "path": "time-to-retire-a-few-bike-helmets",
@@ -16935,6 +17075,16 @@
         "md5": "da25b7a3549d554899b47b60f95e8b6d"
     },
     {
+        "path": "videos-shot-with-the-dji-neo",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/videos-shot-with-the-dji-neo/index.html",
+        "type": "file",
+        "md5": "4098f7e3a424a3fbe3dbe95853d521f9"
+    },
+    {
         "path": "vive-la-modularite",
         "type": "directory",
         "md5": false
@@ -16962,7 +17112,7 @@
     {
         "path": "/volagi-viaje-2025-update/index.html",
         "type": "file",
-        "md5": "866a9cecf09a3df7ea7a1b62efbd9ad7"
+        "md5": "0f7d95e518680c6e9f37ae8c3e9424ed"
     },
     {
         "path": "volagi-viaje-sl",
