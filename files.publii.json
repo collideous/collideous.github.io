@@ -707,12 +707,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "8ff8fb6a063098db2e1de0199fb154ff"
+        "md5": "2ac91484593e2bc71dc5474f44c1d61c"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2e60a153b431628dacb36a562edb7156"
+        "md5": "325c5d724facce51f35d4286ab394a63"
     },
     {
         "path": "finally-a-new-pc-on-my-desk",
@@ -16132,7 +16132,7 @@
     {
         "path": "/possibly-my-last-bike-purchase/index.html",
         "type": "file",
-        "md5": "8f55cfb81791d59fe8722079f6dbf656"
+        "md5": "648b9ddda83b7dd82dc257c0a173b1af"
     },
     {
         "path": "privacy-statement",
@@ -16177,7 +16177,7 @@
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "c65fd33cff80faed3f5f4f2b9ce41ff9"
+        "md5": "4f7712d2765fb0c2f7ead3efd04f2cc6"
     },
     {
         "path": "shopping-on-aliexpress",
@@ -16202,7 +16202,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e4bf98df0f732bb8a707db669d393633"
+        "md5": "7c37707471abb9f6239e20430a697ddd"
     },
     {
         "path": "sitemap.xsl",
