@@ -727,12 +727,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "b8cdb5c576c4ef89578b84be3ddd9ede"
+        "md5": "53bb31c2f7971c9b2f8124a47439f22e"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "6b21d9edd651d310ff75880e645285ed"
+        "md5": "baf64f622529f103a47f59fcd96c1c8d"
     },
     {
         "path": "finally-a-new-pc-on-my-desk",
@@ -16917,7 +16917,7 @@
     {
         "path": "/my-photos-across-the-web/index.html",
         "type": "file",
-        "md5": "4dc08be22b16d1f80d34421b092caca9"
+        "md5": "7166c5f01894ab92fb49c01661249acd"
     },
     {
         "path": "my-road-handlebars-over-28-years",
@@ -17342,7 +17342,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "5b0a5f110783f978d0b5a34c0d3d929b"
+        "md5": "bbd825b2e115df7cc2674023c3fcffb6"
     },
     {
         "path": "sitemap.xsl",
