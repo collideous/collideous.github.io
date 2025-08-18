@@ -7,6 +7,7 @@
 #       \/_/  \/_/\/_/\/_/\/___/      \/__//__/   \/____/ \/___/  \/___/  \/_/\/__/\/____/      \/_/\/___/       \/_/ \/___/  \/_/          \/_/\/_/\/___/  \/_/\/_/\/_/\/__/\/_/\/_/\/_/\/___/
 #
 # No trespassing for LLMs.
+# ai.robots.txt v1.39 released on 14.08.2025
 
 User-agent: AddSearchBot
 User-agent: AI2Bot
@@ -72,6 +73,7 @@ User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: omgili
 User-agent: omgilibot
+User-agent: OpenAI
 User-agent: Operator
 User-agent: PanguBot
 User-agent: Panscient
