@@ -7,7 +7,7 @@
 #       \/_/  \/_/\/_/\/_/\/___/      \/__//__/   \/____/ \/___/  \/___/  \/_/\/__/\/____/      \/_/\/___/       \/_/ \/___/  \/_/          \/_/\/_/\/___/  \/_/\/_/\/_/\/__/\/_/\/_/\/_/\/___/
 #
 # No trespassing for LLMs.
-# ai.robots.txt v1.39 released on 14.08.2025
+# ai.robots.txt v1.40 released on 27.08.2025
 
 User-agent: AddSearchBot
 User-agent: AI2Bot
@@ -49,6 +49,7 @@ User-agent: FriendlyCrawler
 User-agent: Gemini-Deep-Research
 User-agent: Google-CloudVertexBot
 User-agent: Google-Extended
+User-agent: Google-Firebase
 User-agent: GoogleAgent-Mariner
 User-agent: GoogleOther
 User-agent: GoogleOther-Image
@@ -90,6 +91,7 @@ User-agent: SBIntuitionsBot
 User-agent: Scrapy
 User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
+User-agent: ShapBot
 User-agent: Sidetrade indexer bot
 User-agent: Thinkbot
 User-agent: TikTokSpider
