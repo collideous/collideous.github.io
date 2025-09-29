@@ -7,7 +7,7 @@
 #       \/_/  \/_/\/_/\/_/\/___/      \/__//__/   \/____/ \/___/  \/___/  \/_/\/__/\/____/      \/_/\/___/       \/_/ \/___/  \/_/          \/_/\/_/\/___/  \/_/\/_/\/_/\/__/\/_/\/_/\/_/\/___/
 #
 # No trespassing for LLMs.
-# ai.robots.txt v1.40 released on 27.08.2025
+# ai.robots.txt v1.41 released on 28.09.2025
 
 User-agent: AddSearchBot
 User-agent: AI2Bot
@@ -36,6 +36,7 @@ User-agent: cohere-training-data-crawler
 User-agent: Cotoyogi
 User-agent: Crawlspace
 User-agent: Datenbank Crawler
+User-agent: DeepSeekBot
 User-agent: Devin
 User-agent: Diffbot
 User-agent: DuckAssistBot
@@ -66,6 +67,7 @@ User-agent: meta-externalagent
 User-agent: Meta-ExternalAgent
 User-agent: meta-externalfetcher
 User-agent: Meta-ExternalFetcher
+User-agent: meta-webindexer
 User-agent: MistralAI-User
 User-agent: MistralAI-User/1.0
 User-agent: MyCentralAIScraperBot
@@ -93,6 +95,7 @@ User-agent: SemrushBot-OCOB
 User-agent: SemrushBot-SWA
 User-agent: ShapBot
 User-agent: Sidetrade indexer bot
+User-agent: TerraCotta
 User-agent: Thinkbot
 User-agent: TikTokSpider
 User-agent: Timpibot
