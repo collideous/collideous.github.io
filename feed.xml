@@ -3,7 +3,7 @@
     <title>Old Dog Gone Off Trail</title>
     <link href="https://offtrail.guru/feed.xml" rel="self" />
     <link href="https://offtrail.guru" />
-    <updated>2025-10-22T18:33:19+02:00</updated>
+    <updated>2025-11-09T09:03:14+01:00</updated>
     <author>
         <name>Patrick</name>
     </author>
@@ -22,7 +22,7 @@
             <category term="diy"/>
 
         <updated>2025-10-10T20:15:48+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/113/lights-2025-00.jpg" alt="The Hori 1300 on my Marin Gestalt X12G." />
                     <p class="dropcap">My seven-to-five work schedule makes me an evening cyclist. During the daylight savings period, the sunset is usually late enough to end the day with a good ride. Once we head into October and turn the clocks back at its end, I can only leave the house with bike lights.</p>
@@ -85,7 +85,7 @@
             <category term="blog post"/>
 
         <updated>2025-08-27T18:01:25+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/112/ditched-social-media-00.jpg" alt="Ride on August 4, 2025" />
                     <p class="dropcap">As a <a href="https://simple.wikipedia.org/wiki/Blogger" target="_blank" rel="noopener noreferrer">blogger</a>, it was once a standard practice to republish blog posts across the entire social media landscape. Besides <a href="https://offtrail.guru/feed.xml" target="_blank" rel="noopener noreferrer">RSS</a>, it was recommended to be active on Facebook, Twitter, Instagram, and other such gated platforms. I deleted Facebook and Twitter many years ago. It's been so long, I can't even recall when. Although I hated Facebook's takeover of Instagram and the new features added to compete with Snapchat and TikTok, I kept it and endured years of enshittification. There was still some worth in following small bike builders and other cycling-related accounts.</p>
@@ -117,7 +117,7 @@
             <category term="blog post"/>
 
         <updated>2025-08-12T18:49:51+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/111/site-header-photo.jpg" alt="Riding farm roads." />
                     <p class="dropcap">Cycling photos of mine have been used on various websites over the years, sometimes with my permission, sometimes without. I don't mind either way. If someone has the courtesy to ask, I gladly give my blessing. If not, it's okay too. Searching my name or nickname on <a href="https://images.google.com/" target="_blank" rel="noopener noreferrer">Google Images</a> quickly reveals such usage. Here's a partial list of examples.</p>
@@ -180,7 +180,7 @@
             <category term="bike components"/>
 
         <updated>2025-08-01T11:14:40+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/110/sram-rival-hoods-00.jpg" alt="2025 SRAM Rival Brake Levers" />
                     <p class="dropcap">A package with two SRAM Rival boxes was dropped off at offtrail.guru headquarters. Here's the scoop. The SRAM Red AXS hoods that were initially on my <a href="https://offtrail.guru/nordest-albarda/">Nordest Albarda</a> were <a href="https://offtrail.guru/another-round-of-changes/">transferred</a> to my <a href="https://offtrail.guru/ritte-snob-disc/">Ritte Snob Disc</a>, from which I stole them to build my 2025 Marin Gestalt X12G. They will be going back to the Ritte at the end of the year. New 2025 SRAM Force AXS hoods are going to take their place. To keep the <a href="https://offtrail.guru/marin-gestalt-x12b/">X12B</a> and <a href="https://offtrail.guru/marin-gestalt-x12g/">X12G</a> similar, I decided to replace the 2-year-old Rival hoods (model ID <a href="https://www.sram.com/en/sram/models/ed-riv-d1" target="_blank" rel="noopener noreferrer">ED-RIV-D1</a>) with brand-spanking-new brake levers (model ID <a href="https://www.sram.com/en/sram/models/ed-riv-e1" target="_blank" rel="noopener noreferrer">ED-RIV-E1</a>).</p>
@@ -245,7 +245,7 @@
             <category term="bike"/>
 
         <updated>2025-07-22T18:57:35+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/109/2023-2025-marin-gestalt-00.jpg" alt="Dropping into Biel on my Marin Gestalt X12G." />
                     <p class="dropcap">Besides the obvious color change, the <a href="https://offtrail.guru/marin-gestalt-x12g/">2025</a> Marin Gestalt X10 has undergone slight changes from the <a href="https://offtrail.guru/marin-gestalt-x12b/">2023</a> model. The microSHIFT Advent X groupset was replaced by Sword, and the blackwall Vee Tire <a href="https://veetireco.de/en/products/rocket-man" target="_blank" rel="noopener noreferrer">Rocket Man</a> tires were swapped with skinwall 700Cx45 <a href="https://veetireco.de/en/products/quickstyk?_psq=Quickstyx&amp;_v=1.0" target="_blank" rel="noopener noreferrer">Quickstyx</a> tires. Since I only used frame, fork, headset, and thru-axles, let's take a look at what changed between 2023 and 2025. The biggest change is the fork. It's an entirely new fork. It is beefier, and the fork legs have a more triangular shape. The thread in the fork crown to attach a fender moved from the front to the underside of the crown. The steerer tube of the 2023 fork had a 45° shoulder and doesn't require a race, while the 2025 fork uses one. Personally, I prefer the more rounded shape of the old fork.</p>
@@ -308,7 +308,7 @@
             <category term="bike"/>
 
         <updated>2025-06-15T08:48:34+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/108/gestalt-x12g-00.jpg" alt="Marin Gestalt X12G" />
                     <p class="dropcap">When you read a press release about a new road or gravel bike, do they ever talk about geometry? Hardly ever. The latest and greatest road bike is promoted as faster, stiffer, and more aerodynamic than its predecessor. Most marketing is race-focused and speed-obsessed. Claimed reductions in aerodynamic drag and the watts saved, as a result, are things that a weekend warrior like myself cannot verify and will not notice while riding. When companies issue such press releases to online bike publications, I greet them with a massive yawn. The bike industry is turning wrong by focusing on race-only bikes for World Tour and domestic professionals, ignoring that most cyclists don't race.</p>
@@ -320,7 +320,7 @@
                     <p><img src="https://offtrail.guru/media/posts/108/gestalt-x12g-00.jpg" class="type:primaryImage" alt="Marin Gestalt X12G" /></p>
                 <p class="dropcap">When you read a press release about a new road or gravel bike, do they ever talk about geometry? Hardly ever. The latest and greatest road bike is promoted as faster, stiffer, and more aerodynamic than its predecessor. Most marketing is race-focused and speed-obsessed. Claimed reductions in aerodynamic drag and the watts saved, as a result, are things that a weekend warrior like myself cannot verify and will not notice while riding. When companies issue such press releases to online bike publications, I greet them with a massive yawn. The bike industry is turning wrong by focusing on race-only bikes for World Tour and domestic professionals, ignoring that most cyclists don't race.</p>
 
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/108/gallery/gestalt-x12g-01.jpg" data-size="3844x2162"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/108/gallery/gestalt-x12g-01-thumbnail.webp" alt="2025 Marin Gestalt X12G" width="720" height="405"></a>
 <figcaption>Drive-side</figcaption>
 </figure>
@@ -338,7 +338,7 @@
 </figure>
 </div></div>
 <p>Gravel bikes, in particular, serve as "do-it-all" bikes for most. Yet somehow, the bikes on which Pogačar wins the Tour and van der Poel wins the Gravel WC should be the bikes I want to ride. Tell you what, a 56-year-old dude with a 7-to-5 job can't do anything worse for his health and enjoyment than riding a bike built for a 26-year-old professional athlete. Strangely, many seem to think what's good for a pro is good for them. The aerodynamic advantages that save Pogačar a handful of seconds up the Mont Ventoux are meaningless for Joe Average. What truly matters is how a bike feels and how it handles. It's utterly unimportant if I can ride a particular loop 0.05 km/h faster. What matters, however, is how I feel when I get home. Am I beaten up because the frame is too stiff, or do I come back with a smile because the frame is designed for comfort?</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="5">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="5">
 <figure class="gallery__item"><a href="https://offtrail.guru/media/posts/108/gallery/gestalt-x12g-11.jpg" data-size="3915x2202"><img decoding="async" loading="lazy" src="https://offtrail.guru/media/posts/108/gallery/gestalt-x12g-11-thumbnail.webp" alt="Easton EC70 AX Carbon handlebar" width="720" height="405"></a>
 <figcaption>Handlebar</figcaption>
 </figure>
@@ -380,7 +380,7 @@
 </tr>
 <tr>
 <td>Mileage</td>
-<td colspan="2">1,479.8 km</td>
+<td colspan="2">2,414.0 km</td>
 </tr>
 <tr style="background-color: #ced4d9;">
 <th colspan="3">Update History</th>
@@ -512,7 +512,7 @@
             <category term="bike"/>
 
         <updated>2025-06-07T19:05:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/107/last-bike-purchase.jpg" alt="2023 &amp; 2025 Marin Gestalt X10" />
                     <p class="dropcap">I recently bought a second Marin Gestalt X10 to build my <a href="https://offtrail.guru/marin-gestalt-x12g/">X12G</a>. The X12G is very similar to my 2023 <a href="https://offtrail.guru/marin-gestalt-x12b/">X12B</a>. I set it up with several on-hand parts, both used and new, and a bunch of newly purchased ones, just like I always do. I turn 56 this year, and the Gestalt X12G is possibly the last bike I built. I have a fleet of seven complete bikes and an incomplete road bike, the <a href="https://offtrail.guru/ritte-snob-disc/">Ritte Snob Disc</a>. There's a fat-bike, a single-speed, and a 27.5+ geared MTB for trail riding. Then, there are four drop-bar bikes for road and gravel. All of them can be ridden for several more years. If I rebuild the Ritte Snob Disc and ride each of my drop-bar bikes for 3 years, that's 15 years. I'll be 71 years old.</p>
@@ -665,7 +665,7 @@
         <media:content url="https://offtrail.guru/media/posts/106/favorite-tires-00.jpg" medium="image" />
 
         <updated>2025-05-24T13:08:00+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/106/favorite-tires-00.jpg" alt="René Herse Antelope Hill and Hatcher Pass tires." />
                     <p class="dropcap">In the old days, road cyclists firmly believed that tires needed to be narrow and inflated to ridiculous pressures to be fast. 25 mm wide tires used to be the de facto standard. In more recent times, many warmed up to 28 mm tires. While René Herse has been testing and comparing much <a href="https://www.renehersecycles.com/how-wide-a-tire-should-i-ride/" target="_blank" rel="noopener noreferrer">wider tires</a> for many years, bike publications have only very recently discovered that wide tires don't slow you down. Cyclingnews now says that "<a href="https://www.cyclingnews.com/features/lab-tested-40mm-road-tyres-are-faster-for-nearly-everyone-and-heres-why/" target="_blank" rel="noopener noreferrer">40mm road tires are faster for nearly everyone</a>".</p>
@@ -820,7 +820,7 @@
             <category term="cameras"/>
 
         <updated>2025-04-09T11:30:14+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/105/dji-neo-scenery.jpg" alt="The Weisse Mauer Trail." />
                     <p class="dropcap">You can't let it rip when riding downhill with a <a href="https://offtrail.guru/dji-neo-the-perfect-cyclists-drone/">DJI Neo</a> in tow, particularly in the woods. I slow my speed and adjust my lines with the drone in mind. If branches block the Neo's flight path, I slow way down. If I ride around a tree, I slow down and ride around it the farthest possible. It's not a tool to capture the action, but a great tool to capture the <a href="https://www.flickr.com/search/?user_id=collideous&amp;tags=06032025&amp;view_all=1" target="_blank" rel="noopener noreferrer">scenery</a>.</p>
@@ -854,7 +854,7 @@
             <category term="bike components"/>
 
         <updated>2025-02-05T19:29:51+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://offtrail.guru/media/posts/104/volagi-viaje-2025-00.jpg" alt="Volagi Viaje 2025 Update" />
                     <p class="dropcap">The creme-colored <a href="https://offtrail.guru/volagi-viaje-sl/">Volagi Viaje SL</a> steel bike saw several updates in 2023 and <a href="https://offtrail.guru/volagi-viaje-2024-update/">2024</a>. The first round of changes was in October 2023, when I switched it from a 2x12 to a 1x12 drivetrain. In March 2024, I swapped derailleurs, and in October, I <a href="https://offtrail.guru/updating-brakes-round-two/">replaced</a> the Hope calipers. I have a new project in mind for 2025 for which I needed some of the Volagi's components. In doing so, I decided to disassemble my <a href="https://offtrail.guru/ritte-snob-disc/">Ritte Snob Disc</a>. I moved the carbon Rotor Aldhu cranks, the spider, the SRAM Red derailleur, the saddle, and the seat post from the Ritte to the Volagi. I also bought a new 4-bolt, 44T Rotor QRing, and a WolfTooth LoneWolf chain guide.</p>
